@@ -9,7 +9,6 @@ using Xamarin.Forms.Xaml;
 
 namespace junming
 {
-    [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class HomeTabPage : TabbedPage
     {
         public HomeTabPage ()

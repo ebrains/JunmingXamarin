@@ -50,7 +50,7 @@
                 </Grid>
 
                 <!-- CLOSE ICON -->
-                <Label
+                <!--<Label
 						Grid.Row="0"
 						Style="{ StaticResource IconCloseLabelStyle }" 
 						HorizontalOptions="End"
@@ -60,7 +60,7 @@
                     <Label.GestureRecognizers>
                         <TapGestureRecognizer Tapped="OnCloseButtonClicked" />
                     </Label.GestureRecognizers>
-                </Label>
+                </Label>-->
 
                 <!--CLAIM TEXT-->
                 <StackLayout
@@ -115,7 +115,7 @@
 							VerticalOptions="StartAndExpand" >
 
                         <!---EMAIL FIELD-->
-                        <Entry
+                        <Entry x:Name="usernameEntry"
 								Placeholder="E-mail"
 								TextColor="{ DynamicResource OverImageTextColor }"
 								Style="{StaticResource ArtinaLoginEntryStyle}" />
@@ -130,7 +130,7 @@
                     </StackLayout>
 
                     <!---PASSWORD FIELD-->
-                    <Entry 
+                    <Entry x:Name="passwordEntry"
 							Grid.Row="2"
 							Placeholder="Password"
 							IsPassword="true"

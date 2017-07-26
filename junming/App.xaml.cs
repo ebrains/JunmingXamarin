@@ -6,18 +6,34 @@ using Xamarin.Forms.Xaml;
 
 namespace junming
 {
-	//[XamlCompilation (XamlCompilationOptions.Skip)]
-	public partial class App : Application
+
+    public partial class App : Application
 	{
-		public static MasterDetailPage MasterDetailPage;
+        public static bool IsUserLoggedIn { get; set; }
+        
+
+        public static MasterDetailPage MasterDetailPage;
 
 		public App()
 		{
-			InitializeComponent();
+            InitializeComponent();
 
-			MainPage = GetMainPage();
+            if (!IsUserLoggedIn)
+            {
+                MainPage = new NavigationPage(new LoginPage());
 
-			MainPage.SetValue(NavigationPage.BarTextColorProperty, Color.White);
+                MainPage.SetValue(NavigationPage.BarTextColorProperty, Color.White);
+            }
+            else
+            {
+                MainPage = new NavigationPage(new junming.HomeTabPage());
+
+                MainPage.SetValue(NavigationPage.BarTextColorProperty, Color.White);
+            }
+
+            //MainPage = GetMainPage();
+
+            
 		}
 
 		public static Page GetMainPage()

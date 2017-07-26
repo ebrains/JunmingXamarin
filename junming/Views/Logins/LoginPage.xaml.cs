@@ -1,5 +1,4 @@
-﻿using junming.ViewModels;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,7 +15,7 @@ namespace junming
         public LoginPage()
         {
             InitializeComponent();
-            NavigationPage.SetHasNavigationBar(this, false);
+            //NavigationPage.SetHasNavigationBar(this, false);
         }
 
         //public async void OnSignupStackTapped(object sender, EventArgs e)
@@ -31,10 +30,10 @@ namespace junming
         //    await Navigation.PushAsync(signUpPage);
         //}
 
-        async void OnCloseButtonClicked(object sender, EventArgs args)
-        {
-            await Navigation.PopModalAsync();
-        }
+        //async void OnCloseButtonClicked(object sender, EventArgs args)
+        //{
+        //    await Navigation.PopModalAsync();
+        //}
 
         public static bool IsPageInNavigationStack<TPage>(INavigation navigation) where TPage : Page
         {
@@ -53,10 +52,9 @@ namespace junming
         async void OnLoginButtonClicked(object sender, EventArgs e)
         {
 
-
-            //Navigation.InsertPageBefore(new HomeTabPage(), this);
-            //await Navigation.PopAsync();
-            await Navigation.PushAsync(new HomeTabPage());
+            Navigation.InsertPageBefore(new HomeTabPage(), this);
+            await Navigation.PopAsync();
+            //await Navigation.PushModalAsync(new WelcomeStarterPage());
 
             //var user = new User
             //{
@@ -68,7 +66,7 @@ namespace junming
             //if (isValid)
             //{
             //    App.IsUserLoggedIn = true;
-            //    Navigation.InsertPageBefore(new MainPage(), this);
+            //    Navigation.InsertPageBefore(new HomeTabPage(), this);
             //    await Navigation.PopAsync();
             //}
             //else
@@ -76,12 +74,11 @@ namespace junming
             //    messageLabel.Text = "Login failed";
             //    passwordEntry.Text = string.Empty;
             //}
+        }
 
-            //bool AreCredentialsCorrect(User user)
-            //{
-            //    return user.Username == Constants.Username && user.Password == Constants.Password;
-            //}
-
+        bool AreCredentialsCorrect(User user)
+        {
+            return user.Username == "xamarin" && user.Password == "password";
         }
     }
 }
