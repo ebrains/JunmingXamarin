@@ -51,7 +51,7 @@ namespace junming
 
         async void OnLoginButtonClicked(object sender, EventArgs e)
         {
-
+            
             Navigation.InsertPageBefore(new HomeTabPage(), this);
             await Navigation.PopAsync();
             //await Navigation.PushModalAsync(new WelcomeStarterPage());
