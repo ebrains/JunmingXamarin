@@ -147,7 +147,7 @@
 						Padding="20"
 						Grid.Row="3" >
 
-                    <artina:Button
+                    <!--<artina:Button
 							Style="{StaticResource PrimaryActionButtonStyle}"
 							BackgroundColor="#3b5998"
 							VerticalOptions="End"
@@ -159,7 +159,7 @@
 								PortraitPhone=Fill,
 								LandscapePhone=Center,
 								PortraitTablet=Fill,
-								LandscapeTablet=Center }"/>
+								LandscapeTablet=Center }"/>-->
 
                     <artina:Button Clicked="OnLoginButtonClicked"
 							Style="{StaticResource PrimaryActionButtonStyle}"
