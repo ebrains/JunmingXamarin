@@ -4,7 +4,23 @@
              x:Class="junming.Profile">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="profile!" />
+            <Grid >
+
+                <!-- BACKGROUND IMAGE -->
+                <Image 
+			BackgroundColor="Black"  
+			Source="{ StaticResource SocialHeaderBackgroundImage0 }" 
+			IsOpaque="true" 
+			Opacity="1"
+			VerticalOptions="Start"
+			Aspect="AspectFill">
+                    <Image.HeightRequest>
+                        <OnIdiom x:TypeArguments="x:Double"
+						Phone="300"
+						Tablet="400"/>
+                    </Image.HeightRequest>
+                </Image>
+            </Grid>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

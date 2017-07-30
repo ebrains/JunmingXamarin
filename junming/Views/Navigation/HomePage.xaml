@@ -4,21 +4,23 @@
              x:Class="junming.HomePage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Image UriSource Xaml" />
+   
+                <Label Text="Image UriSource Xaml" />
 
-            <Image Source="http://xamarin.com/content/images/pages/forms/example-app.png" />
+                <Image Source="http://xamarin.com/content/images/pages/forms/example-app.png" />
 
-            <!--- Alternatively you can use attached property to manually alter the cache time-->
-            <Image IsVisible="false">
-                <Image.Source>
-                    <UriImageSource 
+                <!--- Alternatively you can use attached property to manually alter the cache time-->
+                <Image IsVisible="false">
+                    <Image.Source>
+                        <UriImageSource 
     			Uri="http://xamarin.com/content/images/pages/forms/example-app.png"
-    			CacheValidity="10:00:00.0"
-    		/>
-                </Image.Source>
-            </Image>
+    			CacheValidity="10:00:00.0"/>
+                    </Image.Source>
+                </Image>
 
-            <Label Text="example-app.png gets downloaded from xamarin.com" />
+                <Label Text="example-app.png gets downloaded from xamarin.com" />
+   
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
