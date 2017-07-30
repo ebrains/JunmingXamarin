@@ -9,9 +9,18 @@ namespace junming
     {
         public ProductItemViewPage()
         {
-            //InitializeComponent();
+            InitializeComponent();
 
             BindingContext = SampleData.Products[0];
+        }
+
+
+        async void OnLoginButtonClicked(object sender, EventArgs e)
+        {
+
+            Navigation.InsertPageBefore(new ProductOrder(), this);
+            //Navigation.PushAsync(ProductOrder);
+            await Navigation.PopAsync();
         }
 
         //private async void OnImageTapped(Object sender, EventArgs e)
