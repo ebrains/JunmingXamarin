@@ -1,10 +1,101 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="junming.LandRental">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+	xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+	x:Class="junming.LandRental"
+	xmlns:artina="clr-namespace:UXDivers.Artina.Shared;assembly=UXDivers.Artina.Shared"
+	BackgroundColor="{DynamicResource BasePageColor}"
+	Title="土地租赁">
+
+
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin Forms!" />
-        </StackLayout>
+        <ScrollView
+			Padding="20,10">
+
+            <Grid
+				RowSpacing="10">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="170" />
+                    <RowDefinition Height="170" />
+                    <RowDefinition Height="170" />
+                    <RowDefinition Height="170" />
+                </Grid.RowDefinitions>
+
+                <!-- LIGHT THEME -->
+                <Grid
+					Grid.Row="0"
+					VerticalOptions="Center">
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Image
+						Grid.Column="0"
+						VerticalOptions="Center"
+						HorizontalOptions="Center"
+						Source="farm01.png"/>
+
+                    <StackLayout
+						Grid.Column="1"
+						VerticalOptions="Center">
+                        <Label 
+							Text="成都青羊区"
+							FontAttributes="Bold"
+							HorizontalTextAlignment="Center"/>
+                        <Label 
+							Text="峻铭1号农场"
+							FontSize="14"
+							HorizontalTextAlignment="Center"/>
+                        <artina:Button
+							Text="详细" 
+							WidthRequest="100"
+							HorizontalOptions="Center"
+							Style="{ StaticResource PrimaryActionButtonStyle }"
+							Clicked="OnBtnLightClicked"/>
+                    </StackLayout>
+                </Grid>
+
+                <!-- DARK THEME -->
+                <Grid
+					Grid.Row="1"
+					VerticalOptions="Center"
+					HeightRequest="220">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Image
+						Grid.Column="0"
+						VerticalOptions="Center"
+						HorizontalOptions="Center"
+						Source="farm02.jpg"/>
+
+                    <StackLayout 
+						Grid.Column="1"
+						VerticalOptions="Center">
+                        <Label 
+							Text="成都高新区"
+							FontAttributes="Bold"
+							HorizontalTextAlignment="Center"/>
+
+                        <Label 
+							Text="峻铭2号农场"
+							FontSize="14"
+							HorizontalTextAlignment="Center"/>
+
+                        <artina:Button
+							Text="详细"
+							WidthRequest="100"
+							HorizontalOptions="Center"
+							Style="{ StaticResource PrimaryActionButtonStyle }"
+							Clicked="OnBtnDarkClicked"/>
+                    </StackLayout>
+                </Grid>
+            </Grid>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

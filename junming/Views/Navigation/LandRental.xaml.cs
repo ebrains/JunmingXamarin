@@ -16,5 +16,15 @@ namespace junming
         {
             InitializeComponent();
         }
+
+        public void OnBtnLightClicked()
+        {
+            //Application.Current.Resources.MergedWith = typeof(grialfull.GrialLightTheme);
+        }
+
+        public void OnBtnDarkClicked()
+        {
+            //Application.Current.Resources.MergedWith = typeof(grialfull.GrialDarkTheme);
+        }
     }
 }

@@ -129,7 +129,7 @@
 			Grid.Row="2"
 			Margin="20,10,20,20"
 			Style="{StaticResource PrimaryActionButtonStyle}" 
-			Text="Add to cart"
+			Text="添加到购物车"
 			WidthRequest="{ artina:OnOrientationDouble
 				LandscapePhone=200,
 				LandscapeTablet=400 }"

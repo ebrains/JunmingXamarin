@@ -2,7 +2,7 @@
 <ContentPage 
 	xmlns="http://xamarin.com/schemas/2014/forms"
 	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-	Title="Login"
+	Title="登陆"
 	x:Class="junming.LoginPage"
 	xmlns:artina="clr-namespace:UXDivers.Artina.Shared;assembly=UXDivers.Artina.Shared"
 	xmlns:local="clr-namespace:junming;assembly=junming">
@@ -71,7 +71,7 @@
 						VerticalOptions="Center">
                     <Label
 							LineBreakMode="WordWrap"
-							Text="Login or register using your&#x0a;email and password."
+							Text="欢迎使用峻铭App"
 							TextColor="{ DynamicResource OverImageTextColor }"
 							VerticalTextAlignment="Center"
 							FontAttributes="Bold">
@@ -84,7 +84,7 @@
 
                     <Label
 							LineBreakMode="WordWrap"
-							Text="Login or register using your &#x0a; email and password."
+							Text="用户名或邮箱登陆或者注册."
 							TextColor="{ DynamicResource OverImageTextColor }"
 							VerticalTextAlignment="Center">
                         <Label.FontSize>
@@ -116,7 +116,7 @@
 
                         <!---EMAIL FIELD-->
                         <Entry x:Name="usernameEntry"
-								Placeholder="E-mail"
+								Placeholder="用户名或邮箱"
 								TextColor="{ DynamicResource OverImageTextColor }"
 								Style="{StaticResource ArtinaLoginEntryStyle}" />
 
@@ -132,7 +132,7 @@
                     <!---PASSWORD FIELD-->
                     <Entry x:Name="passwordEntry"
 							Grid.Row="2"
-							Placeholder="Password"
+							Placeholder="密码"
 							IsPassword="true"
 							Style="{StaticResource ArtinaLoginEntryStyle}" 
 							VerticalOptions="StartAndExpand" />
@@ -164,7 +164,7 @@
                     <artina:Button Clicked="OnLoginButtonClicked"
 							Style="{StaticResource PrimaryActionButtonStyle}"
 							VerticalOptions="End"
-							Text="Login"
+							Text="登陆"
 							WidthRequest="{ artina:OnOrientationDouble
 								LandscapePhone=200,
 								LandscapeTablet=400 }"

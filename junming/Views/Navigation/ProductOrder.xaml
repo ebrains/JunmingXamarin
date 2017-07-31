@@ -3,10 +3,10 @@
 		xmlns="http://xamarin.com/schemas/2014/forms" 
 		xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
 		xmlns:artina="clr-namespace:UXDivers.Artina.Shared;assembly=UXDivers.Artina.Shared"
-		xmlns:local="clr-namespace:junming;assembly=grialfull"
+		xmlns:local="clr-namespace:junming;assembly=junming"
 		
 		x:Class="junming.ProductOrder"
-		Title="Product Order"
+		Title="产品购买"
 		BackgroundColor="{ DynamicResource BasePageColor }">
     <ContentPage.Content>
         <ScrollView
@@ -35,7 +35,7 @@
                     <Entry
 						Grid.Column="0"	
 						HeightRequest="40"
-						Placeholder="Name"
+						Placeholder="姓名"
 						BackgroundColor="{ DynamicResource PlaceholderColorEntry }"
 						artina:EntryProperties.PlaceholderColor="{ DynamicResource BaseTextColor }"/>
 
@@ -44,7 +44,7 @@
 						Grid.Column="1"
 						Margin="6,0,0,0"
 						HeightRequest="40"
-						Placeholder="Last Name"
+						Placeholder="其他"
 						BackgroundColor="{ DynamicResource PlaceholderColorEntry }"
 						artina:EntryProperties.PlaceholderColor="{ DynamicResource BaseTextColor }"/>
                 </Grid>
@@ -59,7 +59,7 @@
                     <Entry
 						Grid.Column="0"
 						HeightRequest="40"
-						Placeholder="Card Number"
+						Placeholder="卡号"
 						BackgroundColor="{ DynamicResource PlaceholderColorEntry }"
 						artina:EntryProperties.PlaceholderColor="{ DynamicResource BaseTextColor }"/>
 
@@ -68,7 +68,7 @@
 						Grid.Column="1"
 						Margin="6,0,0,0"
 						HeightRequest="40"
-						Placeholder="CVV"
+						Placeholder="验证码"
 						BackgroundColor="{ DynamicResource PlaceholderColorEntry }"
 						artina:EntryProperties.PlaceholderColor="{ DynamicResource BaseTextColor }"/>
                 </Grid>
@@ -77,7 +77,7 @@
                 <Entry
 						Grid.Row="2"
 						HeightRequest="40"
-						Placeholder="Expriation Date"
+						Placeholder="电话"
 						BackgroundColor="{ DynamicResource PlaceholderColorEntry }"
 						artina:EntryProperties.PlaceholderColor="{ DynamicResource BaseTextColor }"/>
 
@@ -85,7 +85,7 @@
                 <Entry
 						Grid.Row="3"
 						HeightRequest="40"
-						Placeholder="Address Line 1"
+						Placeholder="地址1"
 						BackgroundColor="{ DynamicResource PlaceholderColorEntry }"
 						artina:EntryProperties.PlaceholderColor="{ DynamicResource BaseTextColor }"/>
 
@@ -93,7 +93,7 @@
                 <Entry
 						Grid.Row="4"
 						HeightRequest="40"
-						Placeholder="Address Line 2"
+						Placeholder="地址2"
 						BackgroundColor="{ DynamicResource PlaceholderColorEntry }"
 						artina:EntryProperties.PlaceholderColor="{ DynamicResource BaseTextColor }"/>
 
@@ -156,7 +156,7 @@
 						Grid.Row="6"
 						Style="{StaticResource PrimaryActionButtonStyle}"
 						VerticalOptions="End"
-						Text="Buy"
+						Text="购买"
 						WidthRequest="{ artina:OnOrientationDouble
 							LandscapePhone=200,
 							LandscapeTablet=400 }"

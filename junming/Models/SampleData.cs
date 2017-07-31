@@ -706,8 +706,8 @@ namespace junming
         {
             return new List<Product> {
                 new Product {
-                    Name            = "Flannel Shirt",
-                    Description     = "Classic 90's Skateboarding style shirt. Feel like Pat Duffy or even flow like Edie from Pearl Jam. With that casual grunge style this is the shirt you need.",
+                    Name            = "番茄",
+                    Description     = "产自1号大棚",
                     Image           = SampleData.ProductsImagesList[0],
                     Price           = "$39.90",
                     ThumbnailHeight = "100",
@@ -716,8 +716,8 @@ namespace junming
                 },
 
                 new Product {
-                    Name            = "Bomber Jacket",
-                    Description     = "Top gun in every gentelman closet. This leather jacket will make you feel like Tom Cruise without that crazy look. Be a good boy make mom proud.",
+                    Name            = "草莓",
+                    Description     = "产自2号大棚",
                     Image           = SampleData.ProductsImagesList[1],
                     Price           = "$89.90",
                     ThumbnailHeight = "100",
@@ -726,8 +726,8 @@ namespace junming
                 },
 
                 new Product {
-                    Name            = "Classic Black",
-                    Description     = "Get that instant normal look that everybody wants. Blend with the humans, it will make you feel less strange. You know you are not normal",
+                    Name            = "苹果",
+                    Description     = "产自3号大棚",
                     Image           = SampleData.ProductsImagesList[2],
                     Price           = "$49.90",
                     ThumbnailHeight = "100",
@@ -736,8 +736,8 @@ namespace junming
                 },
 
                 new Product {
-                    Name            = "Flowers Shirt",
-                    Description     = "Our newest swim tees with a much looser fit than traditional rash guard for yet more comfort and versatility, is well known for great fit, function and colors.",
+                    Name            = "桃子",
+                    Description     = "产自4号大棚",
                     Image           = SampleData.ProductsImagesList[3],
                     Price           = "$29.90",
                     ThumbnailHeight = "100",
@@ -746,8 +746,8 @@ namespace junming
                 },
 
                 new Product {
-                    Name            = "Sccotish Shirt",
-                    Description     = "Not just another common shirt. Upgrade your sexappeal looking good. Rock and roll never gets old. Eric Burdon wears a shirt like this one when he wants to lood good. ",
+                    Name            = "土豆",
+                    Description     = "产自5号大棚",
                     Image           = SampleData.ProductsImagesList[4],
                     Price           = "$34.90",
                     ThumbnailHeight = "100",
@@ -756,8 +756,8 @@ namespace junming
                 },
 
                 new Product {
-                    Name            = "Silk Shirt",
-                    Description     = "Let's face it, this shirt does not look good on anybody. But how many times do you buy something that you don't need? Buy this one feel happy for a minute then dismiss it. ",
+                    Name            = "茄子",
+                    Description     = "产自6号大棚",
                     Image           = SampleData.ProductsImagesList[5],
                     Price           = "$39.90",
                     ThumbnailHeight = "100",
@@ -766,8 +766,8 @@ namespace junming
                 },
 
                 new Product {
-                    Name            = "Entrepreneur Shirt",
-                    Description     = "Do you have a meeting? Do you want to look good reliable and confident? This is the shirt that you need for those horrible meetings trying to find someone that lend you some money.",
+                    Name            = "白菜",
+                    Description     = "产自7号大棚",
                     Image           = SampleData.ProductsImagesList[6],
                     Price           = "$65.90",
                     ThumbnailHeight = "100",
@@ -776,8 +776,8 @@ namespace junming
                 },
 
                 new Product {
-                    Name            = "Soldier Shirt",
-                    Description     = "Now is your time. Wanna be the alpha male of your local bar? Common! Get this shirt now and feel like a sexy Rambo on your next date. Remember that girls loves peacefull soliders.",
+                    Name            = "黄瓜",
+                    Description     = "产自8号大棚",
                     Image           = SampleData.ProductsImagesList[7],
                     Price           = "$46.90",
                     ThumbnailHeight = "1000",
