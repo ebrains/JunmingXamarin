@@ -26,1732 +26,6 @@ namespace junming.Droid
 		
 		public static void UpdateIdValues()
 		{
-			global::BottomNavigationBar.Resource.Animation.abc_fade_in = global::junming.Droid.Resource.Animation.abc_fade_in;
-			global::BottomNavigationBar.Resource.Animation.abc_fade_out = global::junming.Droid.Resource.Animation.abc_fade_out;
-			global::BottomNavigationBar.Resource.Animation.abc_grow_fade_in_from_bottom = global::junming.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
-			global::BottomNavigationBar.Resource.Animation.abc_popup_enter = global::junming.Droid.Resource.Animation.abc_popup_enter;
-			global::BottomNavigationBar.Resource.Animation.abc_popup_exit = global::junming.Droid.Resource.Animation.abc_popup_exit;
-			global::BottomNavigationBar.Resource.Animation.abc_shrink_fade_out_from_bottom = global::junming.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
-			global::BottomNavigationBar.Resource.Animation.abc_slide_in_bottom = global::junming.Droid.Resource.Animation.abc_slide_in_bottom;
-			global::BottomNavigationBar.Resource.Animation.abc_slide_in_top = global::junming.Droid.Resource.Animation.abc_slide_in_top;
-			global::BottomNavigationBar.Resource.Animation.abc_slide_out_bottom = global::junming.Droid.Resource.Animation.abc_slide_out_bottom;
-			global::BottomNavigationBar.Resource.Animation.abc_slide_out_top = global::junming.Droid.Resource.Animation.abc_slide_out_top;
-			global::BottomNavigationBar.Resource.Animation.design_bottom_sheet_slide_in = global::junming.Droid.Resource.Animation.design_bottom_sheet_slide_in;
-			global::BottomNavigationBar.Resource.Animation.design_bottom_sheet_slide_out = global::junming.Droid.Resource.Animation.design_bottom_sheet_slide_out;
-			global::BottomNavigationBar.Resource.Animation.design_fab_in = global::junming.Droid.Resource.Animation.design_fab_in;
-			global::BottomNavigationBar.Resource.Animation.design_fab_out = global::junming.Droid.Resource.Animation.design_fab_out;
-			global::BottomNavigationBar.Resource.Animation.design_snackbar_in = global::junming.Droid.Resource.Animation.design_snackbar_in;
-			global::BottomNavigationBar.Resource.Animation.design_snackbar_out = global::junming.Droid.Resource.Animation.design_snackbar_out;
-			global::BottomNavigationBar.Resource.Attribute.actionBarDivider = global::junming.Droid.Resource.Attribute.actionBarDivider;
-			global::BottomNavigationBar.Resource.Attribute.actionBarItemBackground = global::junming.Droid.Resource.Attribute.actionBarItemBackground;
-			global::BottomNavigationBar.Resource.Attribute.actionBarPopupTheme = global::junming.Droid.Resource.Attribute.actionBarPopupTheme;
-			global::BottomNavigationBar.Resource.Attribute.actionBarSize = global::junming.Droid.Resource.Attribute.actionBarSize;
-			global::BottomNavigationBar.Resource.Attribute.actionBarSplitStyle = global::junming.Droid.Resource.Attribute.actionBarSplitStyle;
-			global::BottomNavigationBar.Resource.Attribute.actionBarStyle = global::junming.Droid.Resource.Attribute.actionBarStyle;
-			global::BottomNavigationBar.Resource.Attribute.actionBarTabBarStyle = global::junming.Droid.Resource.Attribute.actionBarTabBarStyle;
-			global::BottomNavigationBar.Resource.Attribute.actionBarTabStyle = global::junming.Droid.Resource.Attribute.actionBarTabStyle;
-			global::BottomNavigationBar.Resource.Attribute.actionBarTabTextStyle = global::junming.Droid.Resource.Attribute.actionBarTabTextStyle;
-			global::BottomNavigationBar.Resource.Attribute.actionBarTheme = global::junming.Droid.Resource.Attribute.actionBarTheme;
-			global::BottomNavigationBar.Resource.Attribute.actionBarWidgetTheme = global::junming.Droid.Resource.Attribute.actionBarWidgetTheme;
-			global::BottomNavigationBar.Resource.Attribute.actionButtonStyle = global::junming.Droid.Resource.Attribute.actionButtonStyle;
-			global::BottomNavigationBar.Resource.Attribute.actionDropDownStyle = global::junming.Droid.Resource.Attribute.actionDropDownStyle;
-			global::BottomNavigationBar.Resource.Attribute.actionLayout = global::junming.Droid.Resource.Attribute.actionLayout;
-			global::BottomNavigationBar.Resource.Attribute.actionMenuTextAppearance = global::junming.Droid.Resource.Attribute.actionMenuTextAppearance;
-			global::BottomNavigationBar.Resource.Attribute.actionMenuTextColor = global::junming.Droid.Resource.Attribute.actionMenuTextColor;
-			global::BottomNavigationBar.Resource.Attribute.actionModeBackground = global::junming.Droid.Resource.Attribute.actionModeBackground;
-			global::BottomNavigationBar.Resource.Attribute.actionModeCloseButtonStyle = global::junming.Droid.Resource.Attribute.actionModeCloseButtonStyle;
-			global::BottomNavigationBar.Resource.Attribute.actionModeCloseDrawable = global::junming.Droid.Resource.Attribute.actionModeCloseDrawable;
-			global::BottomNavigationBar.Resource.Attribute.actionModeCopyDrawable = global::junming.Droid.Resource.Attribute.actionModeCopyDrawable;
-			global::BottomNavigationBar.Resource.Attribute.actionModeCutDrawable = global::junming.Droid.Resource.Attribute.actionModeCutDrawable;
-			global::BottomNavigationBar.Resource.Attribute.actionModeFindDrawable = global::junming.Droid.Resource.Attribute.actionModeFindDrawable;
-			global::BottomNavigationBar.Resource.Attribute.actionModePasteDrawable = global::junming.Droid.Resource.Attribute.actionModePasteDrawable;
-			global::BottomNavigationBar.Resource.Attribute.actionModePopupWindowStyle = global::junming.Droid.Resource.Attribute.actionModePopupWindowStyle;
-			global::BottomNavigationBar.Resource.Attribute.actionModeSelectAllDrawable = global::junming.Droid.Resource.Attribute.actionModeSelectAllDrawable;
-			global::BottomNavigationBar.Resource.Attribute.actionModeShareDrawable = global::junming.Droid.Resource.Attribute.actionModeShareDrawable;
-			global::BottomNavigationBar.Resource.Attribute.actionModeSplitBackground = global::junming.Droid.Resource.Attribute.actionModeSplitBackground;
-			global::BottomNavigationBar.Resource.Attribute.actionModeStyle = global::junming.Droid.Resource.Attribute.actionModeStyle;
-			global::BottomNavigationBar.Resource.Attribute.actionModeWebSearchDrawable = global::junming.Droid.Resource.Attribute.actionModeWebSearchDrawable;
-			global::BottomNavigationBar.Resource.Attribute.actionOverflowButtonStyle = global::junming.Droid.Resource.Attribute.actionOverflowButtonStyle;
-			global::BottomNavigationBar.Resource.Attribute.actionOverflowMenuStyle = global::junming.Droid.Resource.Attribute.actionOverflowMenuStyle;
-			global::BottomNavigationBar.Resource.Attribute.actionProviderClass = global::junming.Droid.Resource.Attribute.actionProviderClass;
-			global::BottomNavigationBar.Resource.Attribute.actionViewClass = global::junming.Droid.Resource.Attribute.actionViewClass;
-			global::BottomNavigationBar.Resource.Attribute.activityChooserViewStyle = global::junming.Droid.Resource.Attribute.activityChooserViewStyle;
-			global::BottomNavigationBar.Resource.Attribute.alertDialogButtonGroupStyle = global::junming.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
-			global::BottomNavigationBar.Resource.Attribute.alertDialogCenterButtons = global::junming.Droid.Resource.Attribute.alertDialogCenterButtons;
-			global::BottomNavigationBar.Resource.Attribute.alertDialogStyle = global::junming.Droid.Resource.Attribute.alertDialogStyle;
-			global::BottomNavigationBar.Resource.Attribute.alertDialogTheme = global::junming.Droid.Resource.Attribute.alertDialogTheme;
-			global::BottomNavigationBar.Resource.Attribute.allowStacking = global::junming.Droid.Resource.Attribute.allowStacking;
-			global::BottomNavigationBar.Resource.Attribute.alpha = global::junming.Droid.Resource.Attribute.alpha;
-			global::BottomNavigationBar.Resource.Attribute.arrowHeadLength = global::junming.Droid.Resource.Attribute.arrowHeadLength;
-			global::BottomNavigationBar.Resource.Attribute.arrowShaftLength = global::junming.Droid.Resource.Attribute.arrowShaftLength;
-			global::BottomNavigationBar.Resource.Attribute.autoCompleteTextViewStyle = global::junming.Droid.Resource.Attribute.autoCompleteTextViewStyle;
-			global::BottomNavigationBar.Resource.Attribute.background = global::junming.Droid.Resource.Attribute.background;
-			global::BottomNavigationBar.Resource.Attribute.backgroundSplit = global::junming.Droid.Resource.Attribute.backgroundSplit;
-			global::BottomNavigationBar.Resource.Attribute.backgroundStacked = global::junming.Droid.Resource.Attribute.backgroundStacked;
-			global::BottomNavigationBar.Resource.Attribute.backgroundTint = global::junming.Droid.Resource.Attribute.backgroundTint;
-			global::BottomNavigationBar.Resource.Attribute.backgroundTintMode = global::junming.Droid.Resource.Attribute.backgroundTintMode;
-			global::BottomNavigationBar.Resource.Attribute.barLength = global::junming.Droid.Resource.Attribute.barLength;
-			global::BottomNavigationBar.Resource.Attribute.behavior_autoHide = global::junming.Droid.Resource.Attribute.behavior_autoHide;
-			global::BottomNavigationBar.Resource.Attribute.behavior_hideable = global::junming.Droid.Resource.Attribute.behavior_hideable;
-			global::BottomNavigationBar.Resource.Attribute.behavior_overlapTop = global::junming.Droid.Resource.Attribute.behavior_overlapTop;
-			global::BottomNavigationBar.Resource.Attribute.behavior_peekHeight = global::junming.Droid.Resource.Attribute.behavior_peekHeight;
-			global::BottomNavigationBar.Resource.Attribute.behavior_skipCollapsed = global::junming.Droid.Resource.Attribute.behavior_skipCollapsed;
-			global::BottomNavigationBar.Resource.Attribute.borderWidth = global::junming.Droid.Resource.Attribute.borderWidth;
-			global::BottomNavigationBar.Resource.Attribute.borderlessButtonStyle = global::junming.Droid.Resource.Attribute.borderlessButtonStyle;
-			global::BottomNavigationBar.Resource.Attribute.bottomSheetDialogTheme = global::junming.Droid.Resource.Attribute.bottomSheetDialogTheme;
-			global::BottomNavigationBar.Resource.Attribute.bottomSheetStyle = global::junming.Droid.Resource.Attribute.bottomSheetStyle;
-			global::BottomNavigationBar.Resource.Attribute.buttonBarButtonStyle = global::junming.Droid.Resource.Attribute.buttonBarButtonStyle;
-			global::BottomNavigationBar.Resource.Attribute.buttonBarNegativeButtonStyle = global::junming.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
-			global::BottomNavigationBar.Resource.Attribute.buttonBarNeutralButtonStyle = global::junming.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
-			global::BottomNavigationBar.Resource.Attribute.buttonBarPositiveButtonStyle = global::junming.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
-			global::BottomNavigationBar.Resource.Attribute.buttonBarStyle = global::junming.Droid.Resource.Attribute.buttonBarStyle;
-			global::BottomNavigationBar.Resource.Attribute.buttonGravity = global::junming.Droid.Resource.Attribute.buttonGravity;
-			global::BottomNavigationBar.Resource.Attribute.buttonPanelSideLayout = global::junming.Droid.Resource.Attribute.buttonPanelSideLayout;
-			global::BottomNavigationBar.Resource.Attribute.buttonStyle = global::junming.Droid.Resource.Attribute.buttonStyle;
-			global::BottomNavigationBar.Resource.Attribute.buttonStyleSmall = global::junming.Droid.Resource.Attribute.buttonStyleSmall;
-			global::BottomNavigationBar.Resource.Attribute.buttonTint = global::junming.Droid.Resource.Attribute.buttonTint;
-			global::BottomNavigationBar.Resource.Attribute.buttonTintMode = global::junming.Droid.Resource.Attribute.buttonTintMode;
-			global::BottomNavigationBar.Resource.Attribute.checkboxStyle = global::junming.Droid.Resource.Attribute.checkboxStyle;
-			global::BottomNavigationBar.Resource.Attribute.checkedTextViewStyle = global::junming.Droid.Resource.Attribute.checkedTextViewStyle;
-			global::BottomNavigationBar.Resource.Attribute.closeIcon = global::junming.Droid.Resource.Attribute.closeIcon;
-			global::BottomNavigationBar.Resource.Attribute.closeItemLayout = global::junming.Droid.Resource.Attribute.closeItemLayout;
-			global::BottomNavigationBar.Resource.Attribute.collapseContentDescription = global::junming.Droid.Resource.Attribute.collapseContentDescription;
-			global::BottomNavigationBar.Resource.Attribute.collapseIcon = global::junming.Droid.Resource.Attribute.collapseIcon;
-			global::BottomNavigationBar.Resource.Attribute.collapsedTitleGravity = global::junming.Droid.Resource.Attribute.collapsedTitleGravity;
-			global::BottomNavigationBar.Resource.Attribute.collapsedTitleTextAppearance = global::junming.Droid.Resource.Attribute.collapsedTitleTextAppearance;
-			global::BottomNavigationBar.Resource.Attribute.color = global::junming.Droid.Resource.Attribute.color;
-			global::BottomNavigationBar.Resource.Attribute.colorAccent = global::junming.Droid.Resource.Attribute.colorAccent;
-			global::BottomNavigationBar.Resource.Attribute.colorBackgroundFloating = global::junming.Droid.Resource.Attribute.colorBackgroundFloating;
-			global::BottomNavigationBar.Resource.Attribute.colorButtonNormal = global::junming.Droid.Resource.Attribute.colorButtonNormal;
-			global::BottomNavigationBar.Resource.Attribute.colorControlActivated = global::junming.Droid.Resource.Attribute.colorControlActivated;
-			global::BottomNavigationBar.Resource.Attribute.colorControlHighlight = global::junming.Droid.Resource.Attribute.colorControlHighlight;
-			global::BottomNavigationBar.Resource.Attribute.colorControlNormal = global::junming.Droid.Resource.Attribute.colorControlNormal;
-			global::BottomNavigationBar.Resource.Attribute.colorPrimary = global::junming.Droid.Resource.Attribute.colorPrimary;
-			global::BottomNavigationBar.Resource.Attribute.colorPrimaryDark = global::junming.Droid.Resource.Attribute.colorPrimaryDark;
-			global::BottomNavigationBar.Resource.Attribute.colorSwitchThumbNormal = global::junming.Droid.Resource.Attribute.colorSwitchThumbNormal;
-			global::BottomNavigationBar.Resource.Attribute.commitIcon = global::junming.Droid.Resource.Attribute.commitIcon;
-			global::BottomNavigationBar.Resource.Attribute.contentInsetEnd = global::junming.Droid.Resource.Attribute.contentInsetEnd;
-			global::BottomNavigationBar.Resource.Attribute.contentInsetEndWithActions = global::junming.Droid.Resource.Attribute.contentInsetEndWithActions;
-			global::BottomNavigationBar.Resource.Attribute.contentInsetLeft = global::junming.Droid.Resource.Attribute.contentInsetLeft;
-			global::BottomNavigationBar.Resource.Attribute.contentInsetRight = global::junming.Droid.Resource.Attribute.contentInsetRight;
-			global::BottomNavigationBar.Resource.Attribute.contentInsetStart = global::junming.Droid.Resource.Attribute.contentInsetStart;
-			global::BottomNavigationBar.Resource.Attribute.contentInsetStartWithNavigation = global::junming.Droid.Resource.Attribute.contentInsetStartWithNavigation;
-			global::BottomNavigationBar.Resource.Attribute.contentScrim = global::junming.Droid.Resource.Attribute.contentScrim;
-			global::BottomNavigationBar.Resource.Attribute.controlBackground = global::junming.Droid.Resource.Attribute.controlBackground;
-			global::BottomNavigationBar.Resource.Attribute.counterEnabled = global::junming.Droid.Resource.Attribute.counterEnabled;
-			global::BottomNavigationBar.Resource.Attribute.counterMaxLength = global::junming.Droid.Resource.Attribute.counterMaxLength;
-			global::BottomNavigationBar.Resource.Attribute.counterOverflowTextAppearance = global::junming.Droid.Resource.Attribute.counterOverflowTextAppearance;
-			global::BottomNavigationBar.Resource.Attribute.counterTextAppearance = global::junming.Droid.Resource.Attribute.counterTextAppearance;
-			global::BottomNavigationBar.Resource.Attribute.customNavigationLayout = global::junming.Droid.Resource.Attribute.customNavigationLayout;
-			global::BottomNavigationBar.Resource.Attribute.defaultQueryHint = global::junming.Droid.Resource.Attribute.defaultQueryHint;
-			global::BottomNavigationBar.Resource.Attribute.dialogPreferredPadding = global::junming.Droid.Resource.Attribute.dialogPreferredPadding;
-			global::BottomNavigationBar.Resource.Attribute.dialogTheme = global::junming.Droid.Resource.Attribute.dialogTheme;
-			global::BottomNavigationBar.Resource.Attribute.displayOptions = global::junming.Droid.Resource.Attribute.displayOptions;
-			global::BottomNavigationBar.Resource.Attribute.divider = global::junming.Droid.Resource.Attribute.divider;
-			global::BottomNavigationBar.Resource.Attribute.dividerHorizontal = global::junming.Droid.Resource.Attribute.dividerHorizontal;
-			global::BottomNavigationBar.Resource.Attribute.dividerPadding = global::junming.Droid.Resource.Attribute.dividerPadding;
-			global::BottomNavigationBar.Resource.Attribute.dividerVertical = global::junming.Droid.Resource.Attribute.dividerVertical;
-			global::BottomNavigationBar.Resource.Attribute.drawableSize = global::junming.Droid.Resource.Attribute.drawableSize;
-			global::BottomNavigationBar.Resource.Attribute.drawerArrowStyle = global::junming.Droid.Resource.Attribute.drawerArrowStyle;
-			global::BottomNavigationBar.Resource.Attribute.dropDownListViewStyle = global::junming.Droid.Resource.Attribute.dropDownListViewStyle;
-			global::BottomNavigationBar.Resource.Attribute.dropdownListPreferredItemHeight = global::junming.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
-			global::BottomNavigationBar.Resource.Attribute.editTextBackground = global::junming.Droid.Resource.Attribute.editTextBackground;
-			global::BottomNavigationBar.Resource.Attribute.editTextColor = global::junming.Droid.Resource.Attribute.editTextColor;
-			global::BottomNavigationBar.Resource.Attribute.editTextStyle = global::junming.Droid.Resource.Attribute.editTextStyle;
-			global::BottomNavigationBar.Resource.Attribute.elevation = global::junming.Droid.Resource.Attribute.elevation;
-			global::BottomNavigationBar.Resource.Attribute.errorEnabled = global::junming.Droid.Resource.Attribute.errorEnabled;
-			global::BottomNavigationBar.Resource.Attribute.errorTextAppearance = global::junming.Droid.Resource.Attribute.errorTextAppearance;
-			global::BottomNavigationBar.Resource.Attribute.expandActivityOverflowButtonDrawable = global::junming.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
-			global::BottomNavigationBar.Resource.Attribute.expanded = global::junming.Droid.Resource.Attribute.expanded;
-			global::BottomNavigationBar.Resource.Attribute.expandedTitleGravity = global::junming.Droid.Resource.Attribute.expandedTitleGravity;
-			global::BottomNavigationBar.Resource.Attribute.expandedTitleMargin = global::junming.Droid.Resource.Attribute.expandedTitleMargin;
-			global::BottomNavigationBar.Resource.Attribute.expandedTitleMarginBottom = global::junming.Droid.Resource.Attribute.expandedTitleMarginBottom;
-			global::BottomNavigationBar.Resource.Attribute.expandedTitleMarginEnd = global::junming.Droid.Resource.Attribute.expandedTitleMarginEnd;
-			global::BottomNavigationBar.Resource.Attribute.expandedTitleMarginStart = global::junming.Droid.Resource.Attribute.expandedTitleMarginStart;
-			global::BottomNavigationBar.Resource.Attribute.expandedTitleMarginTop = global::junming.Droid.Resource.Attribute.expandedTitleMarginTop;
-			global::BottomNavigationBar.Resource.Attribute.expandedTitleTextAppearance = global::junming.Droid.Resource.Attribute.expandedTitleTextAppearance;
-			global::BottomNavigationBar.Resource.Attribute.fabSize = global::junming.Droid.Resource.Attribute.fabSize;
-			global::BottomNavigationBar.Resource.Attribute.foregroundInsidePadding = global::junming.Droid.Resource.Attribute.foregroundInsidePadding;
-			global::BottomNavigationBar.Resource.Attribute.gapBetweenBars = global::junming.Droid.Resource.Attribute.gapBetweenBars;
-			global::BottomNavigationBar.Resource.Attribute.goIcon = global::junming.Droid.Resource.Attribute.goIcon;
-			global::BottomNavigationBar.Resource.Attribute.headerLayout = global::junming.Droid.Resource.Attribute.headerLayout;
-			global::BottomNavigationBar.Resource.Attribute.height = global::junming.Droid.Resource.Attribute.height;
-			global::BottomNavigationBar.Resource.Attribute.hideOnContentScroll = global::junming.Droid.Resource.Attribute.hideOnContentScroll;
-			global::BottomNavigationBar.Resource.Attribute.hintAnimationEnabled = global::junming.Droid.Resource.Attribute.hintAnimationEnabled;
-			global::BottomNavigationBar.Resource.Attribute.hintEnabled = global::junming.Droid.Resource.Attribute.hintEnabled;
-			global::BottomNavigationBar.Resource.Attribute.hintTextAppearance = global::junming.Droid.Resource.Attribute.hintTextAppearance;
-			global::BottomNavigationBar.Resource.Attribute.homeAsUpIndicator = global::junming.Droid.Resource.Attribute.homeAsUpIndicator;
-			global::BottomNavigationBar.Resource.Attribute.homeLayout = global::junming.Droid.Resource.Attribute.homeLayout;
-			global::BottomNavigationBar.Resource.Attribute.icon = global::junming.Droid.Resource.Attribute.icon;
-			global::BottomNavigationBar.Resource.Attribute.iconifiedByDefault = global::junming.Droid.Resource.Attribute.iconifiedByDefault;
-			global::BottomNavigationBar.Resource.Attribute.imageButtonStyle = global::junming.Droid.Resource.Attribute.imageButtonStyle;
-			global::BottomNavigationBar.Resource.Attribute.indeterminateProgressStyle = global::junming.Droid.Resource.Attribute.indeterminateProgressStyle;
-			global::BottomNavigationBar.Resource.Attribute.initialActivityCount = global::junming.Droid.Resource.Attribute.initialActivityCount;
-			global::BottomNavigationBar.Resource.Attribute.insetForeground = global::junming.Droid.Resource.Attribute.insetForeground;
-			global::BottomNavigationBar.Resource.Attribute.isLightTheme = global::junming.Droid.Resource.Attribute.isLightTheme;
-			global::BottomNavigationBar.Resource.Attribute.itemBackground = global::junming.Droid.Resource.Attribute.itemBackground;
-			global::BottomNavigationBar.Resource.Attribute.itemIconTint = global::junming.Droid.Resource.Attribute.itemIconTint;
-			global::BottomNavigationBar.Resource.Attribute.itemPadding = global::junming.Droid.Resource.Attribute.itemPadding;
-			global::BottomNavigationBar.Resource.Attribute.itemTextAppearance = global::junming.Droid.Resource.Attribute.itemTextAppearance;
-			global::BottomNavigationBar.Resource.Attribute.itemTextColor = global::junming.Droid.Resource.Attribute.itemTextColor;
-			global::BottomNavigationBar.Resource.Attribute.keylines = global::junming.Droid.Resource.Attribute.keylines;
-			global::BottomNavigationBar.Resource.Attribute.layout = global::junming.Droid.Resource.Attribute.layout;
-			global::BottomNavigationBar.Resource.Attribute.layoutManager = global::junming.Droid.Resource.Attribute.layoutManager;
-			global::BottomNavigationBar.Resource.Attribute.layout_anchor = global::junming.Droid.Resource.Attribute.layout_anchor;
-			global::BottomNavigationBar.Resource.Attribute.layout_anchorGravity = global::junming.Droid.Resource.Attribute.layout_anchorGravity;
-			global::BottomNavigationBar.Resource.Attribute.layout_behavior = global::junming.Droid.Resource.Attribute.layout_behavior;
-			global::BottomNavigationBar.Resource.Attribute.layout_collapseMode = global::junming.Droid.Resource.Attribute.layout_collapseMode;
-			global::BottomNavigationBar.Resource.Attribute.layout_collapseParallaxMultiplier = global::junming.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
-			global::BottomNavigationBar.Resource.Attribute.layout_dodgeInsetEdges = global::junming.Droid.Resource.Attribute.layout_dodgeInsetEdges;
-			global::BottomNavigationBar.Resource.Attribute.layout_insetEdge = global::junming.Droid.Resource.Attribute.layout_insetEdge;
-			global::BottomNavigationBar.Resource.Attribute.layout_keyline = global::junming.Droid.Resource.Attribute.layout_keyline;
-			global::BottomNavigationBar.Resource.Attribute.layout_scrollFlags = global::junming.Droid.Resource.Attribute.layout_scrollFlags;
-			global::BottomNavigationBar.Resource.Attribute.layout_scrollInterpolator = global::junming.Droid.Resource.Attribute.layout_scrollInterpolator;
-			global::BottomNavigationBar.Resource.Attribute.listChoiceBackgroundIndicator = global::junming.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
-			global::BottomNavigationBar.Resource.Attribute.listDividerAlertDialog = global::junming.Droid.Resource.Attribute.listDividerAlertDialog;
-			global::BottomNavigationBar.Resource.Attribute.listItemLayout = global::junming.Droid.Resource.Attribute.listItemLayout;
-			global::BottomNavigationBar.Resource.Attribute.listLayout = global::junming.Droid.Resource.Attribute.listLayout;
-			global::BottomNavigationBar.Resource.Attribute.listMenuViewStyle = global::junming.Droid.Resource.Attribute.listMenuViewStyle;
-			global::BottomNavigationBar.Resource.Attribute.listPopupWindowStyle = global::junming.Droid.Resource.Attribute.listPopupWindowStyle;
-			global::BottomNavigationBar.Resource.Attribute.listPreferredItemHeight = global::junming.Droid.Resource.Attribute.listPreferredItemHeight;
-			global::BottomNavigationBar.Resource.Attribute.listPreferredItemHeightLarge = global::junming.Droid.Resource.Attribute.listPreferredItemHeightLarge;
-			global::BottomNavigationBar.Resource.Attribute.listPreferredItemHeightSmall = global::junming.Droid.Resource.Attribute.listPreferredItemHeightSmall;
-			global::BottomNavigationBar.Resource.Attribute.listPreferredItemPaddingLeft = global::junming.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
-			global::BottomNavigationBar.Resource.Attribute.listPreferredItemPaddingRight = global::junming.Droid.Resource.Attribute.listPreferredItemPaddingRight;
-			global::BottomNavigationBar.Resource.Attribute.logo = global::junming.Droid.Resource.Attribute.logo;
-			global::BottomNavigationBar.Resource.Attribute.logoDescription = global::junming.Droid.Resource.Attribute.logoDescription;
-			global::BottomNavigationBar.Resource.Attribute.maxActionInlineWidth = global::junming.Droid.Resource.Attribute.maxActionInlineWidth;
-			global::BottomNavigationBar.Resource.Attribute.maxButtonHeight = global::junming.Droid.Resource.Attribute.maxButtonHeight;
-			global::BottomNavigationBar.Resource.Attribute.measureWithLargestChild = global::junming.Droid.Resource.Attribute.measureWithLargestChild;
-			global::BottomNavigationBar.Resource.Attribute.menu = global::junming.Droid.Resource.Attribute.menu;
-			global::BottomNavigationBar.Resource.Attribute.multiChoiceItemLayout = global::junming.Droid.Resource.Attribute.multiChoiceItemLayout;
-			global::BottomNavigationBar.Resource.Attribute.navigationContentDescription = global::junming.Droid.Resource.Attribute.navigationContentDescription;
-			global::BottomNavigationBar.Resource.Attribute.navigationIcon = global::junming.Droid.Resource.Attribute.navigationIcon;
-			global::BottomNavigationBar.Resource.Attribute.navigationMode = global::junming.Droid.Resource.Attribute.navigationMode;
-			global::BottomNavigationBar.Resource.Attribute.overlapAnchor = global::junming.Droid.Resource.Attribute.overlapAnchor;
-			global::BottomNavigationBar.Resource.Attribute.paddingEnd = global::junming.Droid.Resource.Attribute.paddingEnd;
-			global::BottomNavigationBar.Resource.Attribute.paddingStart = global::junming.Droid.Resource.Attribute.paddingStart;
-			global::BottomNavigationBar.Resource.Attribute.panelBackground = global::junming.Droid.Resource.Attribute.panelBackground;
-			global::BottomNavigationBar.Resource.Attribute.panelMenuListTheme = global::junming.Droid.Resource.Attribute.panelMenuListTheme;
-			global::BottomNavigationBar.Resource.Attribute.panelMenuListWidth = global::junming.Droid.Resource.Attribute.panelMenuListWidth;
-			global::BottomNavigationBar.Resource.Attribute.passwordToggleContentDescription = global::junming.Droid.Resource.Attribute.passwordToggleContentDescription;
-			global::BottomNavigationBar.Resource.Attribute.passwordToggleDrawable = global::junming.Droid.Resource.Attribute.passwordToggleDrawable;
-			global::BottomNavigationBar.Resource.Attribute.passwordToggleEnabled = global::junming.Droid.Resource.Attribute.passwordToggleEnabled;
-			global::BottomNavigationBar.Resource.Attribute.passwordToggleTint = global::junming.Droid.Resource.Attribute.passwordToggleTint;
-			global::BottomNavigationBar.Resource.Attribute.passwordToggleTintMode = global::junming.Droid.Resource.Attribute.passwordToggleTintMode;
-			global::BottomNavigationBar.Resource.Attribute.popupMenuStyle = global::junming.Droid.Resource.Attribute.popupMenuStyle;
-			global::BottomNavigationBar.Resource.Attribute.popupTheme = global::junming.Droid.Resource.Attribute.popupTheme;
-			global::BottomNavigationBar.Resource.Attribute.popupWindowStyle = global::junming.Droid.Resource.Attribute.popupWindowStyle;
-			global::BottomNavigationBar.Resource.Attribute.preserveIconSpacing = global::junming.Droid.Resource.Attribute.preserveIconSpacing;
-			global::BottomNavigationBar.Resource.Attribute.pressedTranslationZ = global::junming.Droid.Resource.Attribute.pressedTranslationZ;
-			global::BottomNavigationBar.Resource.Attribute.progressBarPadding = global::junming.Droid.Resource.Attribute.progressBarPadding;
-			global::BottomNavigationBar.Resource.Attribute.progressBarStyle = global::junming.Droid.Resource.Attribute.progressBarStyle;
-			global::BottomNavigationBar.Resource.Attribute.queryBackground = global::junming.Droid.Resource.Attribute.queryBackground;
-			global::BottomNavigationBar.Resource.Attribute.queryHint = global::junming.Droid.Resource.Attribute.queryHint;
-			global::BottomNavigationBar.Resource.Attribute.radioButtonStyle = global::junming.Droid.Resource.Attribute.radioButtonStyle;
-			global::BottomNavigationBar.Resource.Attribute.ratingBarStyle = global::junming.Droid.Resource.Attribute.ratingBarStyle;
-			global::BottomNavigationBar.Resource.Attribute.ratingBarStyleIndicator = global::junming.Droid.Resource.Attribute.ratingBarStyleIndicator;
-			global::BottomNavigationBar.Resource.Attribute.ratingBarStyleSmall = global::junming.Droid.Resource.Attribute.ratingBarStyleSmall;
-			global::BottomNavigationBar.Resource.Attribute.reverseLayout = global::junming.Droid.Resource.Attribute.reverseLayout;
-			global::BottomNavigationBar.Resource.Attribute.rippleColor = global::junming.Droid.Resource.Attribute.rippleColor;
-			global::BottomNavigationBar.Resource.Attribute.scrimAnimationDuration = global::junming.Droid.Resource.Attribute.scrimAnimationDuration;
-			global::BottomNavigationBar.Resource.Attribute.scrimVisibleHeightTrigger = global::junming.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
-			global::BottomNavigationBar.Resource.Attribute.searchHintIcon = global::junming.Droid.Resource.Attribute.searchHintIcon;
-			global::BottomNavigationBar.Resource.Attribute.searchIcon = global::junming.Droid.Resource.Attribute.searchIcon;
-			global::BottomNavigationBar.Resource.Attribute.searchViewStyle = global::junming.Droid.Resource.Attribute.searchViewStyle;
-			global::BottomNavigationBar.Resource.Attribute.seekBarStyle = global::junming.Droid.Resource.Attribute.seekBarStyle;
-			global::BottomNavigationBar.Resource.Attribute.selectableItemBackground = global::junming.Droid.Resource.Attribute.selectableItemBackground;
-			global::BottomNavigationBar.Resource.Attribute.selectableItemBackgroundBorderless = global::junming.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
-			global::BottomNavigationBar.Resource.Attribute.showAsAction = global::junming.Droid.Resource.Attribute.showAsAction;
-			global::BottomNavigationBar.Resource.Attribute.showDividers = global::junming.Droid.Resource.Attribute.showDividers;
-			global::BottomNavigationBar.Resource.Attribute.showText = global::junming.Droid.Resource.Attribute.showText;
-			global::BottomNavigationBar.Resource.Attribute.singleChoiceItemLayout = global::junming.Droid.Resource.Attribute.singleChoiceItemLayout;
-			global::BottomNavigationBar.Resource.Attribute.spanCount = global::junming.Droid.Resource.Attribute.spanCount;
-			global::BottomNavigationBar.Resource.Attribute.spinBars = global::junming.Droid.Resource.Attribute.spinBars;
-			global::BottomNavigationBar.Resource.Attribute.spinnerDropDownItemStyle = global::junming.Droid.Resource.Attribute.spinnerDropDownItemStyle;
-			global::BottomNavigationBar.Resource.Attribute.spinnerStyle = global::junming.Droid.Resource.Attribute.spinnerStyle;
-			global::BottomNavigationBar.Resource.Attribute.splitTrack = global::junming.Droid.Resource.Attribute.splitTrack;
-			global::BottomNavigationBar.Resource.Attribute.srcCompat = global::junming.Droid.Resource.Attribute.srcCompat;
-			global::BottomNavigationBar.Resource.Attribute.stackFromEnd = global::junming.Droid.Resource.Attribute.stackFromEnd;
-			global::BottomNavigationBar.Resource.Attribute.state_above_anchor = global::junming.Droid.Resource.Attribute.state_above_anchor;
-			global::BottomNavigationBar.Resource.Attribute.state_collapsed = global::junming.Droid.Resource.Attribute.state_collapsed;
-			global::BottomNavigationBar.Resource.Attribute.state_collapsible = global::junming.Droid.Resource.Attribute.state_collapsible;
-			global::BottomNavigationBar.Resource.Attribute.statusBarBackground = global::junming.Droid.Resource.Attribute.statusBarBackground;
-			global::BottomNavigationBar.Resource.Attribute.statusBarScrim = global::junming.Droid.Resource.Attribute.statusBarScrim;
-			global::BottomNavigationBar.Resource.Attribute.subMenuArrow = global::junming.Droid.Resource.Attribute.subMenuArrow;
-			global::BottomNavigationBar.Resource.Attribute.submitBackground = global::junming.Droid.Resource.Attribute.submitBackground;
-			global::BottomNavigationBar.Resource.Attribute.subtitle = global::junming.Droid.Resource.Attribute.subtitle;
-			global::BottomNavigationBar.Resource.Attribute.subtitleTextAppearance = global::junming.Droid.Resource.Attribute.subtitleTextAppearance;
-			global::BottomNavigationBar.Resource.Attribute.subtitleTextColor = global::junming.Droid.Resource.Attribute.subtitleTextColor;
-			global::BottomNavigationBar.Resource.Attribute.subtitleTextStyle = global::junming.Droid.Resource.Attribute.subtitleTextStyle;
-			global::BottomNavigationBar.Resource.Attribute.suggestionRowLayout = global::junming.Droid.Resource.Attribute.suggestionRowLayout;
-			global::BottomNavigationBar.Resource.Attribute.switchMinWidth = global::junming.Droid.Resource.Attribute.switchMinWidth;
-			global::BottomNavigationBar.Resource.Attribute.switchPadding = global::junming.Droid.Resource.Attribute.switchPadding;
-			global::BottomNavigationBar.Resource.Attribute.switchStyle = global::junming.Droid.Resource.Attribute.switchStyle;
-			global::BottomNavigationBar.Resource.Attribute.switchTextAppearance = global::junming.Droid.Resource.Attribute.switchTextAppearance;
-			global::BottomNavigationBar.Resource.Attribute.tabBackground = global::junming.Droid.Resource.Attribute.tabBackground;
-			global::BottomNavigationBar.Resource.Attribute.tabContentStart = global::junming.Droid.Resource.Attribute.tabContentStart;
-			global::BottomNavigationBar.Resource.Attribute.tabGravity = global::junming.Droid.Resource.Attribute.tabGravity;
-			global::BottomNavigationBar.Resource.Attribute.tabIndicatorColor = global::junming.Droid.Resource.Attribute.tabIndicatorColor;
-			global::BottomNavigationBar.Resource.Attribute.tabIndicatorHeight = global::junming.Droid.Resource.Attribute.tabIndicatorHeight;
-			global::BottomNavigationBar.Resource.Attribute.tabMaxWidth = global::junming.Droid.Resource.Attribute.tabMaxWidth;
-			global::BottomNavigationBar.Resource.Attribute.tabMinWidth = global::junming.Droid.Resource.Attribute.tabMinWidth;
-			global::BottomNavigationBar.Resource.Attribute.tabMode = global::junming.Droid.Resource.Attribute.tabMode;
-			global::BottomNavigationBar.Resource.Attribute.tabPadding = global::junming.Droid.Resource.Attribute.tabPadding;
-			global::BottomNavigationBar.Resource.Attribute.tabPaddingBottom = global::junming.Droid.Resource.Attribute.tabPaddingBottom;
-			global::BottomNavigationBar.Resource.Attribute.tabPaddingEnd = global::junming.Droid.Resource.Attribute.tabPaddingEnd;
-			global::BottomNavigationBar.Resource.Attribute.tabPaddingStart = global::junming.Droid.Resource.Attribute.tabPaddingStart;
-			global::BottomNavigationBar.Resource.Attribute.tabPaddingTop = global::junming.Droid.Resource.Attribute.tabPaddingTop;
-			global::BottomNavigationBar.Resource.Attribute.tabSelectedTextColor = global::junming.Droid.Resource.Attribute.tabSelectedTextColor;
-			global::BottomNavigationBar.Resource.Attribute.tabTextAppearance = global::junming.Droid.Resource.Attribute.tabTextAppearance;
-			global::BottomNavigationBar.Resource.Attribute.tabTextColor = global::junming.Droid.Resource.Attribute.tabTextColor;
-			global::BottomNavigationBar.Resource.Attribute.textAllCaps = global::junming.Droid.Resource.Attribute.textAllCaps;
-			global::BottomNavigationBar.Resource.Attribute.textAppearanceLargePopupMenu = global::junming.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
-			global::BottomNavigationBar.Resource.Attribute.textAppearanceListItem = global::junming.Droid.Resource.Attribute.textAppearanceListItem;
-			global::BottomNavigationBar.Resource.Attribute.textAppearanceListItemSmall = global::junming.Droid.Resource.Attribute.textAppearanceListItemSmall;
-			global::BottomNavigationBar.Resource.Attribute.textAppearancePopupMenuHeader = global::junming.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
-			global::BottomNavigationBar.Resource.Attribute.textAppearanceSearchResultSubtitle = global::junming.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
-			global::BottomNavigationBar.Resource.Attribute.textAppearanceSearchResultTitle = global::junming.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
-			global::BottomNavigationBar.Resource.Attribute.textAppearanceSmallPopupMenu = global::junming.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
-			global::BottomNavigationBar.Resource.Attribute.textColorAlertDialogListItem = global::junming.Droid.Resource.Attribute.textColorAlertDialogListItem;
-			global::BottomNavigationBar.Resource.Attribute.textColorError = global::junming.Droid.Resource.Attribute.textColorError;
-			global::BottomNavigationBar.Resource.Attribute.textColorSearchUrl = global::junming.Droid.Resource.Attribute.textColorSearchUrl;
-			global::BottomNavigationBar.Resource.Attribute.theme = global::junming.Droid.Resource.Attribute.theme;
-			global::BottomNavigationBar.Resource.Attribute.thickness = global::junming.Droid.Resource.Attribute.thickness;
-			global::BottomNavigationBar.Resource.Attribute.thumbTextPadding = global::junming.Droid.Resource.Attribute.thumbTextPadding;
-			global::BottomNavigationBar.Resource.Attribute.thumbTint = global::junming.Droid.Resource.Attribute.thumbTint;
-			global::BottomNavigationBar.Resource.Attribute.thumbTintMode = global::junming.Droid.Resource.Attribute.thumbTintMode;
-			global::BottomNavigationBar.Resource.Attribute.tickMark = global::junming.Droid.Resource.Attribute.tickMark;
-			global::BottomNavigationBar.Resource.Attribute.tickMarkTint = global::junming.Droid.Resource.Attribute.tickMarkTint;
-			global::BottomNavigationBar.Resource.Attribute.tickMarkTintMode = global::junming.Droid.Resource.Attribute.tickMarkTintMode;
-			global::BottomNavigationBar.Resource.Attribute.title = global::junming.Droid.Resource.Attribute.title;
-			global::BottomNavigationBar.Resource.Attribute.titleEnabled = global::junming.Droid.Resource.Attribute.titleEnabled;
-			global::BottomNavigationBar.Resource.Attribute.titleMargin = global::junming.Droid.Resource.Attribute.titleMargin;
-			global::BottomNavigationBar.Resource.Attribute.titleMarginBottom = global::junming.Droid.Resource.Attribute.titleMarginBottom;
-			global::BottomNavigationBar.Resource.Attribute.titleMarginEnd = global::junming.Droid.Resource.Attribute.titleMarginEnd;
-			global::BottomNavigationBar.Resource.Attribute.titleMarginStart = global::junming.Droid.Resource.Attribute.titleMarginStart;
-			global::BottomNavigationBar.Resource.Attribute.titleMarginTop = global::junming.Droid.Resource.Attribute.titleMarginTop;
-			global::BottomNavigationBar.Resource.Attribute.titleMargins = global::junming.Droid.Resource.Attribute.titleMargins;
-			global::BottomNavigationBar.Resource.Attribute.titleTextAppearance = global::junming.Droid.Resource.Attribute.titleTextAppearance;
-			global::BottomNavigationBar.Resource.Attribute.titleTextColor = global::junming.Droid.Resource.Attribute.titleTextColor;
-			global::BottomNavigationBar.Resource.Attribute.titleTextStyle = global::junming.Droid.Resource.Attribute.titleTextStyle;
-			global::BottomNavigationBar.Resource.Attribute.toolbarId = global::junming.Droid.Resource.Attribute.toolbarId;
-			global::BottomNavigationBar.Resource.Attribute.toolbarNavigationButtonStyle = global::junming.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
-			global::BottomNavigationBar.Resource.Attribute.toolbarStyle = global::junming.Droid.Resource.Attribute.toolbarStyle;
-			global::BottomNavigationBar.Resource.Attribute.track = global::junming.Droid.Resource.Attribute.track;
-			global::BottomNavigationBar.Resource.Attribute.trackTint = global::junming.Droid.Resource.Attribute.trackTint;
-			global::BottomNavigationBar.Resource.Attribute.trackTintMode = global::junming.Droid.Resource.Attribute.trackTintMode;
-			global::BottomNavigationBar.Resource.Attribute.useCompatPadding = global::junming.Droid.Resource.Attribute.useCompatPadding;
-			global::BottomNavigationBar.Resource.Attribute.voiceIcon = global::junming.Droid.Resource.Attribute.voiceIcon;
-			global::BottomNavigationBar.Resource.Attribute.windowActionBar = global::junming.Droid.Resource.Attribute.windowActionBar;
-			global::BottomNavigationBar.Resource.Attribute.windowActionBarOverlay = global::junming.Droid.Resource.Attribute.windowActionBarOverlay;
-			global::BottomNavigationBar.Resource.Attribute.windowActionModeOverlay = global::junming.Droid.Resource.Attribute.windowActionModeOverlay;
-			global::BottomNavigationBar.Resource.Attribute.windowFixedHeightMajor = global::junming.Droid.Resource.Attribute.windowFixedHeightMajor;
-			global::BottomNavigationBar.Resource.Attribute.windowFixedHeightMinor = global::junming.Droid.Resource.Attribute.windowFixedHeightMinor;
-			global::BottomNavigationBar.Resource.Attribute.windowFixedWidthMajor = global::junming.Droid.Resource.Attribute.windowFixedWidthMajor;
-			global::BottomNavigationBar.Resource.Attribute.windowFixedWidthMinor = global::junming.Droid.Resource.Attribute.windowFixedWidthMinor;
-			global::BottomNavigationBar.Resource.Attribute.windowMinWidthMajor = global::junming.Droid.Resource.Attribute.windowMinWidthMajor;
-			global::BottomNavigationBar.Resource.Attribute.windowMinWidthMinor = global::junming.Droid.Resource.Attribute.windowMinWidthMinor;
-			global::BottomNavigationBar.Resource.Attribute.windowNoTitle = global::junming.Droid.Resource.Attribute.windowNoTitle;
-			global::BottomNavigationBar.Resource.Boolean.abc_action_bar_embed_tabs = global::junming.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
-			global::BottomNavigationBar.Resource.Boolean.abc_allow_stacked_button_bar = global::junming.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
-			global::BottomNavigationBar.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::junming.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
-			global::BottomNavigationBar.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::junming.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
-			global::BottomNavigationBar.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::junming.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
-			global::BottomNavigationBar.Resource.Boolean.bb_bottom_bar_is_tablet_mode = global::junming.Droid.Resource.Boolean.bb_bottom_bar_is_tablet_mode;
-			global::BottomNavigationBar.Resource.Color.abc_background_cache_hint_selector_material_dark = global::junming.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
-			global::BottomNavigationBar.Resource.Color.abc_background_cache_hint_selector_material_light = global::junming.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
-			global::BottomNavigationBar.Resource.Color.abc_btn_colored_borderless_text_material = global::junming.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
-			global::BottomNavigationBar.Resource.Color.abc_color_highlight_material = global::junming.Droid.Resource.Color.abc_color_highlight_material;
-			global::BottomNavigationBar.Resource.Color.abc_input_method_navigation_guard = global::junming.Droid.Resource.Color.abc_input_method_navigation_guard;
-			global::BottomNavigationBar.Resource.Color.abc_primary_text_disable_only_material_dark = global::junming.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
-			global::BottomNavigationBar.Resource.Color.abc_primary_text_disable_only_material_light = global::junming.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
-			global::BottomNavigationBar.Resource.Color.abc_primary_text_material_dark = global::junming.Droid.Resource.Color.abc_primary_text_material_dark;
-			global::BottomNavigationBar.Resource.Color.abc_primary_text_material_light = global::junming.Droid.Resource.Color.abc_primary_text_material_light;
-			global::BottomNavigationBar.Resource.Color.abc_search_url_text = global::junming.Droid.Resource.Color.abc_search_url_text;
-			global::BottomNavigationBar.Resource.Color.abc_search_url_text_normal = global::junming.Droid.Resource.Color.abc_search_url_text_normal;
-			global::BottomNavigationBar.Resource.Color.abc_search_url_text_pressed = global::junming.Droid.Resource.Color.abc_search_url_text_pressed;
-			global::BottomNavigationBar.Resource.Color.abc_search_url_text_selected = global::junming.Droid.Resource.Color.abc_search_url_text_selected;
-			global::BottomNavigationBar.Resource.Color.abc_secondary_text_material_dark = global::junming.Droid.Resource.Color.abc_secondary_text_material_dark;
-			global::BottomNavigationBar.Resource.Color.abc_secondary_text_material_light = global::junming.Droid.Resource.Color.abc_secondary_text_material_light;
-			global::BottomNavigationBar.Resource.Color.abc_tint_btn_checkable = global::junming.Droid.Resource.Color.abc_tint_btn_checkable;
-			global::BottomNavigationBar.Resource.Color.abc_tint_default = global::junming.Droid.Resource.Color.abc_tint_default;
-			global::BottomNavigationBar.Resource.Color.abc_tint_edittext = global::junming.Droid.Resource.Color.abc_tint_edittext;
-			global::BottomNavigationBar.Resource.Color.abc_tint_seek_thumb = global::junming.Droid.Resource.Color.abc_tint_seek_thumb;
-			global::BottomNavigationBar.Resource.Color.abc_tint_spinner = global::junming.Droid.Resource.Color.abc_tint_spinner;
-			global::BottomNavigationBar.Resource.Color.abc_tint_switch_thumb = global::junming.Droid.Resource.Color.abc_tint_switch_thumb;
-			global::BottomNavigationBar.Resource.Color.abc_tint_switch_track = global::junming.Droid.Resource.Color.abc_tint_switch_track;
-			global::BottomNavigationBar.Resource.Color.accent_material_dark = global::junming.Droid.Resource.Color.accent_material_dark;
-			global::BottomNavigationBar.Resource.Color.accent_material_light = global::junming.Droid.Resource.Color.accent_material_light;
-			global::BottomNavigationBar.Resource.Color.background_floating_material_dark = global::junming.Droid.Resource.Color.background_floating_material_dark;
-			global::BottomNavigationBar.Resource.Color.background_floating_material_light = global::junming.Droid.Resource.Color.background_floating_material_light;
-			global::BottomNavigationBar.Resource.Color.background_material_dark = global::junming.Droid.Resource.Color.background_material_dark;
-			global::BottomNavigationBar.Resource.Color.background_material_light = global::junming.Droid.Resource.Color.background_material_light;
-			global::BottomNavigationBar.Resource.Color.bb_darkBackgroundColor = global::junming.Droid.Resource.Color.bb_darkBackgroundColor;
-			global::BottomNavigationBar.Resource.Color.bb_darkInActiveBottomBarItemColor = global::junming.Droid.Resource.Color.bb_darkInActiveBottomBarItemColor;
-			global::BottomNavigationBar.Resource.Color.bb_inActiveBottomBarItemColor = global::junming.Droid.Resource.Color.bb_inActiveBottomBarItemColor;
-			global::BottomNavigationBar.Resource.Color.bb_tabletRightBorderDark = global::junming.Droid.Resource.Color.bb_tabletRightBorderDark;
-			global::BottomNavigationBar.Resource.Color.bright_foreground_disabled_material_dark = global::junming.Droid.Resource.Color.bright_foreground_disabled_material_dark;
-			global::BottomNavigationBar.Resource.Color.bright_foreground_disabled_material_light = global::junming.Droid.Resource.Color.bright_foreground_disabled_material_light;
-			global::BottomNavigationBar.Resource.Color.bright_foreground_inverse_material_dark = global::junming.Droid.Resource.Color.bright_foreground_inverse_material_dark;
-			global::BottomNavigationBar.Resource.Color.bright_foreground_inverse_material_light = global::junming.Droid.Resource.Color.bright_foreground_inverse_material_light;
-			global::BottomNavigationBar.Resource.Color.bright_foreground_material_dark = global::junming.Droid.Resource.Color.bright_foreground_material_dark;
-			global::BottomNavigationBar.Resource.Color.bright_foreground_material_light = global::junming.Droid.Resource.Color.bright_foreground_material_light;
-			global::BottomNavigationBar.Resource.Color.button_material_dark = global::junming.Droid.Resource.Color.button_material_dark;
-			global::BottomNavigationBar.Resource.Color.button_material_light = global::junming.Droid.Resource.Color.button_material_light;
-			global::BottomNavigationBar.Resource.Color.design_error = global::junming.Droid.Resource.Color.design_error;
-			global::BottomNavigationBar.Resource.Color.design_fab_shadow_end_color = global::junming.Droid.Resource.Color.design_fab_shadow_end_color;
-			global::BottomNavigationBar.Resource.Color.design_fab_shadow_mid_color = global::junming.Droid.Resource.Color.design_fab_shadow_mid_color;
-			global::BottomNavigationBar.Resource.Color.design_fab_shadow_start_color = global::junming.Droid.Resource.Color.design_fab_shadow_start_color;
-			global::BottomNavigationBar.Resource.Color.design_fab_stroke_end_inner_color = global::junming.Droid.Resource.Color.design_fab_stroke_end_inner_color;
-			global::BottomNavigationBar.Resource.Color.design_fab_stroke_end_outer_color = global::junming.Droid.Resource.Color.design_fab_stroke_end_outer_color;
-			global::BottomNavigationBar.Resource.Color.design_fab_stroke_top_inner_color = global::junming.Droid.Resource.Color.design_fab_stroke_top_inner_color;
-			global::BottomNavigationBar.Resource.Color.design_fab_stroke_top_outer_color = global::junming.Droid.Resource.Color.design_fab_stroke_top_outer_color;
-			global::BottomNavigationBar.Resource.Color.design_snackbar_background_color = global::junming.Droid.Resource.Color.design_snackbar_background_color;
-			global::BottomNavigationBar.Resource.Color.design_textinput_error_color_dark = global::junming.Droid.Resource.Color.design_textinput_error_color_dark;
-			global::BottomNavigationBar.Resource.Color.design_textinput_error_color_light = global::junming.Droid.Resource.Color.design_textinput_error_color_light;
-			global::BottomNavigationBar.Resource.Color.design_tint_password_toggle = global::junming.Droid.Resource.Color.design_tint_password_toggle;
-			global::BottomNavigationBar.Resource.Color.dim_foreground_disabled_material_dark = global::junming.Droid.Resource.Color.dim_foreground_disabled_material_dark;
-			global::BottomNavigationBar.Resource.Color.dim_foreground_disabled_material_light = global::junming.Droid.Resource.Color.dim_foreground_disabled_material_light;
-			global::BottomNavigationBar.Resource.Color.dim_foreground_material_dark = global::junming.Droid.Resource.Color.dim_foreground_material_dark;
-			global::BottomNavigationBar.Resource.Color.dim_foreground_material_light = global::junming.Droid.Resource.Color.dim_foreground_material_light;
-			global::BottomNavigationBar.Resource.Color.foreground_material_dark = global::junming.Droid.Resource.Color.foreground_material_dark;
-			global::BottomNavigationBar.Resource.Color.foreground_material_light = global::junming.Droid.Resource.Color.foreground_material_light;
-			global::BottomNavigationBar.Resource.Color.highlighted_text_material_dark = global::junming.Droid.Resource.Color.highlighted_text_material_dark;
-			global::BottomNavigationBar.Resource.Color.highlighted_text_material_light = global::junming.Droid.Resource.Color.highlighted_text_material_light;
-			global::BottomNavigationBar.Resource.Color.material_blue_grey_800 = global::junming.Droid.Resource.Color.material_blue_grey_800;
-			global::BottomNavigationBar.Resource.Color.material_blue_grey_900 = global::junming.Droid.Resource.Color.material_blue_grey_900;
-			global::BottomNavigationBar.Resource.Color.material_blue_grey_950 = global::junming.Droid.Resource.Color.material_blue_grey_950;
-			global::BottomNavigationBar.Resource.Color.material_deep_teal_200 = global::junming.Droid.Resource.Color.material_deep_teal_200;
-			global::BottomNavigationBar.Resource.Color.material_deep_teal_500 = global::junming.Droid.Resource.Color.material_deep_teal_500;
-			global::BottomNavigationBar.Resource.Color.material_grey_100 = global::junming.Droid.Resource.Color.material_grey_100;
-			global::BottomNavigationBar.Resource.Color.material_grey_300 = global::junming.Droid.Resource.Color.material_grey_300;
-			global::BottomNavigationBar.Resource.Color.material_grey_50 = global::junming.Droid.Resource.Color.material_grey_50;
-			global::BottomNavigationBar.Resource.Color.material_grey_600 = global::junming.Droid.Resource.Color.material_grey_600;
-			global::BottomNavigationBar.Resource.Color.material_grey_800 = global::junming.Droid.Resource.Color.material_grey_800;
-			global::BottomNavigationBar.Resource.Color.material_grey_850 = global::junming.Droid.Resource.Color.material_grey_850;
-			global::BottomNavigationBar.Resource.Color.material_grey_900 = global::junming.Droid.Resource.Color.material_grey_900;
-			global::BottomNavigationBar.Resource.Color.primary_dark_material_dark = global::junming.Droid.Resource.Color.primary_dark_material_dark;
-			global::BottomNavigationBar.Resource.Color.primary_dark_material_light = global::junming.Droid.Resource.Color.primary_dark_material_light;
-			global::BottomNavigationBar.Resource.Color.primary_material_dark = global::junming.Droid.Resource.Color.primary_material_dark;
-			global::BottomNavigationBar.Resource.Color.primary_material_light = global::junming.Droid.Resource.Color.primary_material_light;
-			global::BottomNavigationBar.Resource.Color.primary_text_default_material_dark = global::junming.Droid.Resource.Color.primary_text_default_material_dark;
-			global::BottomNavigationBar.Resource.Color.primary_text_default_material_light = global::junming.Droid.Resource.Color.primary_text_default_material_light;
-			global::BottomNavigationBar.Resource.Color.primary_text_disabled_material_dark = global::junming.Droid.Resource.Color.primary_text_disabled_material_dark;
-			global::BottomNavigationBar.Resource.Color.primary_text_disabled_material_light = global::junming.Droid.Resource.Color.primary_text_disabled_material_light;
-			global::BottomNavigationBar.Resource.Color.ripple_material_dark = global::junming.Droid.Resource.Color.ripple_material_dark;
-			global::BottomNavigationBar.Resource.Color.ripple_material_light = global::junming.Droid.Resource.Color.ripple_material_light;
-			global::BottomNavigationBar.Resource.Color.secondary_text_default_material_dark = global::junming.Droid.Resource.Color.secondary_text_default_material_dark;
-			global::BottomNavigationBar.Resource.Color.secondary_text_default_material_light = global::junming.Droid.Resource.Color.secondary_text_default_material_light;
-			global::BottomNavigationBar.Resource.Color.secondary_text_disabled_material_dark = global::junming.Droid.Resource.Color.secondary_text_disabled_material_dark;
-			global::BottomNavigationBar.Resource.Color.secondary_text_disabled_material_light = global::junming.Droid.Resource.Color.secondary_text_disabled_material_light;
-			global::BottomNavigationBar.Resource.Color.switch_thumb_disabled_material_dark = global::junming.Droid.Resource.Color.switch_thumb_disabled_material_dark;
-			global::BottomNavigationBar.Resource.Color.switch_thumb_disabled_material_light = global::junming.Droid.Resource.Color.switch_thumb_disabled_material_light;
-			global::BottomNavigationBar.Resource.Color.switch_thumb_material_dark = global::junming.Droid.Resource.Color.switch_thumb_material_dark;
-			global::BottomNavigationBar.Resource.Color.switch_thumb_material_light = global::junming.Droid.Resource.Color.switch_thumb_material_light;
-			global::BottomNavigationBar.Resource.Color.switch_thumb_normal_material_dark = global::junming.Droid.Resource.Color.switch_thumb_normal_material_dark;
-			global::BottomNavigationBar.Resource.Color.switch_thumb_normal_material_light = global::junming.Droid.Resource.Color.switch_thumb_normal_material_light;
-			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_content_inset_material = global::junming.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::junming.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
-			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_default_height_material = global::junming.Droid.Resource.Dimension.abc_action_bar_default_height_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_default_padding_end_material = global::junming.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_default_padding_start_material = global::junming.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_elevation_material = global::junming.Droid.Resource.Dimension.abc_action_bar_elevation_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::junming.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::junming.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::junming.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_progress_bar_size = global::junming.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
-			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_stacked_max_height = global::junming.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
-			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::junming.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
-			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::junming.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::junming.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_action_button_min_height_material = global::junming.Droid.Resource.Dimension.abc_action_button_min_height_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_action_button_min_width_material = global::junming.Droid.Resource.Dimension.abc_action_button_min_width_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_action_button_min_width_overflow_material = global::junming.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_alert_dialog_button_bar_height = global::junming.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
-			global::BottomNavigationBar.Resource.Dimension.abc_button_inset_horizontal_material = global::junming.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_button_inset_vertical_material = global::junming.Droid.Resource.Dimension.abc_button_inset_vertical_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_button_padding_horizontal_material = global::junming.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_button_padding_vertical_material = global::junming.Droid.Resource.Dimension.abc_button_padding_vertical_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::junming.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
-			global::BottomNavigationBar.Resource.Dimension.abc_config_prefDialogWidth = global::junming.Droid.Resource.Dimension.abc_config_prefDialogWidth;
-			global::BottomNavigationBar.Resource.Dimension.abc_control_corner_material = global::junming.Droid.Resource.Dimension.abc_control_corner_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_control_inset_material = global::junming.Droid.Resource.Dimension.abc_control_inset_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_control_padding_material = global::junming.Droid.Resource.Dimension.abc_control_padding_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_dialog_fixed_height_major = global::junming.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
-			global::BottomNavigationBar.Resource.Dimension.abc_dialog_fixed_height_minor = global::junming.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
-			global::BottomNavigationBar.Resource.Dimension.abc_dialog_fixed_width_major = global::junming.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
-			global::BottomNavigationBar.Resource.Dimension.abc_dialog_fixed_width_minor = global::junming.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
-			global::BottomNavigationBar.Resource.Dimension.abc_dialog_min_width_major = global::junming.Droid.Resource.Dimension.abc_dialog_min_width_major;
-			global::BottomNavigationBar.Resource.Dimension.abc_dialog_min_width_minor = global::junming.Droid.Resource.Dimension.abc_dialog_min_width_minor;
-			global::BottomNavigationBar.Resource.Dimension.abc_dialog_padding_material = global::junming.Droid.Resource.Dimension.abc_dialog_padding_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_dialog_padding_top_material = global::junming.Droid.Resource.Dimension.abc_dialog_padding_top_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_disabled_alpha_material_dark = global::junming.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
-			global::BottomNavigationBar.Resource.Dimension.abc_disabled_alpha_material_light = global::junming.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
-			global::BottomNavigationBar.Resource.Dimension.abc_dropdownitem_icon_width = global::junming.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
-			global::BottomNavigationBar.Resource.Dimension.abc_dropdownitem_text_padding_left = global::junming.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
-			global::BottomNavigationBar.Resource.Dimension.abc_dropdownitem_text_padding_right = global::junming.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
-			global::BottomNavigationBar.Resource.Dimension.abc_edit_text_inset_bottom_material = global::junming.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::junming.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_edit_text_inset_top_material = global::junming.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_floating_window_z = global::junming.Droid.Resource.Dimension.abc_floating_window_z;
-			global::BottomNavigationBar.Resource.Dimension.abc_list_item_padding_horizontal_material = global::junming.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_panel_menu_list_width = global::junming.Droid.Resource.Dimension.abc_panel_menu_list_width;
-			global::BottomNavigationBar.Resource.Dimension.abc_progress_bar_height_material = global::junming.Droid.Resource.Dimension.abc_progress_bar_height_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_search_view_preferred_height = global::junming.Droid.Resource.Dimension.abc_search_view_preferred_height;
-			global::BottomNavigationBar.Resource.Dimension.abc_search_view_preferred_width = global::junming.Droid.Resource.Dimension.abc_search_view_preferred_width;
-			global::BottomNavigationBar.Resource.Dimension.abc_seekbar_track_background_height_material = global::junming.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_seekbar_track_progress_height_material = global::junming.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_select_dialog_padding_start_material = global::junming.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_switch_padding = global::junming.Droid.Resource.Dimension.abc_switch_padding;
-			global::BottomNavigationBar.Resource.Dimension.abc_text_size_body_1_material = global::junming.Droid.Resource.Dimension.abc_text_size_body_1_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_text_size_body_2_material = global::junming.Droid.Resource.Dimension.abc_text_size_body_2_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_text_size_button_material = global::junming.Droid.Resource.Dimension.abc_text_size_button_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_text_size_caption_material = global::junming.Droid.Resource.Dimension.abc_text_size_caption_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_text_size_display_1_material = global::junming.Droid.Resource.Dimension.abc_text_size_display_1_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_text_size_display_2_material = global::junming.Droid.Resource.Dimension.abc_text_size_display_2_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_text_size_display_3_material = global::junming.Droid.Resource.Dimension.abc_text_size_display_3_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_text_size_display_4_material = global::junming.Droid.Resource.Dimension.abc_text_size_display_4_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_text_size_headline_material = global::junming.Droid.Resource.Dimension.abc_text_size_headline_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_text_size_large_material = global::junming.Droid.Resource.Dimension.abc_text_size_large_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_text_size_medium_material = global::junming.Droid.Resource.Dimension.abc_text_size_medium_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_text_size_menu_header_material = global::junming.Droid.Resource.Dimension.abc_text_size_menu_header_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_text_size_menu_material = global::junming.Droid.Resource.Dimension.abc_text_size_menu_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_text_size_small_material = global::junming.Droid.Resource.Dimension.abc_text_size_small_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_text_size_subhead_material = global::junming.Droid.Resource.Dimension.abc_text_size_subhead_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::junming.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
-			global::BottomNavigationBar.Resource.Dimension.abc_text_size_title_material = global::junming.Droid.Resource.Dimension.abc_text_size_title_material;
-			global::BottomNavigationBar.Resource.Dimension.abc_text_size_title_material_toolbar = global::junming.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
-			global::BottomNavigationBar.Resource.Dimension.activity_horizontal_margin = global::junming.Droid.Resource.Dimension.activity_horizontal_margin;
-			global::BottomNavigationBar.Resource.Dimension.activity_vertical_margin = global::junming.Droid.Resource.Dimension.activity_vertical_margin;
-			global::BottomNavigationBar.Resource.Dimension.bb_height = global::junming.Droid.Resource.Dimension.bb_height;
-			global::BottomNavigationBar.Resource.Dimension.bottom_bar_elevation = global::junming.Droid.Resource.Dimension.bottom_bar_elevation;
-			global::BottomNavigationBar.Resource.Dimension.design_appbar_elevation = global::junming.Droid.Resource.Dimension.design_appbar_elevation;
-			global::BottomNavigationBar.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::junming.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
-			global::BottomNavigationBar.Resource.Dimension.design_bottom_navigation_active_text_size = global::junming.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
-			global::BottomNavigationBar.Resource.Dimension.design_bottom_navigation_height = global::junming.Droid.Resource.Dimension.design_bottom_navigation_height;
-			global::BottomNavigationBar.Resource.Dimension.design_bottom_navigation_item_max_width = global::junming.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
-			global::BottomNavigationBar.Resource.Dimension.design_bottom_navigation_margin = global::junming.Droid.Resource.Dimension.design_bottom_navigation_margin;
-			global::BottomNavigationBar.Resource.Dimension.design_bottom_navigation_text_size = global::junming.Droid.Resource.Dimension.design_bottom_navigation_text_size;
-			global::BottomNavigationBar.Resource.Dimension.design_bottom_sheet_modal_elevation = global::junming.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
-			global::BottomNavigationBar.Resource.Dimension.design_bottom_sheet_peek_height_min = global::junming.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
-			global::BottomNavigationBar.Resource.Dimension.design_fab_border_width = global::junming.Droid.Resource.Dimension.design_fab_border_width;
-			global::BottomNavigationBar.Resource.Dimension.design_fab_elevation = global::junming.Droid.Resource.Dimension.design_fab_elevation;
-			global::BottomNavigationBar.Resource.Dimension.design_fab_image_size = global::junming.Droid.Resource.Dimension.design_fab_image_size;
-			global::BottomNavigationBar.Resource.Dimension.design_fab_size_mini = global::junming.Droid.Resource.Dimension.design_fab_size_mini;
-			global::BottomNavigationBar.Resource.Dimension.design_fab_size_normal = global::junming.Droid.Resource.Dimension.design_fab_size_normal;
-			global::BottomNavigationBar.Resource.Dimension.design_fab_translation_z_pressed = global::junming.Droid.Resource.Dimension.design_fab_translation_z_pressed;
-			global::BottomNavigationBar.Resource.Dimension.design_navigation_elevation = global::junming.Droid.Resource.Dimension.design_navigation_elevation;
-			global::BottomNavigationBar.Resource.Dimension.design_navigation_icon_padding = global::junming.Droid.Resource.Dimension.design_navigation_icon_padding;
-			global::BottomNavigationBar.Resource.Dimension.design_navigation_icon_size = global::junming.Droid.Resource.Dimension.design_navigation_icon_size;
-			global::BottomNavigationBar.Resource.Dimension.design_navigation_max_width = global::junming.Droid.Resource.Dimension.design_navigation_max_width;
-			global::BottomNavigationBar.Resource.Dimension.design_navigation_padding_bottom = global::junming.Droid.Resource.Dimension.design_navigation_padding_bottom;
-			global::BottomNavigationBar.Resource.Dimension.design_navigation_separator_vertical_padding = global::junming.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
-			global::BottomNavigationBar.Resource.Dimension.design_snackbar_action_inline_max_width = global::junming.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
-			global::BottomNavigationBar.Resource.Dimension.design_snackbar_background_corner_radius = global::junming.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
-			global::BottomNavigationBar.Resource.Dimension.design_snackbar_elevation = global::junming.Droid.Resource.Dimension.design_snackbar_elevation;
-			global::BottomNavigationBar.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::junming.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
-			global::BottomNavigationBar.Resource.Dimension.design_snackbar_max_width = global::junming.Droid.Resource.Dimension.design_snackbar_max_width;
-			global::BottomNavigationBar.Resource.Dimension.design_snackbar_min_width = global::junming.Droid.Resource.Dimension.design_snackbar_min_width;
-			global::BottomNavigationBar.Resource.Dimension.design_snackbar_padding_horizontal = global::junming.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
-			global::BottomNavigationBar.Resource.Dimension.design_snackbar_padding_vertical = global::junming.Droid.Resource.Dimension.design_snackbar_padding_vertical;
-			global::BottomNavigationBar.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::junming.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
-			global::BottomNavigationBar.Resource.Dimension.design_snackbar_text_size = global::junming.Droid.Resource.Dimension.design_snackbar_text_size;
-			global::BottomNavigationBar.Resource.Dimension.design_tab_max_width = global::junming.Droid.Resource.Dimension.design_tab_max_width;
-			global::BottomNavigationBar.Resource.Dimension.design_tab_scrollable_min_width = global::junming.Droid.Resource.Dimension.design_tab_scrollable_min_width;
-			global::BottomNavigationBar.Resource.Dimension.design_tab_text_size = global::junming.Droid.Resource.Dimension.design_tab_text_size;
-			global::BottomNavigationBar.Resource.Dimension.design_tab_text_size_2line = global::junming.Droid.Resource.Dimension.design_tab_text_size_2line;
-			global::BottomNavigationBar.Resource.Dimension.disabled_alpha_material_dark = global::junming.Droid.Resource.Dimension.disabled_alpha_material_dark;
-			global::BottomNavigationBar.Resource.Dimension.disabled_alpha_material_light = global::junming.Droid.Resource.Dimension.disabled_alpha_material_light;
-			global::BottomNavigationBar.Resource.Dimension.highlight_alpha_material_colored = global::junming.Droid.Resource.Dimension.highlight_alpha_material_colored;
-			global::BottomNavigationBar.Resource.Dimension.highlight_alpha_material_dark = global::junming.Droid.Resource.Dimension.highlight_alpha_material_dark;
-			global::BottomNavigationBar.Resource.Dimension.highlight_alpha_material_light = global::junming.Droid.Resource.Dimension.highlight_alpha_material_light;
-			global::BottomNavigationBar.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::junming.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
-			global::BottomNavigationBar.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::junming.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
-			global::BottomNavigationBar.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::junming.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
-			global::BottomNavigationBar.Resource.Dimension.notification_large_icon_height = global::junming.Droid.Resource.Dimension.notification_large_icon_height;
-			global::BottomNavigationBar.Resource.Dimension.notification_large_icon_width = global::junming.Droid.Resource.Dimension.notification_large_icon_width;
-			global::BottomNavigationBar.Resource.Dimension.notification_subtext_size = global::junming.Droid.Resource.Dimension.notification_subtext_size;
-			global::BottomNavigationBar.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::junming.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
-			global::BottomNavigationBar.Resource.Drawable.abc_action_bar_item_background_material = global::junming.Droid.Resource.Drawable.abc_action_bar_item_background_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_btn_borderless_material = global::junming.Droid.Resource.Drawable.abc_btn_borderless_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_btn_check_material = global::junming.Droid.Resource.Drawable.abc_btn_check_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::junming.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
-			global::BottomNavigationBar.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::junming.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
-			global::BottomNavigationBar.Resource.Drawable.abc_btn_colored_material = global::junming.Droid.Resource.Drawable.abc_btn_colored_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_btn_default_mtrl_shape = global::junming.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
-			global::BottomNavigationBar.Resource.Drawable.abc_btn_radio_material = global::junming.Droid.Resource.Drawable.abc_btn_radio_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::junming.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
-			global::BottomNavigationBar.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::junming.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
-			global::BottomNavigationBar.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::junming.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
-			global::BottomNavigationBar.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::junming.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
-			global::BottomNavigationBar.Resource.Drawable.abc_cab_background_internal_bg = global::junming.Droid.Resource.Drawable.abc_cab_background_internal_bg;
-			global::BottomNavigationBar.Resource.Drawable.abc_cab_background_top_material = global::junming.Droid.Resource.Drawable.abc_cab_background_top_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::junming.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
-			global::BottomNavigationBar.Resource.Drawable.abc_control_background_material = global::junming.Droid.Resource.Drawable.abc_control_background_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_dialog_material_background = global::junming.Droid.Resource.Drawable.abc_dialog_material_background;
-			global::BottomNavigationBar.Resource.Drawable.abc_edit_text_material = global::junming.Droid.Resource.Drawable.abc_edit_text_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_ic_ab_back_material = global::junming.Droid.Resource.Drawable.abc_ic_ab_back_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::junming.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
-			global::BottomNavigationBar.Resource.Drawable.abc_ic_clear_material = global::junming.Droid.Resource.Drawable.abc_ic_clear_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::junming.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
-			global::BottomNavigationBar.Resource.Drawable.abc_ic_go_search_api_material = global::junming.Droid.Resource.Drawable.abc_ic_go_search_api_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::junming.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
-			global::BottomNavigationBar.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::junming.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
-			global::BottomNavigationBar.Resource.Drawable.abc_ic_menu_overflow_material = global::junming.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::junming.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
-			global::BottomNavigationBar.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::junming.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
-			global::BottomNavigationBar.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::junming.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
-			global::BottomNavigationBar.Resource.Drawable.abc_ic_search_api_material = global::junming.Droid.Resource.Drawable.abc_ic_search_api_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_ic_star_black_16dp = global::junming.Droid.Resource.Drawable.abc_ic_star_black_16dp;
-			global::BottomNavigationBar.Resource.Drawable.abc_ic_star_black_36dp = global::junming.Droid.Resource.Drawable.abc_ic_star_black_36dp;
-			global::BottomNavigationBar.Resource.Drawable.abc_ic_star_black_48dp = global::junming.Droid.Resource.Drawable.abc_ic_star_black_48dp;
-			global::BottomNavigationBar.Resource.Drawable.abc_ic_star_half_black_16dp = global::junming.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
-			global::BottomNavigationBar.Resource.Drawable.abc_ic_star_half_black_36dp = global::junming.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
-			global::BottomNavigationBar.Resource.Drawable.abc_ic_star_half_black_48dp = global::junming.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
-			global::BottomNavigationBar.Resource.Drawable.abc_ic_voice_search_api_material = global::junming.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_item_background_holo_dark = global::junming.Droid.Resource.Drawable.abc_item_background_holo_dark;
-			global::BottomNavigationBar.Resource.Drawable.abc_item_background_holo_light = global::junming.Droid.Resource.Drawable.abc_item_background_holo_light;
-			global::BottomNavigationBar.Resource.Drawable.abc_list_divider_mtrl_alpha = global::junming.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
-			global::BottomNavigationBar.Resource.Drawable.abc_list_focused_holo = global::junming.Droid.Resource.Drawable.abc_list_focused_holo;
-			global::BottomNavigationBar.Resource.Drawable.abc_list_longpressed_holo = global::junming.Droid.Resource.Drawable.abc_list_longpressed_holo;
-			global::BottomNavigationBar.Resource.Drawable.abc_list_pressed_holo_dark = global::junming.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
-			global::BottomNavigationBar.Resource.Drawable.abc_list_pressed_holo_light = global::junming.Droid.Resource.Drawable.abc_list_pressed_holo_light;
-			global::BottomNavigationBar.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::junming.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
-			global::BottomNavigationBar.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::junming.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
-			global::BottomNavigationBar.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::junming.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
-			global::BottomNavigationBar.Resource.Drawable.abc_list_selector_disabled_holo_light = global::junming.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
-			global::BottomNavigationBar.Resource.Drawable.abc_list_selector_holo_dark = global::junming.Droid.Resource.Drawable.abc_list_selector_holo_dark;
-			global::BottomNavigationBar.Resource.Drawable.abc_list_selector_holo_light = global::junming.Droid.Resource.Drawable.abc_list_selector_holo_light;
-			global::BottomNavigationBar.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::junming.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
-			global::BottomNavigationBar.Resource.Drawable.abc_popup_background_mtrl_mult = global::junming.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
-			global::BottomNavigationBar.Resource.Drawable.abc_ratingbar_indicator_material = global::junming.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_ratingbar_material = global::junming.Droid.Resource.Drawable.abc_ratingbar_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_ratingbar_small_material = global::junming.Droid.Resource.Drawable.abc_ratingbar_small_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::junming.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
-			global::BottomNavigationBar.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::junming.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
-			global::BottomNavigationBar.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::junming.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
-			global::BottomNavigationBar.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::junming.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
-			global::BottomNavigationBar.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::junming.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
-			global::BottomNavigationBar.Resource.Drawable.abc_seekbar_thumb_material = global::junming.Droid.Resource.Drawable.abc_seekbar_thumb_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_seekbar_tick_mark_material = global::junming.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_seekbar_track_material = global::junming.Droid.Resource.Drawable.abc_seekbar_track_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::junming.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
-			global::BottomNavigationBar.Resource.Drawable.abc_spinner_textfield_background_material = global::junming.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_switch_thumb_material = global::junming.Droid.Resource.Drawable.abc_switch_thumb_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_switch_track_mtrl_alpha = global::junming.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
-			global::BottomNavigationBar.Resource.Drawable.abc_tab_indicator_material = global::junming.Droid.Resource.Drawable.abc_tab_indicator_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::junming.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
-			global::BottomNavigationBar.Resource.Drawable.abc_text_cursor_material = global::junming.Droid.Resource.Drawable.abc_text_cursor_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::junming.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
-			global::BottomNavigationBar.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::junming.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
-			global::BottomNavigationBar.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::junming.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
-			global::BottomNavigationBar.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::junming.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
-			global::BottomNavigationBar.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::junming.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
-			global::BottomNavigationBar.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::junming.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
-			global::BottomNavigationBar.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::junming.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
-			global::BottomNavigationBar.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::junming.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
-			global::BottomNavigationBar.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::junming.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
-			global::BottomNavigationBar.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::junming.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
-			global::BottomNavigationBar.Resource.Drawable.abc_textfield_search_material = global::junming.Droid.Resource.Drawable.abc_textfield_search_material;
-			global::BottomNavigationBar.Resource.Drawable.abc_vector_test = global::junming.Droid.Resource.Drawable.abc_vector_test;
-			global::BottomNavigationBar.Resource.Drawable.bb_bottom_bar_top_shadow = global::junming.Droid.Resource.Drawable.bb_bottom_bar_top_shadow;
-			global::BottomNavigationBar.Resource.Drawable.design_fab_background = global::junming.Droid.Resource.Drawable.design_fab_background;
-			global::BottomNavigationBar.Resource.Drawable.design_ic_visibility = global::junming.Droid.Resource.Drawable.design_ic_visibility;
-			global::BottomNavigationBar.Resource.Drawable.design_snackbar_background = global::junming.Droid.Resource.Drawable.design_snackbar_background;
-			global::BottomNavigationBar.Resource.Drawable.navigation_empty_icon = global::junming.Droid.Resource.Drawable.navigation_empty_icon;
-			global::BottomNavigationBar.Resource.Drawable.notification_template_icon_bg = global::junming.Droid.Resource.Drawable.notification_template_icon_bg;
-			global::BottomNavigationBar.Resource.Id.action0 = global::junming.Droid.Resource.Id.action0;
-			global::BottomNavigationBar.Resource.Id.action_bar = global::junming.Droid.Resource.Id.action_bar;
-			global::BottomNavigationBar.Resource.Id.action_bar_activity_content = global::junming.Droid.Resource.Id.action_bar_activity_content;
-			global::BottomNavigationBar.Resource.Id.action_bar_container = global::junming.Droid.Resource.Id.action_bar_container;
-			global::BottomNavigationBar.Resource.Id.action_bar_root = global::junming.Droid.Resource.Id.action_bar_root;
-			global::BottomNavigationBar.Resource.Id.action_bar_spinner = global::junming.Droid.Resource.Id.action_bar_spinner;
-			global::BottomNavigationBar.Resource.Id.action_bar_subtitle = global::junming.Droid.Resource.Id.action_bar_subtitle;
-			global::BottomNavigationBar.Resource.Id.action_bar_title = global::junming.Droid.Resource.Id.action_bar_title;
-			global::BottomNavigationBar.Resource.Id.action_context_bar = global::junming.Droid.Resource.Id.action_context_bar;
-			global::BottomNavigationBar.Resource.Id.action_divider = global::junming.Droid.Resource.Id.action_divider;
-			global::BottomNavigationBar.Resource.Id.action_menu_divider = global::junming.Droid.Resource.Id.action_menu_divider;
-			global::BottomNavigationBar.Resource.Id.action_menu_presenter = global::junming.Droid.Resource.Id.action_menu_presenter;
-			global::BottomNavigationBar.Resource.Id.action_mode_bar = global::junming.Droid.Resource.Id.action_mode_bar;
-			global::BottomNavigationBar.Resource.Id.action_mode_bar_stub = global::junming.Droid.Resource.Id.action_mode_bar_stub;
-			global::BottomNavigationBar.Resource.Id.action_mode_close_button = global::junming.Droid.Resource.Id.action_mode_close_button;
-			global::BottomNavigationBar.Resource.Id.activity_chooser_view_content = global::junming.Droid.Resource.Id.activity_chooser_view_content;
-			global::BottomNavigationBar.Resource.Id.add = global::junming.Droid.Resource.Id.add;
-			global::BottomNavigationBar.Resource.Id.alertTitle = global::junming.Droid.Resource.Id.alertTitle;
-			global::BottomNavigationBar.Resource.Id.all = global::junming.Droid.Resource.Id.all;
-			global::BottomNavigationBar.Resource.Id.always = global::junming.Droid.Resource.Id.always;
-			global::BottomNavigationBar.Resource.Id.auto = global::junming.Droid.Resource.Id.auto;
-			global::BottomNavigationBar.Resource.Id.bb_bottom_bar_background_overlay = global::junming.Droid.Resource.Id.bb_bottom_bar_background_overlay;
-			global::BottomNavigationBar.Resource.Id.bb_bottom_bar_background_view = global::junming.Droid.Resource.Id.bb_bottom_bar_background_view;
-			global::BottomNavigationBar.Resource.Id.bb_bottom_bar_icon = global::junming.Droid.Resource.Id.bb_bottom_bar_icon;
-			global::BottomNavigationBar.Resource.Id.bb_bottom_bar_item_container = global::junming.Droid.Resource.Id.bb_bottom_bar_item_container;
-			global::BottomNavigationBar.Resource.Id.bb_bottom_bar_outer_container = global::junming.Droid.Resource.Id.bb_bottom_bar_outer_container;
-			global::BottomNavigationBar.Resource.Id.bb_bottom_bar_shadow = global::junming.Droid.Resource.Id.bb_bottom_bar_shadow;
-			global::BottomNavigationBar.Resource.Id.bb_bottom_bar_title = global::junming.Droid.Resource.Id.bb_bottom_bar_title;
-			global::BottomNavigationBar.Resource.Id.bb_tablet_right_border = global::junming.Droid.Resource.Id.bb_tablet_right_border;
-			global::BottomNavigationBar.Resource.Id.bb_user_content_container = global::junming.Droid.Resource.Id.bb_user_content_container;
-			global::BottomNavigationBar.Resource.Id.beginning = global::junming.Droid.Resource.Id.beginning;
-			global::BottomNavigationBar.Resource.Id.bottom = global::junming.Droid.Resource.Id.bottom;
-			global::BottomNavigationBar.Resource.Id.buttonPanel = global::junming.Droid.Resource.Id.buttonPanel;
-			global::BottomNavigationBar.Resource.Id.cancel_action = global::junming.Droid.Resource.Id.cancel_action;
-			global::BottomNavigationBar.Resource.Id.center = global::junming.Droid.Resource.Id.center;
-			global::BottomNavigationBar.Resource.Id.center_horizontal = global::junming.Droid.Resource.Id.center_horizontal;
-			global::BottomNavigationBar.Resource.Id.center_vertical = global::junming.Droid.Resource.Id.center_vertical;
-			global::BottomNavigationBar.Resource.Id.checkbox = global::junming.Droid.Resource.Id.checkbox;
-			global::BottomNavigationBar.Resource.Id.chronometer = global::junming.Droid.Resource.Id.chronometer;
-			global::BottomNavigationBar.Resource.Id.clip_horizontal = global::junming.Droid.Resource.Id.clip_horizontal;
-			global::BottomNavigationBar.Resource.Id.clip_vertical = global::junming.Droid.Resource.Id.clip_vertical;
-			global::BottomNavigationBar.Resource.Id.collapseActionView = global::junming.Droid.Resource.Id.collapseActionView;
-			global::BottomNavigationBar.Resource.Id.contentPanel = global::junming.Droid.Resource.Id.contentPanel;
-			global::BottomNavigationBar.Resource.Id.custom = global::junming.Droid.Resource.Id.custom;
-			global::BottomNavigationBar.Resource.Id.customPanel = global::junming.Droid.Resource.Id.customPanel;
-			global::BottomNavigationBar.Resource.Id.decor_content_parent = global::junming.Droid.Resource.Id.decor_content_parent;
-			global::BottomNavigationBar.Resource.Id.default_activity_button = global::junming.Droid.Resource.Id.default_activity_button;
-			global::BottomNavigationBar.Resource.Id.design_bottom_sheet = global::junming.Droid.Resource.Id.design_bottom_sheet;
-			global::BottomNavigationBar.Resource.Id.design_menu_item_action_area = global::junming.Droid.Resource.Id.design_menu_item_action_area;
-			global::BottomNavigationBar.Resource.Id.design_menu_item_action_area_stub = global::junming.Droid.Resource.Id.design_menu_item_action_area_stub;
-			global::BottomNavigationBar.Resource.Id.design_menu_item_text = global::junming.Droid.Resource.Id.design_menu_item_text;
-			global::BottomNavigationBar.Resource.Id.design_navigation_view = global::junming.Droid.Resource.Id.design_navigation_view;
-			global::BottomNavigationBar.Resource.Id.disableHome = global::junming.Droid.Resource.Id.disableHome;
-			global::BottomNavigationBar.Resource.Id.edit_query = global::junming.Droid.Resource.Id.edit_query;
-			global::BottomNavigationBar.Resource.Id.end = global::junming.Droid.Resource.Id.end;
-			global::BottomNavigationBar.Resource.Id.end_padder = global::junming.Droid.Resource.Id.end_padder;
-			global::BottomNavigationBar.Resource.Id.enterAlways = global::junming.Droid.Resource.Id.enterAlways;
-			global::BottomNavigationBar.Resource.Id.enterAlwaysCollapsed = global::junming.Droid.Resource.Id.enterAlwaysCollapsed;
-			global::BottomNavigationBar.Resource.Id.exitUntilCollapsed = global::junming.Droid.Resource.Id.exitUntilCollapsed;
-			global::BottomNavigationBar.Resource.Id.expand_activities_button = global::junming.Droid.Resource.Id.expand_activities_button;
-			global::BottomNavigationBar.Resource.Id.expanded_menu = global::junming.Droid.Resource.Id.expanded_menu;
-			global::BottomNavigationBar.Resource.Id.fill = global::junming.Droid.Resource.Id.fill;
-			global::BottomNavigationBar.Resource.Id.fill_horizontal = global::junming.Droid.Resource.Id.fill_horizontal;
-			global::BottomNavigationBar.Resource.Id.fill_vertical = global::junming.Droid.Resource.Id.fill_vertical;
-			global::BottomNavigationBar.Resource.Id.@fixed = global::junming.Droid.Resource.Id.@fixed;
-			global::BottomNavigationBar.Resource.Id.home = global::junming.Droid.Resource.Id.home;
-			global::BottomNavigationBar.Resource.Id.homeAsUp = global::junming.Droid.Resource.Id.homeAsUp;
-			global::BottomNavigationBar.Resource.Id.icon = global::junming.Droid.Resource.Id.icon;
-			global::BottomNavigationBar.Resource.Id.ifRoom = global::junming.Droid.Resource.Id.ifRoom;
-			global::BottomNavigationBar.Resource.Id.image = global::junming.Droid.Resource.Id.image;
-			global::BottomNavigationBar.Resource.Id.info = global::junming.Droid.Resource.Id.info;
-			global::BottomNavigationBar.Resource.Id.item_touch_helper_previous_elevation = global::junming.Droid.Resource.Id.item_touch_helper_previous_elevation;
-			global::BottomNavigationBar.Resource.Id.left = global::junming.Droid.Resource.Id.left;
-			global::BottomNavigationBar.Resource.Id.line1 = global::junming.Droid.Resource.Id.line1;
-			global::BottomNavigationBar.Resource.Id.line3 = global::junming.Droid.Resource.Id.line3;
-			global::BottomNavigationBar.Resource.Id.listMode = global::junming.Droid.Resource.Id.listMode;
-			global::BottomNavigationBar.Resource.Id.list_item = global::junming.Droid.Resource.Id.list_item;
-			global::BottomNavigationBar.Resource.Id.media_actions = global::junming.Droid.Resource.Id.media_actions;
-			global::BottomNavigationBar.Resource.Id.middle = global::junming.Droid.Resource.Id.middle;
-			global::BottomNavigationBar.Resource.Id.mini = global::junming.Droid.Resource.Id.mini;
-			global::BottomNavigationBar.Resource.Id.multiply = global::junming.Droid.Resource.Id.multiply;
-			global::BottomNavigationBar.Resource.Id.navigation_header_container = global::junming.Droid.Resource.Id.navigation_header_container;
-			global::BottomNavigationBar.Resource.Id.never = global::junming.Droid.Resource.Id.never;
-			global::BottomNavigationBar.Resource.Id.none = global::junming.Droid.Resource.Id.none;
-			global::BottomNavigationBar.Resource.Id.normal = global::junming.Droid.Resource.Id.normal;
-			global::BottomNavigationBar.Resource.Id.parallax = global::junming.Droid.Resource.Id.parallax;
-			global::BottomNavigationBar.Resource.Id.parentPanel = global::junming.Droid.Resource.Id.parentPanel;
-			global::BottomNavigationBar.Resource.Id.pin = global::junming.Droid.Resource.Id.pin;
-			global::BottomNavigationBar.Resource.Id.progress_circular = global::junming.Droid.Resource.Id.progress_circular;
-			global::BottomNavigationBar.Resource.Id.progress_horizontal = global::junming.Droid.Resource.Id.progress_horizontal;
-			global::BottomNavigationBar.Resource.Id.radio = global::junming.Droid.Resource.Id.radio;
-			global::BottomNavigationBar.Resource.Id.right = global::junming.Droid.Resource.Id.right;
-			global::BottomNavigationBar.Resource.Id.screen = global::junming.Droid.Resource.Id.screen;
-			global::BottomNavigationBar.Resource.Id.scroll = global::junming.Droid.Resource.Id.scroll;
-			global::BottomNavigationBar.Resource.Id.scrollIndicatorDown = global::junming.Droid.Resource.Id.scrollIndicatorDown;
-			global::BottomNavigationBar.Resource.Id.scrollIndicatorUp = global::junming.Droid.Resource.Id.scrollIndicatorUp;
-			global::BottomNavigationBar.Resource.Id.scrollView = global::junming.Droid.Resource.Id.scrollView;
-			global::BottomNavigationBar.Resource.Id.scrollable = global::junming.Droid.Resource.Id.scrollable;
-			global::BottomNavigationBar.Resource.Id.search_badge = global::junming.Droid.Resource.Id.search_badge;
-			global::BottomNavigationBar.Resource.Id.search_bar = global::junming.Droid.Resource.Id.search_bar;
-			global::BottomNavigationBar.Resource.Id.search_button = global::junming.Droid.Resource.Id.search_button;
-			global::BottomNavigationBar.Resource.Id.search_close_btn = global::junming.Droid.Resource.Id.search_close_btn;
-			global::BottomNavigationBar.Resource.Id.search_edit_frame = global::junming.Droid.Resource.Id.search_edit_frame;
-			global::BottomNavigationBar.Resource.Id.search_go_btn = global::junming.Droid.Resource.Id.search_go_btn;
-			global::BottomNavigationBar.Resource.Id.search_mag_icon = global::junming.Droid.Resource.Id.search_mag_icon;
-			global::BottomNavigationBar.Resource.Id.search_plate = global::junming.Droid.Resource.Id.search_plate;
-			global::BottomNavigationBar.Resource.Id.search_src_text = global::junming.Droid.Resource.Id.search_src_text;
-			global::BottomNavigationBar.Resource.Id.search_voice_btn = global::junming.Droid.Resource.Id.search_voice_btn;
-			global::BottomNavigationBar.Resource.Id.select_dialog_listview = global::junming.Droid.Resource.Id.select_dialog_listview;
-			global::BottomNavigationBar.Resource.Id.shortcut = global::junming.Droid.Resource.Id.shortcut;
-			global::BottomNavigationBar.Resource.Id.showCustom = global::junming.Droid.Resource.Id.showCustom;
-			global::BottomNavigationBar.Resource.Id.showHome = global::junming.Droid.Resource.Id.showHome;
-			global::BottomNavigationBar.Resource.Id.showTitle = global::junming.Droid.Resource.Id.showTitle;
-			global::BottomNavigationBar.Resource.Id.snackbar_action = global::junming.Droid.Resource.Id.snackbar_action;
-			global::BottomNavigationBar.Resource.Id.snackbar_text = global::junming.Droid.Resource.Id.snackbar_text;
-			global::BottomNavigationBar.Resource.Id.snap = global::junming.Droid.Resource.Id.snap;
-			global::BottomNavigationBar.Resource.Id.spacer = global::junming.Droid.Resource.Id.spacer;
-			global::BottomNavigationBar.Resource.Id.split_action_bar = global::junming.Droid.Resource.Id.split_action_bar;
-			global::BottomNavigationBar.Resource.Id.src_atop = global::junming.Droid.Resource.Id.src_atop;
-			global::BottomNavigationBar.Resource.Id.src_in = global::junming.Droid.Resource.Id.src_in;
-			global::BottomNavigationBar.Resource.Id.src_over = global::junming.Droid.Resource.Id.src_over;
-			global::BottomNavigationBar.Resource.Id.start = global::junming.Droid.Resource.Id.start;
-			global::BottomNavigationBar.Resource.Id.status_bar_latest_event_content = global::junming.Droid.Resource.Id.status_bar_latest_event_content;
-			global::BottomNavigationBar.Resource.Id.submenuarrow = global::junming.Droid.Resource.Id.submenuarrow;
-			global::BottomNavigationBar.Resource.Id.submit_area = global::junming.Droid.Resource.Id.submit_area;
-			global::BottomNavigationBar.Resource.Id.tabMode = global::junming.Droid.Resource.Id.tabMode;
-			global::BottomNavigationBar.Resource.Id.text = global::junming.Droid.Resource.Id.text;
-			global::BottomNavigationBar.Resource.Id.text2 = global::junming.Droid.Resource.Id.text2;
-			global::BottomNavigationBar.Resource.Id.textSpacerNoButtons = global::junming.Droid.Resource.Id.textSpacerNoButtons;
-			global::BottomNavigationBar.Resource.Id.text_input_password_toggle = global::junming.Droid.Resource.Id.text_input_password_toggle;
-			global::BottomNavigationBar.Resource.Id.time = global::junming.Droid.Resource.Id.time;
-			global::BottomNavigationBar.Resource.Id.title = global::junming.Droid.Resource.Id.title;
-			global::BottomNavigationBar.Resource.Id.title_template = global::junming.Droid.Resource.Id.title_template;
-			global::BottomNavigationBar.Resource.Id.top = global::junming.Droid.Resource.Id.top;
-			global::BottomNavigationBar.Resource.Id.topPanel = global::junming.Droid.Resource.Id.topPanel;
-			global::BottomNavigationBar.Resource.Id.touch_outside = global::junming.Droid.Resource.Id.touch_outside;
-			global::BottomNavigationBar.Resource.Id.up = global::junming.Droid.Resource.Id.up;
-			global::BottomNavigationBar.Resource.Id.useLogo = global::junming.Droid.Resource.Id.useLogo;
-			global::BottomNavigationBar.Resource.Id.view_offset_helper = global::junming.Droid.Resource.Id.view_offset_helper;
-			global::BottomNavigationBar.Resource.Id.withText = global::junming.Droid.Resource.Id.withText;
-			global::BottomNavigationBar.Resource.Id.wrap_content = global::junming.Droid.Resource.Id.wrap_content;
-			global::BottomNavigationBar.Resource.Integer.abc_config_activityDefaultDur = global::junming.Droid.Resource.Integer.abc_config_activityDefaultDur;
-			global::BottomNavigationBar.Resource.Integer.abc_config_activityShortDur = global::junming.Droid.Resource.Integer.abc_config_activityShortDur;
-			global::BottomNavigationBar.Resource.Integer.app_bar_elevation_anim_duration = global::junming.Droid.Resource.Integer.app_bar_elevation_anim_duration;
-			global::BottomNavigationBar.Resource.Integer.bottom_sheet_slide_duration = global::junming.Droid.Resource.Integer.bottom_sheet_slide_duration;
-			global::BottomNavigationBar.Resource.Integer.cancel_button_image_alpha = global::junming.Droid.Resource.Integer.cancel_button_image_alpha;
-			global::BottomNavigationBar.Resource.Integer.design_snackbar_text_max_lines = global::junming.Droid.Resource.Integer.design_snackbar_text_max_lines;
-			global::BottomNavigationBar.Resource.Integer.status_bar_notification_info_maxnum = global::junming.Droid.Resource.Integer.status_bar_notification_info_maxnum;
-			global::BottomNavigationBar.Resource.Layout.abc_action_bar_title_item = global::junming.Droid.Resource.Layout.abc_action_bar_title_item;
-			global::BottomNavigationBar.Resource.Layout.abc_action_bar_up_container = global::junming.Droid.Resource.Layout.abc_action_bar_up_container;
-			global::BottomNavigationBar.Resource.Layout.abc_action_bar_view_list_nav_layout = global::junming.Droid.Resource.Layout.abc_action_bar_view_list_nav_layout;
-			global::BottomNavigationBar.Resource.Layout.abc_action_menu_item_layout = global::junming.Droid.Resource.Layout.abc_action_menu_item_layout;
-			global::BottomNavigationBar.Resource.Layout.abc_action_menu_layout = global::junming.Droid.Resource.Layout.abc_action_menu_layout;
-			global::BottomNavigationBar.Resource.Layout.abc_action_mode_bar = global::junming.Droid.Resource.Layout.abc_action_mode_bar;
-			global::BottomNavigationBar.Resource.Layout.abc_action_mode_close_item_material = global::junming.Droid.Resource.Layout.abc_action_mode_close_item_material;
-			global::BottomNavigationBar.Resource.Layout.abc_activity_chooser_view = global::junming.Droid.Resource.Layout.abc_activity_chooser_view;
-			global::BottomNavigationBar.Resource.Layout.abc_activity_chooser_view_list_item = global::junming.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
-			global::BottomNavigationBar.Resource.Layout.abc_alert_dialog_button_bar_material = global::junming.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
-			global::BottomNavigationBar.Resource.Layout.abc_alert_dialog_material = global::junming.Droid.Resource.Layout.abc_alert_dialog_material;
-			global::BottomNavigationBar.Resource.Layout.abc_dialog_title_material = global::junming.Droid.Resource.Layout.abc_dialog_title_material;
-			global::BottomNavigationBar.Resource.Layout.abc_expanded_menu_layout = global::junming.Droid.Resource.Layout.abc_expanded_menu_layout;
-			global::BottomNavigationBar.Resource.Layout.abc_list_menu_item_checkbox = global::junming.Droid.Resource.Layout.abc_list_menu_item_checkbox;
-			global::BottomNavigationBar.Resource.Layout.abc_list_menu_item_icon = global::junming.Droid.Resource.Layout.abc_list_menu_item_icon;
-			global::BottomNavigationBar.Resource.Layout.abc_list_menu_item_layout = global::junming.Droid.Resource.Layout.abc_list_menu_item_layout;
-			global::BottomNavigationBar.Resource.Layout.abc_list_menu_item_radio = global::junming.Droid.Resource.Layout.abc_list_menu_item_radio;
-			global::BottomNavigationBar.Resource.Layout.abc_popup_menu_header_item_layout = global::junming.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
-			global::BottomNavigationBar.Resource.Layout.abc_popup_menu_item_layout = global::junming.Droid.Resource.Layout.abc_popup_menu_item_layout;
-			global::BottomNavigationBar.Resource.Layout.abc_screen_content_include = global::junming.Droid.Resource.Layout.abc_screen_content_include;
-			global::BottomNavigationBar.Resource.Layout.abc_screen_simple = global::junming.Droid.Resource.Layout.abc_screen_simple;
-			global::BottomNavigationBar.Resource.Layout.abc_screen_simple_overlay_action_mode = global::junming.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
-			global::BottomNavigationBar.Resource.Layout.abc_screen_toolbar = global::junming.Droid.Resource.Layout.abc_screen_toolbar;
-			global::BottomNavigationBar.Resource.Layout.abc_search_dropdown_item_icons_2line = global::junming.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
-			global::BottomNavigationBar.Resource.Layout.abc_search_view = global::junming.Droid.Resource.Layout.abc_search_view;
-			global::BottomNavigationBar.Resource.Layout.abc_select_dialog_material = global::junming.Droid.Resource.Layout.abc_select_dialog_material;
-			global::BottomNavigationBar.Resource.Layout.bb_bottom_bar_item_container = global::junming.Droid.Resource.Layout.bb_bottom_bar_item_container;
-			global::BottomNavigationBar.Resource.Layout.bb_bottom_bar_item_container_tablet = global::junming.Droid.Resource.Layout.bb_bottom_bar_item_container_tablet;
-			global::BottomNavigationBar.Resource.Layout.bb_bottom_bar_item_fixed = global::junming.Droid.Resource.Layout.bb_bottom_bar_item_fixed;
-			global::BottomNavigationBar.Resource.Layout.bb_bottom_bar_item_fixed_tablet = global::junming.Droid.Resource.Layout.bb_bottom_bar_item_fixed_tablet;
-			global::BottomNavigationBar.Resource.Layout.bb_bottom_bar_item_shifting = global::junming.Droid.Resource.Layout.bb_bottom_bar_item_shifting;
-			global::BottomNavigationBar.Resource.Layout.design_bottom_sheet_dialog = global::junming.Droid.Resource.Layout.design_bottom_sheet_dialog;
-			global::BottomNavigationBar.Resource.Layout.design_layout_snackbar = global::junming.Droid.Resource.Layout.design_layout_snackbar;
-			global::BottomNavigationBar.Resource.Layout.design_layout_snackbar_include = global::junming.Droid.Resource.Layout.design_layout_snackbar_include;
-			global::BottomNavigationBar.Resource.Layout.design_layout_tab_icon = global::junming.Droid.Resource.Layout.design_layout_tab_icon;
-			global::BottomNavigationBar.Resource.Layout.design_layout_tab_text = global::junming.Droid.Resource.Layout.design_layout_tab_text;
-			global::BottomNavigationBar.Resource.Layout.design_menu_item_action_area = global::junming.Droid.Resource.Layout.design_menu_item_action_area;
-			global::BottomNavigationBar.Resource.Layout.design_navigation_item = global::junming.Droid.Resource.Layout.design_navigation_item;
-			global::BottomNavigationBar.Resource.Layout.design_navigation_item_header = global::junming.Droid.Resource.Layout.design_navigation_item_header;
-			global::BottomNavigationBar.Resource.Layout.design_navigation_item_separator = global::junming.Droid.Resource.Layout.design_navigation_item_separator;
-			global::BottomNavigationBar.Resource.Layout.design_navigation_item_subheader = global::junming.Droid.Resource.Layout.design_navigation_item_subheader;
-			global::BottomNavigationBar.Resource.Layout.design_navigation_menu = global::junming.Droid.Resource.Layout.design_navigation_menu;
-			global::BottomNavigationBar.Resource.Layout.design_navigation_menu_item = global::junming.Droid.Resource.Layout.design_navigation_menu_item;
-			global::BottomNavigationBar.Resource.Layout.design_text_input_password_icon = global::junming.Droid.Resource.Layout.design_text_input_password_icon;
-			global::BottomNavigationBar.Resource.Layout.notification_media_action = global::junming.Droid.Resource.Layout.notification_media_action;
-			global::BottomNavigationBar.Resource.Layout.notification_media_cancel_action = global::junming.Droid.Resource.Layout.notification_media_cancel_action;
-			global::BottomNavigationBar.Resource.Layout.notification_template_big_media = global::junming.Droid.Resource.Layout.notification_template_big_media;
-			global::BottomNavigationBar.Resource.Layout.notification_template_big_media_narrow = global::junming.Droid.Resource.Layout.notification_template_big_media_narrow;
-			global::BottomNavigationBar.Resource.Layout.notification_template_media = global::junming.Droid.Resource.Layout.notification_template_media;
-			global::BottomNavigationBar.Resource.Layout.notification_template_part_chronometer = global::junming.Droid.Resource.Layout.notification_template_part_chronometer;
-			global::BottomNavigationBar.Resource.Layout.notification_template_part_time = global::junming.Droid.Resource.Layout.notification_template_part_time;
-			global::BottomNavigationBar.Resource.Layout.select_dialog_item_material = global::junming.Droid.Resource.Layout.select_dialog_item_material;
-			global::BottomNavigationBar.Resource.Layout.select_dialog_multichoice_material = global::junming.Droid.Resource.Layout.select_dialog_multichoice_material;
-			global::BottomNavigationBar.Resource.Layout.select_dialog_singlechoice_material = global::junming.Droid.Resource.Layout.select_dialog_singlechoice_material;
-			global::BottomNavigationBar.Resource.Layout.support_simple_spinner_dropdown_item = global::junming.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::BottomNavigationBar.Resource.String.abc_action_bar_home_description = global::junming.Droid.Resource.String.abc_action_bar_home_description;
-			global::BottomNavigationBar.Resource.String.abc_action_bar_home_description_format = global::junming.Droid.Resource.String.abc_action_bar_home_description_format;
-			global::BottomNavigationBar.Resource.String.abc_action_bar_home_subtitle_description_format = global::junming.Droid.Resource.String.abc_action_bar_home_subtitle_description_format;
-			global::BottomNavigationBar.Resource.String.abc_action_bar_up_description = global::junming.Droid.Resource.String.abc_action_bar_up_description;
-			global::BottomNavigationBar.Resource.String.abc_action_menu_overflow_description = global::junming.Droid.Resource.String.abc_action_menu_overflow_description;
-			global::BottomNavigationBar.Resource.String.abc_action_mode_done = global::junming.Droid.Resource.String.abc_action_mode_done;
-			global::BottomNavigationBar.Resource.String.abc_activity_chooser_view_see_all = global::junming.Droid.Resource.String.abc_activity_chooser_view_see_all;
-			global::BottomNavigationBar.Resource.String.abc_activitychooserview_choose_application = global::junming.Droid.Resource.String.abc_activitychooserview_choose_application;
-			global::BottomNavigationBar.Resource.String.abc_capital_off = global::junming.Droid.Resource.String.abc_capital_off;
-			global::BottomNavigationBar.Resource.String.abc_capital_on = global::junming.Droid.Resource.String.abc_capital_on;
-			global::BottomNavigationBar.Resource.String.abc_font_family_body_1_material = global::junming.Droid.Resource.String.abc_font_family_body_1_material;
-			global::BottomNavigationBar.Resource.String.abc_font_family_body_2_material = global::junming.Droid.Resource.String.abc_font_family_body_2_material;
-			global::BottomNavigationBar.Resource.String.abc_font_family_button_material = global::junming.Droid.Resource.String.abc_font_family_button_material;
-			global::BottomNavigationBar.Resource.String.abc_font_family_caption_material = global::junming.Droid.Resource.String.abc_font_family_caption_material;
-			global::BottomNavigationBar.Resource.String.abc_font_family_display_1_material = global::junming.Droid.Resource.String.abc_font_family_display_1_material;
-			global::BottomNavigationBar.Resource.String.abc_font_family_display_2_material = global::junming.Droid.Resource.String.abc_font_family_display_2_material;
-			global::BottomNavigationBar.Resource.String.abc_font_family_display_3_material = global::junming.Droid.Resource.String.abc_font_family_display_3_material;
-			global::BottomNavigationBar.Resource.String.abc_font_family_display_4_material = global::junming.Droid.Resource.String.abc_font_family_display_4_material;
-			global::BottomNavigationBar.Resource.String.abc_font_family_headline_material = global::junming.Droid.Resource.String.abc_font_family_headline_material;
-			global::BottomNavigationBar.Resource.String.abc_font_family_menu_material = global::junming.Droid.Resource.String.abc_font_family_menu_material;
-			global::BottomNavigationBar.Resource.String.abc_font_family_subhead_material = global::junming.Droid.Resource.String.abc_font_family_subhead_material;
-			global::BottomNavigationBar.Resource.String.abc_font_family_title_material = global::junming.Droid.Resource.String.abc_font_family_title_material;
-			global::BottomNavigationBar.Resource.String.abc_search_hint = global::junming.Droid.Resource.String.abc_search_hint;
-			global::BottomNavigationBar.Resource.String.abc_searchview_description_clear = global::junming.Droid.Resource.String.abc_searchview_description_clear;
-			global::BottomNavigationBar.Resource.String.abc_searchview_description_query = global::junming.Droid.Resource.String.abc_searchview_description_query;
-			global::BottomNavigationBar.Resource.String.abc_searchview_description_search = global::junming.Droid.Resource.String.abc_searchview_description_search;
-			global::BottomNavigationBar.Resource.String.abc_searchview_description_submit = global::junming.Droid.Resource.String.abc_searchview_description_submit;
-			global::BottomNavigationBar.Resource.String.abc_searchview_description_voice = global::junming.Droid.Resource.String.abc_searchview_description_voice;
-			global::BottomNavigationBar.Resource.String.abc_shareactionprovider_share_with = global::junming.Droid.Resource.String.abc_shareactionprovider_share_with;
-			global::BottomNavigationBar.Resource.String.abc_shareactionprovider_share_with_application = global::junming.Droid.Resource.String.abc_shareactionprovider_share_with_application;
-			global::BottomNavigationBar.Resource.String.abc_toolbar_collapse_description = global::junming.Droid.Resource.String.abc_toolbar_collapse_description;
-			global::BottomNavigationBar.Resource.String.app_name = global::junming.Droid.Resource.String.app_name;
-			global::BottomNavigationBar.Resource.String.appbar_scrolling_view_behavior = global::junming.Droid.Resource.String.appbar_scrolling_view_behavior;
-			global::BottomNavigationBar.Resource.String.bottom_sheet_behavior = global::junming.Droid.Resource.String.bottom_sheet_behavior;
-			global::BottomNavigationBar.Resource.String.character_counter_pattern = global::junming.Droid.Resource.String.character_counter_pattern;
-			global::BottomNavigationBar.Resource.String.search_menu_title = global::junming.Droid.Resource.String.search_menu_title;
-			global::BottomNavigationBar.Resource.String.status_bar_notification_info_overflow = global::junming.Droid.Resource.String.status_bar_notification_info_overflow;
-			global::BottomNavigationBar.Resource.Style.AlertDialog_AppCompat = global::junming.Droid.Resource.Style.AlertDialog_AppCompat;
-			global::BottomNavigationBar.Resource.Style.AlertDialog_AppCompat_Light = global::junming.Droid.Resource.Style.AlertDialog_AppCompat_Light;
-			global::BottomNavigationBar.Resource.Style.Animation_AppCompat_Dialog = global::junming.Droid.Resource.Style.Animation_AppCompat_Dialog;
-			global::BottomNavigationBar.Resource.Style.Animation_AppCompat_DropDownUp = global::junming.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
-			global::BottomNavigationBar.Resource.Style.Animation_Design_BottomSheetDialog = global::junming.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
-			global::BottomNavigationBar.Resource.Style.BB_BottomBarBadge_Text = global::junming.Droid.Resource.Style.BB_BottomBarBadge_Text;
-			global::BottomNavigationBar.Resource.Style.BB_BottomBarItem = global::junming.Droid.Resource.Style.BB_BottomBarItem;
-			global::BottomNavigationBar.Resource.Style.BB_BottomBarItem_Fixed = global::junming.Droid.Resource.Style.BB_BottomBarItem_Fixed;
-			global::BottomNavigationBar.Resource.Style.BB_BottomBarItem_Fixed_TitleAppearance = global::junming.Droid.Resource.Style.BB_BottomBarItem_Fixed_TitleAppearance;
-			global::BottomNavigationBar.Resource.Style.BB_BottomBarItem_Shifting = global::junming.Droid.Resource.Style.BB_BottomBarItem_Shifting;
-			global::BottomNavigationBar.Resource.Style.BB_BottomBarItem_Shifting_TitleAppearance = global::junming.Droid.Resource.Style.BB_BottomBarItem_Shifting_TitleAppearance;
-			global::BottomNavigationBar.Resource.Style.BB_BottomBarItem_Tablet = global::junming.Droid.Resource.Style.BB_BottomBarItem_Tablet;
-			global::BottomNavigationBar.Resource.Style.BB_BottomBarItem_TitleStyle = global::junming.Droid.Resource.Style.BB_BottomBarItem_TitleStyle;
-			global::BottomNavigationBar.Resource.Style.Base_AlertDialog_AppCompat = global::junming.Droid.Resource.Style.Base_AlertDialog_AppCompat;
-			global::BottomNavigationBar.Resource.Style.Base_AlertDialog_AppCompat_Light = global::junming.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
-			global::BottomNavigationBar.Resource.Style.Base_Animation_AppCompat_Dialog = global::junming.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
-			global::BottomNavigationBar.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::junming.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
-			global::BottomNavigationBar.Resource.Style.Base_DialogWindowTitle_AppCompat = global::junming.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
-			global::BottomNavigationBar.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::junming.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Button = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Large = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Small = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Title = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::junming.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::junming.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::junming.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::junming.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat = global::junming.Droid.Resource.Style.Base_Theme_AppCompat;
-			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::junming.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
-			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Dialog = global::junming.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
-			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::junming.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
-			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::junming.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
-			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::junming.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
-			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::junming.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
-			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Light = global::junming.Droid.Resource.Style.Base_Theme_AppCompat_Light;
-			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::junming.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
-			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::junming.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
-			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::junming.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
-			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::junming.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
-			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::junming.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
-			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::junming.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
-			global::BottomNavigationBar.Resource.Style.Base_ThemeOverlay_AppCompat = global::junming.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
-			global::BottomNavigationBar.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::junming.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
-			global::BottomNavigationBar.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::junming.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
-			global::BottomNavigationBar.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::junming.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::BottomNavigationBar.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::junming.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
-			global::BottomNavigationBar.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::junming.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
-			global::BottomNavigationBar.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::junming.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
-			global::BottomNavigationBar.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::junming.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
-			global::BottomNavigationBar.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::junming.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
-			global::BottomNavigationBar.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::junming.Droid.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
-			global::BottomNavigationBar.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::junming.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
-			global::BottomNavigationBar.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::junming.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
-			global::BottomNavigationBar.Resource.Style.Base_V21_Theme_AppCompat = global::junming.Droid.Resource.Style.Base_V21_Theme_AppCompat;
-			global::BottomNavigationBar.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::junming.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
-			global::BottomNavigationBar.Resource.Style.Base_V21_Theme_AppCompat_Light = global::junming.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
-			global::BottomNavigationBar.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::junming.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
-			global::BottomNavigationBar.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::junming.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
-			global::BottomNavigationBar.Resource.Style.Base_V22_Theme_AppCompat = global::junming.Droid.Resource.Style.Base_V22_Theme_AppCompat;
-			global::BottomNavigationBar.Resource.Style.Base_V22_Theme_AppCompat_Light = global::junming.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
-			global::BottomNavigationBar.Resource.Style.Base_V23_Theme_AppCompat = global::junming.Droid.Resource.Style.Base_V23_Theme_AppCompat;
-			global::BottomNavigationBar.Resource.Style.Base_V23_Theme_AppCompat_Light = global::junming.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
-			global::BottomNavigationBar.Resource.Style.Base_V7_Theme_AppCompat = global::junming.Droid.Resource.Style.Base_V7_Theme_AppCompat;
-			global::BottomNavigationBar.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::junming.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
-			global::BottomNavigationBar.Resource.Style.Base_V7_Theme_AppCompat_Light = global::junming.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
-			global::BottomNavigationBar.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::junming.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
-			global::BottomNavigationBar.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::junming.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
-			global::BottomNavigationBar.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::junming.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
-			global::BottomNavigationBar.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::junming.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActionBar = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActionButton = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActionMode = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Button = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_Button;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Button_Small = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_EditText = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ImageButton = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ListView = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_RatingBar = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_SearchView = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_SeekBar = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Spinner = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Toolbar = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::junming.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_Design_AppBarLayout = global::junming.Droid.Resource.Style.Base_Widget_Design_AppBarLayout;
-			global::BottomNavigationBar.Resource.Style.Base_Widget_Design_TabLayout = global::junming.Droid.Resource.Style.Base_Widget_Design_TabLayout;
-			global::BottomNavigationBar.Resource.Style.Platform_AppCompat = global::junming.Droid.Resource.Style.Platform_AppCompat;
-			global::BottomNavigationBar.Resource.Style.Platform_AppCompat_Light = global::junming.Droid.Resource.Style.Platform_AppCompat_Light;
-			global::BottomNavigationBar.Resource.Style.Platform_ThemeOverlay_AppCompat = global::junming.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
-			global::BottomNavigationBar.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::junming.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
-			global::BottomNavigationBar.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::junming.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
-			global::BottomNavigationBar.Resource.Style.Platform_V11_AppCompat = global::junming.Droid.Resource.Style.Platform_V11_AppCompat;
-			global::BottomNavigationBar.Resource.Style.Platform_V11_AppCompat_Light = global::junming.Droid.Resource.Style.Platform_V11_AppCompat_Light;
-			global::BottomNavigationBar.Resource.Style.Platform_V14_AppCompat = global::junming.Droid.Resource.Style.Platform_V14_AppCompat;
-			global::BottomNavigationBar.Resource.Style.Platform_V14_AppCompat_Light = global::junming.Droid.Resource.Style.Platform_V14_AppCompat_Light;
-			global::BottomNavigationBar.Resource.Style.Platform_Widget_AppCompat_Spinner = global::junming.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
-			global::BottomNavigationBar.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::junming.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
-			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::junming.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
-			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::junming.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
-			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::junming.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
-			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::junming.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
-			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::junming.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
-			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::junming.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
-			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::junming.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
-			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::junming.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
-			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::junming.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
-			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::junming.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
-			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::junming.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
-			global::BottomNavigationBar.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::junming.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
-			global::BottomNavigationBar.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::junming.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat = global::junming.Droid.Resource.Style.TextAppearance_AppCompat;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Body1 = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Body2 = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Button = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Button;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Caption = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Display1 = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Display2 = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Display3 = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Display4 = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Headline = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Inverse = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Large = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Large;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Medium = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Menu = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Small = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Small;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Subhead = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Title = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Title;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::junming.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::junming.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_Design_Counter = global::junming.Droid.Resource.Style.TextAppearance_Design_Counter;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_Design_Counter_Overflow = global::junming.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_Design_Error = global::junming.Droid.Resource.Style.TextAppearance_Design_Error;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_Design_Hint = global::junming.Droid.Resource.Style.TextAppearance_Design_Hint;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_Design_Snackbar_Message = global::junming.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_Design_Tab = global::junming.Droid.Resource.Style.TextAppearance_Design_Tab;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_StatusBar_EventContent = global::junming.Droid.Resource.Style.TextAppearance_StatusBar_EventContent;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_StatusBar_EventContent_Info = global::junming.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Info;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_StatusBar_EventContent_Line2 = global::junming.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Line2;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_StatusBar_EventContent_Time = global::junming.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Time;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_StatusBar_EventContent_Title = global::junming.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Title;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::junming.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::junming.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::BottomNavigationBar.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::junming.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat = global::junming.Droid.Resource.Style.Theme_AppCompat;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_CompactMenu = global::junming.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_DayNight = global::junming.Droid.Resource.Style.Theme_AppCompat_DayNight;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::junming.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::junming.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::junming.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::junming.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::junming.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::junming.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Dialog = global::junming.Droid.Resource.Style.Theme_AppCompat_Dialog;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Dialog_Alert = global::junming.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::junming.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::junming.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Light = global::junming.Droid.Resource.Style.Theme_AppCompat_Light;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::junming.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Light_Dialog = global::junming.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::junming.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::junming.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::junming.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::junming.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
-			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_NoActionBar = global::junming.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
-			global::BottomNavigationBar.Resource.Style.Theme_Design = global::junming.Droid.Resource.Style.Theme_Design;
-			global::BottomNavigationBar.Resource.Style.Theme_Design_BottomSheetDialog = global::junming.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
-			global::BottomNavigationBar.Resource.Style.Theme_Design_Light = global::junming.Droid.Resource.Style.Theme_Design_Light;
-			global::BottomNavigationBar.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::junming.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
-			global::BottomNavigationBar.Resource.Style.Theme_Design_Light_NoActionBar = global::junming.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
-			global::BottomNavigationBar.Resource.Style.Theme_Design_NoActionBar = global::junming.Droid.Resource.Style.Theme_Design_NoActionBar;
-			global::BottomNavigationBar.Resource.Style.ThemeOverlay_AppCompat = global::junming.Droid.Resource.Style.ThemeOverlay_AppCompat;
-			global::BottomNavigationBar.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::junming.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
-			global::BottomNavigationBar.Resource.Style.ThemeOverlay_AppCompat_Dark = global::junming.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
-			global::BottomNavigationBar.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::junming.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::BottomNavigationBar.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::junming.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
-			global::BottomNavigationBar.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::junming.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
-			global::BottomNavigationBar.Resource.Style.ThemeOverlay_AppCompat_Light = global::junming.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActionBar = global::junming.Droid.Resource.Style.Widget_AppCompat_ActionBar;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::junming.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::junming.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::junming.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::junming.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActionButton = global::junming.Droid.Resource.Style.Widget_AppCompat_ActionButton;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::junming.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::junming.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActionMode = global::junming.Droid.Resource.Style.Widget_AppCompat_ActionMode;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActivityChooserView = global::junming.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::junming.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Button = global::junming.Droid.Resource.Style.Widget_AppCompat_Button;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Button_Borderless = global::junming.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::junming.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::junming.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Button_Colored = global::junming.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Button_Small = global::junming.Droid.Resource.Style.Widget_AppCompat_Button_Small;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ButtonBar = global::junming.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::junming.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::junming.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::junming.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::junming.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::junming.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::junming.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_EditText = global::junming.Droid.Resource.Style.Widget_AppCompat_EditText;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ImageButton = global::junming.Droid.Resource.Style.Widget_AppCompat_ImageButton;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionBar = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionButton = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_SearchView = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::junming.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ListMenuView = global::junming.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ListPopupWindow = global::junming.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ListView = global::junming.Droid.Resource.Style.Widget_AppCompat_ListView;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ListView_DropDown = global::junming.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ListView_Menu = global::junming.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_PopupMenu = global::junming.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::junming.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_PopupWindow = global::junming.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ProgressBar = global::junming.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::junming.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_RatingBar = global::junming.Droid.Resource.Style.Widget_AppCompat_RatingBar;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::junming.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_RatingBar_Small = global::junming.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_SearchView = global::junming.Droid.Resource.Style.Widget_AppCompat_SearchView;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::junming.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_SeekBar = global::junming.Droid.Resource.Style.Widget_AppCompat_SeekBar;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::junming.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Spinner = global::junming.Droid.Resource.Style.Widget_AppCompat_Spinner;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::junming.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::junming.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::junming.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::junming.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Toolbar = global::junming.Droid.Resource.Style.Widget_AppCompat_Toolbar;
-			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::junming.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
-			global::BottomNavigationBar.Resource.Style.Widget_Design_AppBarLayout = global::junming.Droid.Resource.Style.Widget_Design_AppBarLayout;
-			global::BottomNavigationBar.Resource.Style.Widget_Design_BottomSheet_Modal = global::junming.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
-			global::BottomNavigationBar.Resource.Style.Widget_Design_CollapsingToolbar = global::junming.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
-			global::BottomNavigationBar.Resource.Style.Widget_Design_CoordinatorLayout = global::junming.Droid.Resource.Style.Widget_Design_CoordinatorLayout;
-			global::BottomNavigationBar.Resource.Style.Widget_Design_FloatingActionButton = global::junming.Droid.Resource.Style.Widget_Design_FloatingActionButton;
-			global::BottomNavigationBar.Resource.Style.Widget_Design_NavigationView = global::junming.Droid.Resource.Style.Widget_Design_NavigationView;
-			global::BottomNavigationBar.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::junming.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
-			global::BottomNavigationBar.Resource.Style.Widget_Design_Snackbar = global::junming.Droid.Resource.Style.Widget_Design_Snackbar;
-			global::BottomNavigationBar.Resource.Style.Widget_Design_TabLayout = global::junming.Droid.Resource.Style.Widget_Design_TabLayout;
-			global::BottomNavigationBar.Resource.Style.Widget_Design_TextInputLayout = global::junming.Droid.Resource.Style.Widget_Design_TextInputLayout;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar = global::junming.Droid.Resource.Styleable.ActionBar;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_background = global::junming.Droid.Resource.Styleable.ActionBar_background;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_backgroundSplit = global::junming.Droid.Resource.Styleable.ActionBar_backgroundSplit;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_backgroundStacked = global::junming.Droid.Resource.Styleable.ActionBar_backgroundStacked;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_contentInsetEnd = global::junming.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::junming.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_contentInsetLeft = global::junming.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_contentInsetRight = global::junming.Droid.Resource.Styleable.ActionBar_contentInsetRight;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_contentInsetStart = global::junming.Droid.Resource.Styleable.ActionBar_contentInsetStart;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::junming.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_customNavigationLayout = global::junming.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_displayOptions = global::junming.Droid.Resource.Styleable.ActionBar_displayOptions;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_divider = global::junming.Droid.Resource.Styleable.ActionBar_divider;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_elevation = global::junming.Droid.Resource.Styleable.ActionBar_elevation;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_height = global::junming.Droid.Resource.Styleable.ActionBar_height;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_hideOnContentScroll = global::junming.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_homeAsUpIndicator = global::junming.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_homeLayout = global::junming.Droid.Resource.Styleable.ActionBar_homeLayout;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_icon = global::junming.Droid.Resource.Styleable.ActionBar_icon;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::junming.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_itemPadding = global::junming.Droid.Resource.Styleable.ActionBar_itemPadding;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_logo = global::junming.Droid.Resource.Styleable.ActionBar_logo;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_navigationMode = global::junming.Droid.Resource.Styleable.ActionBar_navigationMode;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_popupTheme = global::junming.Droid.Resource.Styleable.ActionBar_popupTheme;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_progressBarPadding = global::junming.Droid.Resource.Styleable.ActionBar_progressBarPadding;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_progressBarStyle = global::junming.Droid.Resource.Styleable.ActionBar_progressBarStyle;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_subtitle = global::junming.Droid.Resource.Styleable.ActionBar_subtitle;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_subtitleTextStyle = global::junming.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_title = global::junming.Droid.Resource.Styleable.ActionBar_title;
-			global::BottomNavigationBar.Resource.Styleable.ActionBar_titleTextStyle = global::junming.Droid.Resource.Styleable.ActionBar_titleTextStyle;
-			global::BottomNavigationBar.Resource.Styleable.ActionBarLayout = global::junming.Droid.Resource.Styleable.ActionBarLayout;
-			global::BottomNavigationBar.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::junming.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
-			global::BottomNavigationBar.Resource.Styleable.ActionMenuItemView = global::junming.Droid.Resource.Styleable.ActionMenuItemView;
-			global::BottomNavigationBar.Resource.Styleable.ActionMenuItemView_android_minWidth = global::junming.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
-			global::BottomNavigationBar.Resource.Styleable.ActionMenuView = global::junming.Droid.Resource.Styleable.ActionMenuView;
-			global::BottomNavigationBar.Resource.Styleable.ActionMode = global::junming.Droid.Resource.Styleable.ActionMode;
-			global::BottomNavigationBar.Resource.Styleable.ActionMode_background = global::junming.Droid.Resource.Styleable.ActionMode_background;
-			global::BottomNavigationBar.Resource.Styleable.ActionMode_backgroundSplit = global::junming.Droid.Resource.Styleable.ActionMode_backgroundSplit;
-			global::BottomNavigationBar.Resource.Styleable.ActionMode_closeItemLayout = global::junming.Droid.Resource.Styleable.ActionMode_closeItemLayout;
-			global::BottomNavigationBar.Resource.Styleable.ActionMode_height = global::junming.Droid.Resource.Styleable.ActionMode_height;
-			global::BottomNavigationBar.Resource.Styleable.ActionMode_subtitleTextStyle = global::junming.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
-			global::BottomNavigationBar.Resource.Styleable.ActionMode_titleTextStyle = global::junming.Droid.Resource.Styleable.ActionMode_titleTextStyle;
-			global::BottomNavigationBar.Resource.Styleable.ActivityChooserView = global::junming.Droid.Resource.Styleable.ActivityChooserView;
-			global::BottomNavigationBar.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::junming.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
-			global::BottomNavigationBar.Resource.Styleable.ActivityChooserView_initialActivityCount = global::junming.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
-			global::BottomNavigationBar.Resource.Styleable.AlertDialog = global::junming.Droid.Resource.Styleable.AlertDialog;
-			global::BottomNavigationBar.Resource.Styleable.AlertDialog_android_layout = global::junming.Droid.Resource.Styleable.AlertDialog_android_layout;
-			global::BottomNavigationBar.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::junming.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
-			global::BottomNavigationBar.Resource.Styleable.AlertDialog_listItemLayout = global::junming.Droid.Resource.Styleable.AlertDialog_listItemLayout;
-			global::BottomNavigationBar.Resource.Styleable.AlertDialog_listLayout = global::junming.Droid.Resource.Styleable.AlertDialog_listLayout;
-			global::BottomNavigationBar.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::junming.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
-			global::BottomNavigationBar.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::junming.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
-			global::BottomNavigationBar.Resource.Styleable.AppBarLayout = global::junming.Droid.Resource.Styleable.AppBarLayout;
-			global::BottomNavigationBar.Resource.Styleable.AppBarLayout_android_background = global::junming.Droid.Resource.Styleable.AppBarLayout_android_background;
-			global::BottomNavigationBar.Resource.Styleable.AppBarLayout_elevation = global::junming.Droid.Resource.Styleable.AppBarLayout_elevation;
-			global::BottomNavigationBar.Resource.Styleable.AppBarLayout_expanded = global::junming.Droid.Resource.Styleable.AppBarLayout_expanded;
-			global::BottomNavigationBar.Resource.Styleable.AppBarLayoutStates = global::junming.Droid.Resource.Styleable.AppBarLayoutStates;
-			global::BottomNavigationBar.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::junming.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
-			global::BottomNavigationBar.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::junming.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
-			global::BottomNavigationBar.Resource.Styleable.AppBarLayout_Layout = global::junming.Droid.Resource.Styleable.AppBarLayout_Layout;
-			global::BottomNavigationBar.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::junming.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
-			global::BottomNavigationBar.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::junming.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatImageView = global::junming.Droid.Resource.Styleable.AppCompatImageView;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatImageView_android_src = global::junming.Droid.Resource.Styleable.AppCompatImageView_android_src;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatImageView_srcCompat = global::junming.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatSeekBar = global::junming.Droid.Resource.Styleable.AppCompatSeekBar;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatSeekBar_android_thumb = global::junming.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatSeekBar_tickMark = global::junming.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::junming.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::junming.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTextHelper = global::junming.Droid.Resource.Styleable.AppCompatTextHelper;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::junming.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::junming.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::junming.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::junming.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::junming.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::junming.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::junming.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTextView = global::junming.Droid.Resource.Styleable.AppCompatTextView;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTextView_android_textAppearance = global::junming.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTextView_textAllCaps = global::junming.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme = global::junming.Droid.Resource.Styleable.AppCompatTheme;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarDivider = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarSize = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarTheme = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeBackground = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::junming.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::junming.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::junming.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_buttonStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::junming.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_checkboxStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_colorAccent = global::junming.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::junming.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::junming.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_colorControlActivated = global::junming.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::junming.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_colorControlNormal = global::junming.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_colorPrimary = global::junming.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::junming.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::junming.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_controlBackground = global::junming.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::junming.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_dialogTheme = global::junming.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::junming.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_dividerVertical = global::junming.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::junming.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_editTextBackground = global::junming.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_editTextColor = global::junming.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_editTextStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::junming.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::junming.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::junming.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::junming.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::junming.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::junming.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::junming.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::junming.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_panelBackground = global::junming.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::junming.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::junming.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::junming.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::junming.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_searchViewStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_seekBarStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::junming.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::junming.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_spinnerStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_switchStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::junming.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::junming.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::junming.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::junming.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::junming.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::junming.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::junming.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::junming.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::junming.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_toolbarStyle = global::junming.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowActionBar = global::junming.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::junming.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::junming.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::junming.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::junming.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::junming.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::junming.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::junming.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::junming.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
-			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowNoTitle = global::junming.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
-			global::BottomNavigationBar.Resource.Styleable.BottomSheetBehavior_Layout = global::junming.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
-			global::BottomNavigationBar.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::junming.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
-			global::BottomNavigationBar.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::junming.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
-			global::BottomNavigationBar.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::junming.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
-			global::BottomNavigationBar.Resource.Styleable.ButtonBarLayout = global::junming.Droid.Resource.Styleable.ButtonBarLayout;
-			global::BottomNavigationBar.Resource.Styleable.ButtonBarLayout_allowStacking = global::junming.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_title = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_Layout = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
-			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::junming.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
-			global::BottomNavigationBar.Resource.Styleable.ColorStateListItem = global::junming.Droid.Resource.Styleable.ColorStateListItem;
-			global::BottomNavigationBar.Resource.Styleable.ColorStateListItem_alpha = global::junming.Droid.Resource.Styleable.ColorStateListItem_alpha;
-			global::BottomNavigationBar.Resource.Styleable.ColorStateListItem_android_alpha = global::junming.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
-			global::BottomNavigationBar.Resource.Styleable.ColorStateListItem_android_color = global::junming.Droid.Resource.Styleable.ColorStateListItem_android_color;
-			global::BottomNavigationBar.Resource.Styleable.CompoundButton = global::junming.Droid.Resource.Styleable.CompoundButton;
-			global::BottomNavigationBar.Resource.Styleable.CompoundButton_android_button = global::junming.Droid.Resource.Styleable.CompoundButton_android_button;
-			global::BottomNavigationBar.Resource.Styleable.CompoundButton_buttonTint = global::junming.Droid.Resource.Styleable.CompoundButton_buttonTint;
-			global::BottomNavigationBar.Resource.Styleable.CompoundButton_buttonTintMode = global::junming.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
-			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout = global::junming.Droid.Resource.Styleable.CoordinatorLayout;
-			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_keylines = global::junming.Droid.Resource.Styleable.CoordinatorLayout_keylines;
-			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::junming.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
-			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_Layout = global::junming.Droid.Resource.Styleable.CoordinatorLayout_Layout;
-			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::junming.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
-			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::junming.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
-			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::junming.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
-			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::junming.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
-			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::junming.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
-			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::junming.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
-			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::junming.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
-			global::BottomNavigationBar.Resource.Styleable.DesignTheme = global::junming.Droid.Resource.Styleable.DesignTheme;
-			global::BottomNavigationBar.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::junming.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
-			global::BottomNavigationBar.Resource.Styleable.DesignTheme_bottomSheetStyle = global::junming.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
-			global::BottomNavigationBar.Resource.Styleable.DesignTheme_textColorError = global::junming.Droid.Resource.Styleable.DesignTheme_textColorError;
-			global::BottomNavigationBar.Resource.Styleable.DrawerArrowToggle = global::junming.Droid.Resource.Styleable.DrawerArrowToggle;
-			global::BottomNavigationBar.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::junming.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
-			global::BottomNavigationBar.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::junming.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
-			global::BottomNavigationBar.Resource.Styleable.DrawerArrowToggle_barLength = global::junming.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
-			global::BottomNavigationBar.Resource.Styleable.DrawerArrowToggle_color = global::junming.Droid.Resource.Styleable.DrawerArrowToggle_color;
-			global::BottomNavigationBar.Resource.Styleable.DrawerArrowToggle_drawableSize = global::junming.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
-			global::BottomNavigationBar.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::junming.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
-			global::BottomNavigationBar.Resource.Styleable.DrawerArrowToggle_spinBars = global::junming.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
-			global::BottomNavigationBar.Resource.Styleable.DrawerArrowToggle_thickness = global::junming.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
-			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton = global::junming.Droid.Resource.Styleable.FloatingActionButton;
-			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_backgroundTint = global::junming.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
-			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::junming.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
-			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_borderWidth = global::junming.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
-			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_elevation = global::junming.Droid.Resource.Styleable.FloatingActionButton_elevation;
-			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_fabSize = global::junming.Droid.Resource.Styleable.FloatingActionButton_fabSize;
-			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::junming.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
-			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_rippleColor = global::junming.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
-			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_useCompatPadding = global::junming.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
-			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::junming.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
-			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::junming.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
-			global::BottomNavigationBar.Resource.Styleable.ForegroundLinearLayout = global::junming.Droid.Resource.Styleable.ForegroundLinearLayout;
-			global::BottomNavigationBar.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::junming.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
-			global::BottomNavigationBar.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::junming.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
-			global::BottomNavigationBar.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::junming.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
-			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat = global::junming.Droid.Resource.Styleable.LinearLayoutCompat;
-			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::junming.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
-			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::junming.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
-			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_android_gravity = global::junming.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
-			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_android_orientation = global::junming.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
-			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::junming.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
-			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_divider = global::junming.Droid.Resource.Styleable.LinearLayoutCompat_divider;
-			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::junming.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
-			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::junming.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
-			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_showDividers = global::junming.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
-			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_Layout = global::junming.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
-			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::junming.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
-			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::junming.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
-			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::junming.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
-			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::junming.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
-			global::BottomNavigationBar.Resource.Styleable.ListPopupWindow = global::junming.Droid.Resource.Styleable.ListPopupWindow;
-			global::BottomNavigationBar.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::junming.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
-			global::BottomNavigationBar.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::junming.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
-			global::BottomNavigationBar.Resource.Styleable.MenuGroup = global::junming.Droid.Resource.Styleable.MenuGroup;
-			global::BottomNavigationBar.Resource.Styleable.MenuGroup_android_checkableBehavior = global::junming.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
-			global::BottomNavigationBar.Resource.Styleable.MenuGroup_android_enabled = global::junming.Droid.Resource.Styleable.MenuGroup_android_enabled;
-			global::BottomNavigationBar.Resource.Styleable.MenuGroup_android_id = global::junming.Droid.Resource.Styleable.MenuGroup_android_id;
-			global::BottomNavigationBar.Resource.Styleable.MenuGroup_android_menuCategory = global::junming.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
-			global::BottomNavigationBar.Resource.Styleable.MenuGroup_android_orderInCategory = global::junming.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
-			global::BottomNavigationBar.Resource.Styleable.MenuGroup_android_visible = global::junming.Droid.Resource.Styleable.MenuGroup_android_visible;
-			global::BottomNavigationBar.Resource.Styleable.MenuItem = global::junming.Droid.Resource.Styleable.MenuItem;
-			global::BottomNavigationBar.Resource.Styleable.MenuItem_actionLayout = global::junming.Droid.Resource.Styleable.MenuItem_actionLayout;
-			global::BottomNavigationBar.Resource.Styleable.MenuItem_actionProviderClass = global::junming.Droid.Resource.Styleable.MenuItem_actionProviderClass;
-			global::BottomNavigationBar.Resource.Styleable.MenuItem_actionViewClass = global::junming.Droid.Resource.Styleable.MenuItem_actionViewClass;
-			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::junming.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
-			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_checkable = global::junming.Droid.Resource.Styleable.MenuItem_android_checkable;
-			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_checked = global::junming.Droid.Resource.Styleable.MenuItem_android_checked;
-			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_enabled = global::junming.Droid.Resource.Styleable.MenuItem_android_enabled;
-			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_icon = global::junming.Droid.Resource.Styleable.MenuItem_android_icon;
-			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_id = global::junming.Droid.Resource.Styleable.MenuItem_android_id;
-			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_menuCategory = global::junming.Droid.Resource.Styleable.MenuItem_android_menuCategory;
-			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_numericShortcut = global::junming.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
-			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_onClick = global::junming.Droid.Resource.Styleable.MenuItem_android_onClick;
-			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_orderInCategory = global::junming.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
-			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_title = global::junming.Droid.Resource.Styleable.MenuItem_android_title;
-			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_titleCondensed = global::junming.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
-			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_visible = global::junming.Droid.Resource.Styleable.MenuItem_android_visible;
-			global::BottomNavigationBar.Resource.Styleable.MenuItem_showAsAction = global::junming.Droid.Resource.Styleable.MenuItem_showAsAction;
-			global::BottomNavigationBar.Resource.Styleable.MenuView = global::junming.Droid.Resource.Styleable.MenuView;
-			global::BottomNavigationBar.Resource.Styleable.MenuView_android_headerBackground = global::junming.Droid.Resource.Styleable.MenuView_android_headerBackground;
-			global::BottomNavigationBar.Resource.Styleable.MenuView_android_horizontalDivider = global::junming.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
-			global::BottomNavigationBar.Resource.Styleable.MenuView_android_itemBackground = global::junming.Droid.Resource.Styleable.MenuView_android_itemBackground;
-			global::BottomNavigationBar.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::junming.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
-			global::BottomNavigationBar.Resource.Styleable.MenuView_android_itemTextAppearance = global::junming.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
-			global::BottomNavigationBar.Resource.Styleable.MenuView_android_verticalDivider = global::junming.Droid.Resource.Styleable.MenuView_android_verticalDivider;
-			global::BottomNavigationBar.Resource.Styleable.MenuView_android_windowAnimationStyle = global::junming.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
-			global::BottomNavigationBar.Resource.Styleable.MenuView_preserveIconSpacing = global::junming.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
-			global::BottomNavigationBar.Resource.Styleable.MenuView_subMenuArrow = global::junming.Droid.Resource.Styleable.MenuView_subMenuArrow;
-			global::BottomNavigationBar.Resource.Styleable.NavigationView = global::junming.Droid.Resource.Styleable.NavigationView;
-			global::BottomNavigationBar.Resource.Styleable.NavigationView_android_background = global::junming.Droid.Resource.Styleable.NavigationView_android_background;
-			global::BottomNavigationBar.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::junming.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
-			global::BottomNavigationBar.Resource.Styleable.NavigationView_android_maxWidth = global::junming.Droid.Resource.Styleable.NavigationView_android_maxWidth;
-			global::BottomNavigationBar.Resource.Styleable.NavigationView_elevation = global::junming.Droid.Resource.Styleable.NavigationView_elevation;
-			global::BottomNavigationBar.Resource.Styleable.NavigationView_headerLayout = global::junming.Droid.Resource.Styleable.NavigationView_headerLayout;
-			global::BottomNavigationBar.Resource.Styleable.NavigationView_itemBackground = global::junming.Droid.Resource.Styleable.NavigationView_itemBackground;
-			global::BottomNavigationBar.Resource.Styleable.NavigationView_itemIconTint = global::junming.Droid.Resource.Styleable.NavigationView_itemIconTint;
-			global::BottomNavigationBar.Resource.Styleable.NavigationView_itemTextAppearance = global::junming.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
-			global::BottomNavigationBar.Resource.Styleable.NavigationView_itemTextColor = global::junming.Droid.Resource.Styleable.NavigationView_itemTextColor;
-			global::BottomNavigationBar.Resource.Styleable.NavigationView_menu = global::junming.Droid.Resource.Styleable.NavigationView_menu;
-			global::BottomNavigationBar.Resource.Styleable.PopupWindow = global::junming.Droid.Resource.Styleable.PopupWindow;
-			global::BottomNavigationBar.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::junming.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
-			global::BottomNavigationBar.Resource.Styleable.PopupWindow_android_popupBackground = global::junming.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
-			global::BottomNavigationBar.Resource.Styleable.PopupWindow_overlapAnchor = global::junming.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
-			global::BottomNavigationBar.Resource.Styleable.PopupWindowBackgroundState = global::junming.Droid.Resource.Styleable.PopupWindowBackgroundState;
-			global::BottomNavigationBar.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::junming.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
-			global::BottomNavigationBar.Resource.Styleable.RecyclerView = global::junming.Droid.Resource.Styleable.RecyclerView;
-			global::BottomNavigationBar.Resource.Styleable.RecyclerView_android_descendantFocusability = global::junming.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
-			global::BottomNavigationBar.Resource.Styleable.RecyclerView_android_orientation = global::junming.Droid.Resource.Styleable.RecyclerView_android_orientation;
-			global::BottomNavigationBar.Resource.Styleable.RecyclerView_layoutManager = global::junming.Droid.Resource.Styleable.RecyclerView_layoutManager;
-			global::BottomNavigationBar.Resource.Styleable.RecyclerView_reverseLayout = global::junming.Droid.Resource.Styleable.RecyclerView_reverseLayout;
-			global::BottomNavigationBar.Resource.Styleable.RecyclerView_spanCount = global::junming.Droid.Resource.Styleable.RecyclerView_spanCount;
-			global::BottomNavigationBar.Resource.Styleable.RecyclerView_stackFromEnd = global::junming.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
-			global::BottomNavigationBar.Resource.Styleable.ScrimInsetsFrameLayout = global::junming.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
-			global::BottomNavigationBar.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::junming.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
-			global::BottomNavigationBar.Resource.Styleable.ScrollingViewBehavior_Layout = global::junming.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
-			global::BottomNavigationBar.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::junming.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
-			global::BottomNavigationBar.Resource.Styleable.SearchView = global::junming.Droid.Resource.Styleable.SearchView;
-			global::BottomNavigationBar.Resource.Styleable.SearchView_android_focusable = global::junming.Droid.Resource.Styleable.SearchView_android_focusable;
-			global::BottomNavigationBar.Resource.Styleable.SearchView_android_imeOptions = global::junming.Droid.Resource.Styleable.SearchView_android_imeOptions;
-			global::BottomNavigationBar.Resource.Styleable.SearchView_android_inputType = global::junming.Droid.Resource.Styleable.SearchView_android_inputType;
-			global::BottomNavigationBar.Resource.Styleable.SearchView_android_maxWidth = global::junming.Droid.Resource.Styleable.SearchView_android_maxWidth;
-			global::BottomNavigationBar.Resource.Styleable.SearchView_closeIcon = global::junming.Droid.Resource.Styleable.SearchView_closeIcon;
-			global::BottomNavigationBar.Resource.Styleable.SearchView_commitIcon = global::junming.Droid.Resource.Styleable.SearchView_commitIcon;
-			global::BottomNavigationBar.Resource.Styleable.SearchView_defaultQueryHint = global::junming.Droid.Resource.Styleable.SearchView_defaultQueryHint;
-			global::BottomNavigationBar.Resource.Styleable.SearchView_goIcon = global::junming.Droid.Resource.Styleable.SearchView_goIcon;
-			global::BottomNavigationBar.Resource.Styleable.SearchView_iconifiedByDefault = global::junming.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
-			global::BottomNavigationBar.Resource.Styleable.SearchView_layout = global::junming.Droid.Resource.Styleable.SearchView_layout;
-			global::BottomNavigationBar.Resource.Styleable.SearchView_queryBackground = global::junming.Droid.Resource.Styleable.SearchView_queryBackground;
-			global::BottomNavigationBar.Resource.Styleable.SearchView_queryHint = global::junming.Droid.Resource.Styleable.SearchView_queryHint;
-			global::BottomNavigationBar.Resource.Styleable.SearchView_searchHintIcon = global::junming.Droid.Resource.Styleable.SearchView_searchHintIcon;
-			global::BottomNavigationBar.Resource.Styleable.SearchView_searchIcon = global::junming.Droid.Resource.Styleable.SearchView_searchIcon;
-			global::BottomNavigationBar.Resource.Styleable.SearchView_submitBackground = global::junming.Droid.Resource.Styleable.SearchView_submitBackground;
-			global::BottomNavigationBar.Resource.Styleable.SearchView_suggestionRowLayout = global::junming.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
-			global::BottomNavigationBar.Resource.Styleable.SearchView_voiceIcon = global::junming.Droid.Resource.Styleable.SearchView_voiceIcon;
-			global::BottomNavigationBar.Resource.Styleable.SnackbarLayout = global::junming.Droid.Resource.Styleable.SnackbarLayout;
-			global::BottomNavigationBar.Resource.Styleable.SnackbarLayout_android_maxWidth = global::junming.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
-			global::BottomNavigationBar.Resource.Styleable.SnackbarLayout_elevation = global::junming.Droid.Resource.Styleable.SnackbarLayout_elevation;
-			global::BottomNavigationBar.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::junming.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
-			global::BottomNavigationBar.Resource.Styleable.Spinner = global::junming.Droid.Resource.Styleable.Spinner;
-			global::BottomNavigationBar.Resource.Styleable.Spinner_android_dropDownWidth = global::junming.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
-			global::BottomNavigationBar.Resource.Styleable.Spinner_android_entries = global::junming.Droid.Resource.Styleable.Spinner_android_entries;
-			global::BottomNavigationBar.Resource.Styleable.Spinner_android_popupBackground = global::junming.Droid.Resource.Styleable.Spinner_android_popupBackground;
-			global::BottomNavigationBar.Resource.Styleable.Spinner_android_prompt = global::junming.Droid.Resource.Styleable.Spinner_android_prompt;
-			global::BottomNavigationBar.Resource.Styleable.Spinner_popupTheme = global::junming.Droid.Resource.Styleable.Spinner_popupTheme;
-			global::BottomNavigationBar.Resource.Styleable.SwitchCompat = global::junming.Droid.Resource.Styleable.SwitchCompat;
-			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_android_textOff = global::junming.Droid.Resource.Styleable.SwitchCompat_android_textOff;
-			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_android_textOn = global::junming.Droid.Resource.Styleable.SwitchCompat_android_textOn;
-			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_android_thumb = global::junming.Droid.Resource.Styleable.SwitchCompat_android_thumb;
-			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_showText = global::junming.Droid.Resource.Styleable.SwitchCompat_showText;
-			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_splitTrack = global::junming.Droid.Resource.Styleable.SwitchCompat_splitTrack;
-			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_switchMinWidth = global::junming.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
-			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_switchPadding = global::junming.Droid.Resource.Styleable.SwitchCompat_switchPadding;
-			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_switchTextAppearance = global::junming.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
-			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_thumbTextPadding = global::junming.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
-			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_thumbTint = global::junming.Droid.Resource.Styleable.SwitchCompat_thumbTint;
-			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_thumbTintMode = global::junming.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
-			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_track = global::junming.Droid.Resource.Styleable.SwitchCompat_track;
-			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_trackTint = global::junming.Droid.Resource.Styleable.SwitchCompat_trackTint;
-			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_trackTintMode = global::junming.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
-			global::BottomNavigationBar.Resource.Styleable.TabItem = global::junming.Droid.Resource.Styleable.TabItem;
-			global::BottomNavigationBar.Resource.Styleable.TabItem_android_icon = global::junming.Droid.Resource.Styleable.TabItem_android_icon;
-			global::BottomNavigationBar.Resource.Styleable.TabItem_android_layout = global::junming.Droid.Resource.Styleable.TabItem_android_layout;
-			global::BottomNavigationBar.Resource.Styleable.TabItem_android_text = global::junming.Droid.Resource.Styleable.TabItem_android_text;
-			global::BottomNavigationBar.Resource.Styleable.TabLayout = global::junming.Droid.Resource.Styleable.TabLayout;
-			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabBackground = global::junming.Droid.Resource.Styleable.TabLayout_tabBackground;
-			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabContentStart = global::junming.Droid.Resource.Styleable.TabLayout_tabContentStart;
-			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabGravity = global::junming.Droid.Resource.Styleable.TabLayout_tabGravity;
-			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabIndicatorColor = global::junming.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
-			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabIndicatorHeight = global::junming.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
-			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabMaxWidth = global::junming.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
-			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabMinWidth = global::junming.Droid.Resource.Styleable.TabLayout_tabMinWidth;
-			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabMode = global::junming.Droid.Resource.Styleable.TabLayout_tabMode;
-			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabPadding = global::junming.Droid.Resource.Styleable.TabLayout_tabPadding;
-			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabPaddingBottom = global::junming.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
-			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabPaddingEnd = global::junming.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
-			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabPaddingStart = global::junming.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
-			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabPaddingTop = global::junming.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
-			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabSelectedTextColor = global::junming.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
-			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabTextAppearance = global::junming.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
-			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabTextColor = global::junming.Droid.Resource.Styleable.TabLayout_tabTextColor;
-			global::BottomNavigationBar.Resource.Styleable.TextAppearance = global::junming.Droid.Resource.Styleable.TextAppearance;
-			global::BottomNavigationBar.Resource.Styleable.TextAppearance_android_shadowColor = global::junming.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
-			global::BottomNavigationBar.Resource.Styleable.TextAppearance_android_shadowDx = global::junming.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
-			global::BottomNavigationBar.Resource.Styleable.TextAppearance_android_shadowDy = global::junming.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
-			global::BottomNavigationBar.Resource.Styleable.TextAppearance_android_shadowRadius = global::junming.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
-			global::BottomNavigationBar.Resource.Styleable.TextAppearance_android_textColor = global::junming.Droid.Resource.Styleable.TextAppearance_android_textColor;
-			global::BottomNavigationBar.Resource.Styleable.TextAppearance_android_textSize = global::junming.Droid.Resource.Styleable.TextAppearance_android_textSize;
-			global::BottomNavigationBar.Resource.Styleable.TextAppearance_android_textStyle = global::junming.Droid.Resource.Styleable.TextAppearance_android_textStyle;
-			global::BottomNavigationBar.Resource.Styleable.TextAppearance_android_typeface = global::junming.Droid.Resource.Styleable.TextAppearance_android_typeface;
-			global::BottomNavigationBar.Resource.Styleable.TextAppearance_textAllCaps = global::junming.Droid.Resource.Styleable.TextAppearance_textAllCaps;
-			global::BottomNavigationBar.Resource.Styleable.TextInputLayout = global::junming.Droid.Resource.Styleable.TextInputLayout;
-			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_android_hint = global::junming.Droid.Resource.Styleable.TextInputLayout_android_hint;
-			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_android_textColorHint = global::junming.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
-			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_counterEnabled = global::junming.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
-			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_counterMaxLength = global::junming.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
-			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::junming.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
-			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_counterTextAppearance = global::junming.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
-			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_errorEnabled = global::junming.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
-			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_errorTextAppearance = global::junming.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
-			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::junming.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
-			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_hintEnabled = global::junming.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
-			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_hintTextAppearance = global::junming.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
-			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::junming.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
-			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::junming.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
-			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::junming.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
-			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_passwordToggleTint = global::junming.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
-			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::junming.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar = global::junming.Droid.Resource.Styleable.Toolbar;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_android_gravity = global::junming.Droid.Resource.Styleable.Toolbar_android_gravity;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_android_minHeight = global::junming.Droid.Resource.Styleable.Toolbar_android_minHeight;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_buttonGravity = global::junming.Droid.Resource.Styleable.Toolbar_buttonGravity;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_collapseContentDescription = global::junming.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_collapseIcon = global::junming.Droid.Resource.Styleable.Toolbar_collapseIcon;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_contentInsetEnd = global::junming.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::junming.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_contentInsetLeft = global::junming.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_contentInsetRight = global::junming.Droid.Resource.Styleable.Toolbar_contentInsetRight;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_contentInsetStart = global::junming.Droid.Resource.Styleable.Toolbar_contentInsetStart;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::junming.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_logo = global::junming.Droid.Resource.Styleable.Toolbar_logo;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_logoDescription = global::junming.Droid.Resource.Styleable.Toolbar_logoDescription;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_maxButtonHeight = global::junming.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_navigationContentDescription = global::junming.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_navigationIcon = global::junming.Droid.Resource.Styleable.Toolbar_navigationIcon;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_popupTheme = global::junming.Droid.Resource.Styleable.Toolbar_popupTheme;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_subtitle = global::junming.Droid.Resource.Styleable.Toolbar_subtitle;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_subtitleTextAppearance = global::junming.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_subtitleTextColor = global::junming.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_title = global::junming.Droid.Resource.Styleable.Toolbar_title;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_titleMargin = global::junming.Droid.Resource.Styleable.Toolbar_titleMargin;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_titleMarginBottom = global::junming.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_titleMarginEnd = global::junming.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_titleMarginStart = global::junming.Droid.Resource.Styleable.Toolbar_titleMarginStart;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_titleMarginTop = global::junming.Droid.Resource.Styleable.Toolbar_titleMarginTop;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_titleMargins = global::junming.Droid.Resource.Styleable.Toolbar_titleMargins;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_titleTextAppearance = global::junming.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
-			global::BottomNavigationBar.Resource.Styleable.Toolbar_titleTextColor = global::junming.Droid.Resource.Styleable.Toolbar_titleTextColor;
-			global::BottomNavigationBar.Resource.Styleable.View = global::junming.Droid.Resource.Styleable.View;
-			global::BottomNavigationBar.Resource.Styleable.View_android_focusable = global::junming.Droid.Resource.Styleable.View_android_focusable;
-			global::BottomNavigationBar.Resource.Styleable.View_android_theme = global::junming.Droid.Resource.Styleable.View_android_theme;
-			global::BottomNavigationBar.Resource.Styleable.View_paddingEnd = global::junming.Droid.Resource.Styleable.View_paddingEnd;
-			global::BottomNavigationBar.Resource.Styleable.View_paddingStart = global::junming.Droid.Resource.Styleable.View_paddingStart;
-			global::BottomNavigationBar.Resource.Styleable.View_theme = global::junming.Droid.Resource.Styleable.View_theme;
-			global::BottomNavigationBar.Resource.Styleable.ViewBackgroundHelper = global::junming.Droid.Resource.Styleable.ViewBackgroundHelper;
-			global::BottomNavigationBar.Resource.Styleable.ViewBackgroundHelper_android_background = global::junming.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
-			global::BottomNavigationBar.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::junming.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
-			global::BottomNavigationBar.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::junming.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
-			global::BottomNavigationBar.Resource.Styleable.ViewStubCompat = global::junming.Droid.Resource.Styleable.ViewStubCompat;
-			global::BottomNavigationBar.Resource.Styleable.ViewStubCompat_android_id = global::junming.Droid.Resource.Styleable.ViewStubCompat_android_id;
-			global::BottomNavigationBar.Resource.Styleable.ViewStubCompat_android_inflatedId = global::junming.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
-			global::BottomNavigationBar.Resource.Styleable.ViewStubCompat_android_layout = global::junming.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 			global::Lottie.Forms.Droid.Resource.Animation.abc_fade_in = global::junming.Droid.Resource.Animation.abc_fade_in;
 			global::Lottie.Forms.Droid.Resource.Animation.abc_fade_out = global::junming.Droid.Resource.Animation.abc_fade_out;
 			global::Lottie.Forms.Droid.Resource.Animation.abc_grow_fade_in_from_bottom = global::junming.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
@@ -6668,10 +4942,7 @@ namespace junming.Droid
 			public const int abc_config_showMenuShortcutsWhenKeyboardPresent = 2131558404;
 			
 			// aapt resource value: 0x7f0d0005
-			public const int bb_bottom_bar_is_tablet_mode = 2131558405;
-			
-			// aapt resource value: 0x7f0d0006
-			public const int largeheap = 2131558406;
+			public const int largeheap = 2131558405;
 			
 			static Boolean()
 			{
@@ -6686,53 +4957,53 @@ namespace junming.Droid
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0c004e
-			public const int AccentColor = 2131492942;
+			// aapt resource value: 0x7f0c004a
+			public const int AccentColor = 2131492938;
+			
+			// aapt resource value: 0x7f0c004c
+			public const int BaseTextColor = 2131492940;
+			
+			// aapt resource value: 0x7f0c004b
+			public const int ComplementColor = 2131492939;
 			
 			// aapt resource value: 0x7f0c0050
-			public const int BaseTextColor = 2131492944;
+			public const int abc_background_cache_hint_selector_material_dark = 2131492944;
 			
-			// aapt resource value: 0x7f0c004f
-			public const int ComplementColor = 2131492943;
+			// aapt resource value: 0x7f0c0051
+			public const int abc_background_cache_hint_selector_material_light = 2131492945;
+			
+			// aapt resource value: 0x7f0c0052
+			public const int abc_btn_colored_borderless_text_material = 2131492946;
+			
+			// aapt resource value: 0x7f0c0053
+			public const int abc_btn_colored_text_material = 2131492947;
 			
 			// aapt resource value: 0x7f0c0054
-			public const int abc_background_cache_hint_selector_material_dark = 2131492948;
+			public const int abc_color_highlight_material = 2131492948;
 			
 			// aapt resource value: 0x7f0c0055
-			public const int abc_background_cache_hint_selector_material_light = 2131492949;
+			public const int abc_hint_foreground_material_dark = 2131492949;
 			
 			// aapt resource value: 0x7f0c0056
-			public const int abc_btn_colored_borderless_text_material = 2131492950;
-			
-			// aapt resource value: 0x7f0c0057
-			public const int abc_btn_colored_text_material = 2131492951;
-			
-			// aapt resource value: 0x7f0c0058
-			public const int abc_color_highlight_material = 2131492952;
-			
-			// aapt resource value: 0x7f0c0059
-			public const int abc_hint_foreground_material_dark = 2131492953;
-			
-			// aapt resource value: 0x7f0c005a
-			public const int abc_hint_foreground_material_light = 2131492954;
+			public const int abc_hint_foreground_material_light = 2131492950;
 			
 			// aapt resource value: 0x7f0c0005
 			public const int abc_input_method_navigation_guard = 2131492869;
 			
+			// aapt resource value: 0x7f0c0057
+			public const int abc_primary_text_disable_only_material_dark = 2131492951;
+			
+			// aapt resource value: 0x7f0c0058
+			public const int abc_primary_text_disable_only_material_light = 2131492952;
+			
+			// aapt resource value: 0x7f0c0059
+			public const int abc_primary_text_material_dark = 2131492953;
+			
+			// aapt resource value: 0x7f0c005a
+			public const int abc_primary_text_material_light = 2131492954;
+			
 			// aapt resource value: 0x7f0c005b
-			public const int abc_primary_text_disable_only_material_dark = 2131492955;
-			
-			// aapt resource value: 0x7f0c005c
-			public const int abc_primary_text_disable_only_material_light = 2131492956;
-			
-			// aapt resource value: 0x7f0c005d
-			public const int abc_primary_text_material_dark = 2131492957;
-			
-			// aapt resource value: 0x7f0c005e
-			public const int abc_primary_text_material_light = 2131492958;
-			
-			// aapt resource value: 0x7f0c005f
-			public const int abc_search_url_text = 2131492959;
+			public const int abc_search_url_text = 2131492955;
 			
 			// aapt resource value: 0x7f0c0006
 			public const int abc_search_url_text_normal = 2131492870;
@@ -6743,32 +5014,32 @@ namespace junming.Droid
 			// aapt resource value: 0x7f0c0008
 			public const int abc_search_url_text_selected = 2131492872;
 			
+			// aapt resource value: 0x7f0c005c
+			public const int abc_secondary_text_material_dark = 2131492956;
+			
+			// aapt resource value: 0x7f0c005d
+			public const int abc_secondary_text_material_light = 2131492957;
+			
+			// aapt resource value: 0x7f0c005e
+			public const int abc_tint_btn_checkable = 2131492958;
+			
+			// aapt resource value: 0x7f0c005f
+			public const int abc_tint_default = 2131492959;
+			
 			// aapt resource value: 0x7f0c0060
-			public const int abc_secondary_text_material_dark = 2131492960;
+			public const int abc_tint_edittext = 2131492960;
 			
 			// aapt resource value: 0x7f0c0061
-			public const int abc_secondary_text_material_light = 2131492961;
+			public const int abc_tint_seek_thumb = 2131492961;
 			
 			// aapt resource value: 0x7f0c0062
-			public const int abc_tint_btn_checkable = 2131492962;
+			public const int abc_tint_spinner = 2131492962;
 			
 			// aapt resource value: 0x7f0c0063
-			public const int abc_tint_default = 2131492963;
+			public const int abc_tint_switch_thumb = 2131492963;
 			
 			// aapt resource value: 0x7f0c0064
-			public const int abc_tint_edittext = 2131492964;
-			
-			// aapt resource value: 0x7f0c0065
-			public const int abc_tint_seek_thumb = 2131492965;
-			
-			// aapt resource value: 0x7f0c0066
-			public const int abc_tint_spinner = 2131492966;
-			
-			// aapt resource value: 0x7f0c0067
-			public const int abc_tint_switch_thumb = 2131492967;
-			
-			// aapt resource value: 0x7f0c0068
-			public const int abc_tint_switch_track = 2131492968;
+			public const int abc_tint_switch_track = 2131492964;
 			
 			// aapt resource value: 0x7f0c0009
 			public const int accent_material_dark = 2131492873;
@@ -6776,8 +5047,8 @@ namespace junming.Droid
 			// aapt resource value: 0x7f0c000a
 			public const int accent_material_light = 2131492874;
 			
-			// aapt resource value: 0x7f0c0053
-			public const int actionbar_tab_indicator = 2131492947;
+			// aapt resource value: 0x7f0c004f
+			public const int actionbar_tab_indicator = 2131492943;
 			
 			// aapt resource value: 0x7f0c000b
 			public const int background_floating_material_dark = 2131492875;
@@ -6790,18 +5061,6 @@ namespace junming.Droid
 			
 			// aapt resource value: 0x7f0c000e
 			public const int background_material_light = 2131492878;
-			
-			// aapt resource value: 0x7f0c004c
-			public const int bb_darkBackgroundColor = 2131492940;
-			
-			// aapt resource value: 0x7f0c004b
-			public const int bb_darkInActiveBottomBarItemColor = 2131492939;
-			
-			// aapt resource value: 0x7f0c004a
-			public const int bb_inActiveBottomBarItemColor = 2131492938;
-			
-			// aapt resource value: 0x7f0c004d
-			public const int bb_tabletRightBorderDark = 2131492941;
 			
 			// aapt resource value: 0x7f0c000f
 			public const int bright_foreground_disabled_material_dark = 2131492879;
@@ -6842,8 +5101,8 @@ namespace junming.Droid
 			// aapt resource value: 0x7f0c003f
 			public const int design_bottom_navigation_shadow_color = 2131492927;
 			
-			// aapt resource value: 0x7f0c0069
-			public const int design_error = 2131492969;
+			// aapt resource value: 0x7f0c0065
+			public const int design_error = 2131492965;
 			
 			// aapt resource value: 0x7f0c0040
 			public const int design_fab_shadow_end_color = 2131492928;
@@ -6875,8 +5134,8 @@ namespace junming.Droid
 			// aapt resource value: 0x7f0c0049
 			public const int design_textinput_error_color_light = 2131492937;
 			
-			// aapt resource value: 0x7f0c006a
-			public const int design_tint_password_toggle = 2131492970;
+			// aapt resource value: 0x7f0c0066
+			public const int design_tint_password_toggle = 2131492966;
 			
 			// aapt resource value: 0x7f0c0017
 			public const int dim_foreground_disabled_material_dark = 2131492887;
@@ -6947,11 +5206,11 @@ namespace junming.Droid
 			// aapt resource value: 0x7f0c002c
 			public const int notification_material_background_media_default_color = 2131492908;
 			
-			// aapt resource value: 0x7f0c0051
-			public const int primary = 2131492945;
+			// aapt resource value: 0x7f0c004d
+			public const int primary = 2131492941;
 			
-			// aapt resource value: 0x7f0c0052
-			public const int primary_dark = 2131492946;
+			// aapt resource value: 0x7f0c004e
+			public const int primary_dark = 2131492942;
 			
 			// aapt resource value: 0x7f0c002d
 			public const int primary_dark_material_dark = 2131492909;
@@ -7001,11 +5260,11 @@ namespace junming.Droid
 			// aapt resource value: 0x7f0c003c
 			public const int switch_thumb_disabled_material_light = 2131492924;
 			
-			// aapt resource value: 0x7f0c006b
-			public const int switch_thumb_material_dark = 2131492971;
+			// aapt resource value: 0x7f0c0067
+			public const int switch_thumb_material_dark = 2131492967;
 			
-			// aapt resource value: 0x7f0c006c
-			public const int switch_thumb_material_light = 2131492972;
+			// aapt resource value: 0x7f0c0068
+			public const int switch_thumb_material_light = 2131492968;
 			
 			// aapt resource value: 0x7f0c003d
 			public const int switch_thumb_normal_material_dark = 2131492925;
@@ -7247,18 +5506,6 @@ namespace junming.Droid
 			
 			// aapt resource value: 0x7f070010
 			public const int abc_text_size_title_material_toolbar = 2131165200;
-			
-			// aapt resource value: 0x7f070094
-			public const int activity_horizontal_margin = 2131165332;
-			
-			// aapt resource value: 0x7f070095
-			public const int activity_vertical_margin = 2131165333;
-			
-			// aapt resource value: 0x7f070097
-			public const int bb_height = 2131165335;
-			
-			// aapt resource value: 0x7f070096
-			public const int bottom_bar_elevation = 2131165334;
 			
 			// aapt resource value: 0x7f070009
 			public const int cardview_compat_inset_shadow = 2131165193;
@@ -7751,646 +5998,643 @@ namespace junming.Droid
 			public const int avd_show_password = 2130837588;
 			
 			// aapt resource value: 0x7f020055
-			public const int bb_bottom_bar_top_shadow = 2130837589;
+			public const int design_bottom_navigation_item_background = 2130837589;
 			
 			// aapt resource value: 0x7f020056
-			public const int design_bottom_navigation_item_background = 2130837590;
+			public const int design_fab_background = 2130837590;
 			
 			// aapt resource value: 0x7f020057
-			public const int design_fab_background = 2130837591;
+			public const int design_ic_visibility = 2130837591;
 			
 			// aapt resource value: 0x7f020058
-			public const int design_ic_visibility = 2130837592;
+			public const int design_ic_visibility_off = 2130837592;
 			
 			// aapt resource value: 0x7f020059
-			public const int design_ic_visibility_off = 2130837593;
+			public const int design_password_eye = 2130837593;
 			
 			// aapt resource value: 0x7f02005a
-			public const int design_password_eye = 2130837594;
+			public const int design_snackbar_background = 2130837594;
 			
 			// aapt resource value: 0x7f02005b
-			public const int design_snackbar_background = 2130837595;
+			public const int farm01 = 2130837595;
 			
 			// aapt resource value: 0x7f02005c
-			public const int farm01 = 2130837596;
+			public const int farm02 = 2130837596;
 			
 			// aapt resource value: 0x7f02005d
-			public const int farm02 = 2130837597;
+			public const int generic_bg_image = 2130837597;
 			
 			// aapt resource value: 0x7f02005e
-			public const int generic_bg_image = 2130837598;
+			public const int hamburguer_icon = 2130837598;
 			
 			// aapt resource value: 0x7f02005f
-			public const int hamburguer_icon = 2130837599;
+			public const int ic_audiotrack_dark = 2130837599;
 			
 			// aapt resource value: 0x7f020060
-			public const int ic_audiotrack_dark = 2130837600;
+			public const int ic_audiotrack_light = 2130837600;
 			
 			// aapt resource value: 0x7f020061
-			public const int ic_audiotrack_light = 2130837601;
+			public const int ic_dialog_close_dark = 2130837601;
 			
 			// aapt resource value: 0x7f020062
-			public const int ic_dialog_close_dark = 2130837602;
+			public const int ic_dialog_close_light = 2130837602;
 			
 			// aapt resource value: 0x7f020063
-			public const int ic_dialog_close_light = 2130837603;
+			public const int ic_group_collapse_00 = 2130837603;
 			
 			// aapt resource value: 0x7f020064
-			public const int ic_group_collapse_00 = 2130837604;
+			public const int ic_group_collapse_01 = 2130837604;
 			
 			// aapt resource value: 0x7f020065
-			public const int ic_group_collapse_01 = 2130837605;
+			public const int ic_group_collapse_02 = 2130837605;
 			
 			// aapt resource value: 0x7f020066
-			public const int ic_group_collapse_02 = 2130837606;
+			public const int ic_group_collapse_03 = 2130837606;
 			
 			// aapt resource value: 0x7f020067
-			public const int ic_group_collapse_03 = 2130837607;
+			public const int ic_group_collapse_04 = 2130837607;
 			
 			// aapt resource value: 0x7f020068
-			public const int ic_group_collapse_04 = 2130837608;
+			public const int ic_group_collapse_05 = 2130837608;
 			
 			// aapt resource value: 0x7f020069
-			public const int ic_group_collapse_05 = 2130837609;
+			public const int ic_group_collapse_06 = 2130837609;
 			
 			// aapt resource value: 0x7f02006a
-			public const int ic_group_collapse_06 = 2130837610;
+			public const int ic_group_collapse_07 = 2130837610;
 			
 			// aapt resource value: 0x7f02006b
-			public const int ic_group_collapse_07 = 2130837611;
+			public const int ic_group_collapse_08 = 2130837611;
 			
 			// aapt resource value: 0x7f02006c
-			public const int ic_group_collapse_08 = 2130837612;
+			public const int ic_group_collapse_09 = 2130837612;
 			
 			// aapt resource value: 0x7f02006d
-			public const int ic_group_collapse_09 = 2130837613;
+			public const int ic_group_collapse_10 = 2130837613;
 			
 			// aapt resource value: 0x7f02006e
-			public const int ic_group_collapse_10 = 2130837614;
+			public const int ic_group_collapse_11 = 2130837614;
 			
 			// aapt resource value: 0x7f02006f
-			public const int ic_group_collapse_11 = 2130837615;
+			public const int ic_group_collapse_12 = 2130837615;
 			
 			// aapt resource value: 0x7f020070
-			public const int ic_group_collapse_12 = 2130837616;
+			public const int ic_group_collapse_13 = 2130837616;
 			
 			// aapt resource value: 0x7f020071
-			public const int ic_group_collapse_13 = 2130837617;
+			public const int ic_group_collapse_14 = 2130837617;
 			
 			// aapt resource value: 0x7f020072
-			public const int ic_group_collapse_14 = 2130837618;
+			public const int ic_group_collapse_15 = 2130837618;
 			
 			// aapt resource value: 0x7f020073
-			public const int ic_group_collapse_15 = 2130837619;
+			public const int ic_group_expand_00 = 2130837619;
 			
 			// aapt resource value: 0x7f020074
-			public const int ic_group_expand_00 = 2130837620;
+			public const int ic_group_expand_01 = 2130837620;
 			
 			// aapt resource value: 0x7f020075
-			public const int ic_group_expand_01 = 2130837621;
+			public const int ic_group_expand_02 = 2130837621;
 			
 			// aapt resource value: 0x7f020076
-			public const int ic_group_expand_02 = 2130837622;
+			public const int ic_group_expand_03 = 2130837622;
 			
 			// aapt resource value: 0x7f020077
-			public const int ic_group_expand_03 = 2130837623;
+			public const int ic_group_expand_04 = 2130837623;
 			
 			// aapt resource value: 0x7f020078
-			public const int ic_group_expand_04 = 2130837624;
+			public const int ic_group_expand_05 = 2130837624;
 			
 			// aapt resource value: 0x7f020079
-			public const int ic_group_expand_05 = 2130837625;
+			public const int ic_group_expand_06 = 2130837625;
 			
 			// aapt resource value: 0x7f02007a
-			public const int ic_group_expand_06 = 2130837626;
+			public const int ic_group_expand_07 = 2130837626;
 			
 			// aapt resource value: 0x7f02007b
-			public const int ic_group_expand_07 = 2130837627;
+			public const int ic_group_expand_08 = 2130837627;
 			
 			// aapt resource value: 0x7f02007c
-			public const int ic_group_expand_08 = 2130837628;
+			public const int ic_group_expand_09 = 2130837628;
 			
 			// aapt resource value: 0x7f02007d
-			public const int ic_group_expand_09 = 2130837629;
+			public const int ic_group_expand_10 = 2130837629;
 			
 			// aapt resource value: 0x7f02007e
-			public const int ic_group_expand_10 = 2130837630;
+			public const int ic_group_expand_11 = 2130837630;
 			
 			// aapt resource value: 0x7f02007f
-			public const int ic_group_expand_11 = 2130837631;
+			public const int ic_group_expand_12 = 2130837631;
 			
 			// aapt resource value: 0x7f020080
-			public const int ic_group_expand_12 = 2130837632;
+			public const int ic_group_expand_13 = 2130837632;
 			
 			// aapt resource value: 0x7f020081
-			public const int ic_group_expand_13 = 2130837633;
+			public const int ic_group_expand_14 = 2130837633;
 			
 			// aapt resource value: 0x7f020082
-			public const int ic_group_expand_14 = 2130837634;
+			public const int ic_group_expand_15 = 2130837634;
 			
 			// aapt resource value: 0x7f020083
-			public const int ic_group_expand_15 = 2130837635;
+			public const int ic_media_pause_dark = 2130837635;
 			
 			// aapt resource value: 0x7f020084
-			public const int ic_media_pause_dark = 2130837636;
+			public const int ic_media_pause_light = 2130837636;
 			
 			// aapt resource value: 0x7f020085
-			public const int ic_media_pause_light = 2130837637;
+			public const int ic_media_play_dark = 2130837637;
 			
 			// aapt resource value: 0x7f020086
-			public const int ic_media_play_dark = 2130837638;
+			public const int ic_media_play_light = 2130837638;
 			
 			// aapt resource value: 0x7f020087
-			public const int ic_media_play_light = 2130837639;
+			public const int ic_media_stop_dark = 2130837639;
 			
 			// aapt resource value: 0x7f020088
-			public const int ic_media_stop_dark = 2130837640;
+			public const int ic_media_stop_light = 2130837640;
 			
 			// aapt resource value: 0x7f020089
-			public const int ic_media_stop_light = 2130837641;
+			public const int ic_mr_button_connected_00_dark = 2130837641;
 			
 			// aapt resource value: 0x7f02008a
-			public const int ic_mr_button_connected_00_dark = 2130837642;
+			public const int ic_mr_button_connected_00_light = 2130837642;
 			
 			// aapt resource value: 0x7f02008b
-			public const int ic_mr_button_connected_00_light = 2130837643;
+			public const int ic_mr_button_connected_01_dark = 2130837643;
 			
 			// aapt resource value: 0x7f02008c
-			public const int ic_mr_button_connected_01_dark = 2130837644;
+			public const int ic_mr_button_connected_01_light = 2130837644;
 			
 			// aapt resource value: 0x7f02008d
-			public const int ic_mr_button_connected_01_light = 2130837645;
+			public const int ic_mr_button_connected_02_dark = 2130837645;
 			
 			// aapt resource value: 0x7f02008e
-			public const int ic_mr_button_connected_02_dark = 2130837646;
+			public const int ic_mr_button_connected_02_light = 2130837646;
 			
 			// aapt resource value: 0x7f02008f
-			public const int ic_mr_button_connected_02_light = 2130837647;
+			public const int ic_mr_button_connected_03_dark = 2130837647;
 			
 			// aapt resource value: 0x7f020090
-			public const int ic_mr_button_connected_03_dark = 2130837648;
+			public const int ic_mr_button_connected_03_light = 2130837648;
 			
 			// aapt resource value: 0x7f020091
-			public const int ic_mr_button_connected_03_light = 2130837649;
+			public const int ic_mr_button_connected_04_dark = 2130837649;
 			
 			// aapt resource value: 0x7f020092
-			public const int ic_mr_button_connected_04_dark = 2130837650;
+			public const int ic_mr_button_connected_04_light = 2130837650;
 			
 			// aapt resource value: 0x7f020093
-			public const int ic_mr_button_connected_04_light = 2130837651;
+			public const int ic_mr_button_connected_05_dark = 2130837651;
 			
 			// aapt resource value: 0x7f020094
-			public const int ic_mr_button_connected_05_dark = 2130837652;
+			public const int ic_mr_button_connected_05_light = 2130837652;
 			
 			// aapt resource value: 0x7f020095
-			public const int ic_mr_button_connected_05_light = 2130837653;
+			public const int ic_mr_button_connected_06_dark = 2130837653;
 			
 			// aapt resource value: 0x7f020096
-			public const int ic_mr_button_connected_06_dark = 2130837654;
+			public const int ic_mr_button_connected_06_light = 2130837654;
 			
 			// aapt resource value: 0x7f020097
-			public const int ic_mr_button_connected_06_light = 2130837655;
+			public const int ic_mr_button_connected_07_dark = 2130837655;
 			
 			// aapt resource value: 0x7f020098
-			public const int ic_mr_button_connected_07_dark = 2130837656;
+			public const int ic_mr_button_connected_07_light = 2130837656;
 			
 			// aapt resource value: 0x7f020099
-			public const int ic_mr_button_connected_07_light = 2130837657;
+			public const int ic_mr_button_connected_08_dark = 2130837657;
 			
 			// aapt resource value: 0x7f02009a
-			public const int ic_mr_button_connected_08_dark = 2130837658;
+			public const int ic_mr_button_connected_08_light = 2130837658;
 			
 			// aapt resource value: 0x7f02009b
-			public const int ic_mr_button_connected_08_light = 2130837659;
+			public const int ic_mr_button_connected_09_dark = 2130837659;
 			
 			// aapt resource value: 0x7f02009c
-			public const int ic_mr_button_connected_09_dark = 2130837660;
+			public const int ic_mr_button_connected_09_light = 2130837660;
 			
 			// aapt resource value: 0x7f02009d
-			public const int ic_mr_button_connected_09_light = 2130837661;
+			public const int ic_mr_button_connected_10_dark = 2130837661;
 			
 			// aapt resource value: 0x7f02009e
-			public const int ic_mr_button_connected_10_dark = 2130837662;
+			public const int ic_mr_button_connected_10_light = 2130837662;
 			
 			// aapt resource value: 0x7f02009f
-			public const int ic_mr_button_connected_10_light = 2130837663;
+			public const int ic_mr_button_connected_11_dark = 2130837663;
 			
 			// aapt resource value: 0x7f0200a0
-			public const int ic_mr_button_connected_11_dark = 2130837664;
+			public const int ic_mr_button_connected_11_light = 2130837664;
 			
 			// aapt resource value: 0x7f0200a1
-			public const int ic_mr_button_connected_11_light = 2130837665;
+			public const int ic_mr_button_connected_12_dark = 2130837665;
 			
 			// aapt resource value: 0x7f0200a2
-			public const int ic_mr_button_connected_12_dark = 2130837666;
+			public const int ic_mr_button_connected_12_light = 2130837666;
 			
 			// aapt resource value: 0x7f0200a3
-			public const int ic_mr_button_connected_12_light = 2130837667;
+			public const int ic_mr_button_connected_13_dark = 2130837667;
 			
 			// aapt resource value: 0x7f0200a4
-			public const int ic_mr_button_connected_13_dark = 2130837668;
+			public const int ic_mr_button_connected_13_light = 2130837668;
 			
 			// aapt resource value: 0x7f0200a5
-			public const int ic_mr_button_connected_13_light = 2130837669;
+			public const int ic_mr_button_connected_14_dark = 2130837669;
 			
 			// aapt resource value: 0x7f0200a6
-			public const int ic_mr_button_connected_14_dark = 2130837670;
+			public const int ic_mr_button_connected_14_light = 2130837670;
 			
 			// aapt resource value: 0x7f0200a7
-			public const int ic_mr_button_connected_14_light = 2130837671;
+			public const int ic_mr_button_connected_15_dark = 2130837671;
 			
 			// aapt resource value: 0x7f0200a8
-			public const int ic_mr_button_connected_15_dark = 2130837672;
+			public const int ic_mr_button_connected_15_light = 2130837672;
 			
 			// aapt resource value: 0x7f0200a9
-			public const int ic_mr_button_connected_15_light = 2130837673;
+			public const int ic_mr_button_connected_16_dark = 2130837673;
 			
 			// aapt resource value: 0x7f0200aa
-			public const int ic_mr_button_connected_16_dark = 2130837674;
+			public const int ic_mr_button_connected_16_light = 2130837674;
 			
 			// aapt resource value: 0x7f0200ab
-			public const int ic_mr_button_connected_16_light = 2130837675;
+			public const int ic_mr_button_connected_17_dark = 2130837675;
 			
 			// aapt resource value: 0x7f0200ac
-			public const int ic_mr_button_connected_17_dark = 2130837676;
+			public const int ic_mr_button_connected_17_light = 2130837676;
 			
 			// aapt resource value: 0x7f0200ad
-			public const int ic_mr_button_connected_17_light = 2130837677;
+			public const int ic_mr_button_connected_18_dark = 2130837677;
 			
 			// aapt resource value: 0x7f0200ae
-			public const int ic_mr_button_connected_18_dark = 2130837678;
+			public const int ic_mr_button_connected_18_light = 2130837678;
 			
 			// aapt resource value: 0x7f0200af
-			public const int ic_mr_button_connected_18_light = 2130837679;
+			public const int ic_mr_button_connected_19_dark = 2130837679;
 			
 			// aapt resource value: 0x7f0200b0
-			public const int ic_mr_button_connected_19_dark = 2130837680;
+			public const int ic_mr_button_connected_19_light = 2130837680;
 			
 			// aapt resource value: 0x7f0200b1
-			public const int ic_mr_button_connected_19_light = 2130837681;
+			public const int ic_mr_button_connected_20_dark = 2130837681;
 			
 			// aapt resource value: 0x7f0200b2
-			public const int ic_mr_button_connected_20_dark = 2130837682;
+			public const int ic_mr_button_connected_20_light = 2130837682;
 			
 			// aapt resource value: 0x7f0200b3
-			public const int ic_mr_button_connected_20_light = 2130837683;
+			public const int ic_mr_button_connected_21_dark = 2130837683;
 			
 			// aapt resource value: 0x7f0200b4
-			public const int ic_mr_button_connected_21_dark = 2130837684;
+			public const int ic_mr_button_connected_21_light = 2130837684;
 			
 			// aapt resource value: 0x7f0200b5
-			public const int ic_mr_button_connected_21_light = 2130837685;
+			public const int ic_mr_button_connected_22_dark = 2130837685;
 			
 			// aapt resource value: 0x7f0200b6
-			public const int ic_mr_button_connected_22_dark = 2130837686;
+			public const int ic_mr_button_connected_22_light = 2130837686;
 			
 			// aapt resource value: 0x7f0200b7
-			public const int ic_mr_button_connected_22_light = 2130837687;
+			public const int ic_mr_button_connecting_00_dark = 2130837687;
 			
 			// aapt resource value: 0x7f0200b8
-			public const int ic_mr_button_connecting_00_dark = 2130837688;
+			public const int ic_mr_button_connecting_00_light = 2130837688;
 			
 			// aapt resource value: 0x7f0200b9
-			public const int ic_mr_button_connecting_00_light = 2130837689;
+			public const int ic_mr_button_connecting_01_dark = 2130837689;
 			
 			// aapt resource value: 0x7f0200ba
-			public const int ic_mr_button_connecting_01_dark = 2130837690;
+			public const int ic_mr_button_connecting_01_light = 2130837690;
 			
 			// aapt resource value: 0x7f0200bb
-			public const int ic_mr_button_connecting_01_light = 2130837691;
+			public const int ic_mr_button_connecting_02_dark = 2130837691;
 			
 			// aapt resource value: 0x7f0200bc
-			public const int ic_mr_button_connecting_02_dark = 2130837692;
+			public const int ic_mr_button_connecting_02_light = 2130837692;
 			
 			// aapt resource value: 0x7f0200bd
-			public const int ic_mr_button_connecting_02_light = 2130837693;
+			public const int ic_mr_button_connecting_03_dark = 2130837693;
 			
 			// aapt resource value: 0x7f0200be
-			public const int ic_mr_button_connecting_03_dark = 2130837694;
+			public const int ic_mr_button_connecting_03_light = 2130837694;
 			
 			// aapt resource value: 0x7f0200bf
-			public const int ic_mr_button_connecting_03_light = 2130837695;
+			public const int ic_mr_button_connecting_04_dark = 2130837695;
 			
 			// aapt resource value: 0x7f0200c0
-			public const int ic_mr_button_connecting_04_dark = 2130837696;
+			public const int ic_mr_button_connecting_04_light = 2130837696;
 			
 			// aapt resource value: 0x7f0200c1
-			public const int ic_mr_button_connecting_04_light = 2130837697;
+			public const int ic_mr_button_connecting_05_dark = 2130837697;
 			
 			// aapt resource value: 0x7f0200c2
-			public const int ic_mr_button_connecting_05_dark = 2130837698;
+			public const int ic_mr_button_connecting_05_light = 2130837698;
 			
 			// aapt resource value: 0x7f0200c3
-			public const int ic_mr_button_connecting_05_light = 2130837699;
+			public const int ic_mr_button_connecting_06_dark = 2130837699;
 			
 			// aapt resource value: 0x7f0200c4
-			public const int ic_mr_button_connecting_06_dark = 2130837700;
+			public const int ic_mr_button_connecting_06_light = 2130837700;
 			
 			// aapt resource value: 0x7f0200c5
-			public const int ic_mr_button_connecting_06_light = 2130837701;
+			public const int ic_mr_button_connecting_07_dark = 2130837701;
 			
 			// aapt resource value: 0x7f0200c6
-			public const int ic_mr_button_connecting_07_dark = 2130837702;
+			public const int ic_mr_button_connecting_07_light = 2130837702;
 			
 			// aapt resource value: 0x7f0200c7
-			public const int ic_mr_button_connecting_07_light = 2130837703;
+			public const int ic_mr_button_connecting_08_dark = 2130837703;
 			
 			// aapt resource value: 0x7f0200c8
-			public const int ic_mr_button_connecting_08_dark = 2130837704;
+			public const int ic_mr_button_connecting_08_light = 2130837704;
 			
 			// aapt resource value: 0x7f0200c9
-			public const int ic_mr_button_connecting_08_light = 2130837705;
+			public const int ic_mr_button_connecting_09_dark = 2130837705;
 			
 			// aapt resource value: 0x7f0200ca
-			public const int ic_mr_button_connecting_09_dark = 2130837706;
+			public const int ic_mr_button_connecting_09_light = 2130837706;
 			
 			// aapt resource value: 0x7f0200cb
-			public const int ic_mr_button_connecting_09_light = 2130837707;
+			public const int ic_mr_button_connecting_10_dark = 2130837707;
 			
 			// aapt resource value: 0x7f0200cc
-			public const int ic_mr_button_connecting_10_dark = 2130837708;
+			public const int ic_mr_button_connecting_10_light = 2130837708;
 			
 			// aapt resource value: 0x7f0200cd
-			public const int ic_mr_button_connecting_10_light = 2130837709;
+			public const int ic_mr_button_connecting_11_dark = 2130837709;
 			
 			// aapt resource value: 0x7f0200ce
-			public const int ic_mr_button_connecting_11_dark = 2130837710;
+			public const int ic_mr_button_connecting_11_light = 2130837710;
 			
 			// aapt resource value: 0x7f0200cf
-			public const int ic_mr_button_connecting_11_light = 2130837711;
+			public const int ic_mr_button_connecting_12_dark = 2130837711;
 			
 			// aapt resource value: 0x7f0200d0
-			public const int ic_mr_button_connecting_12_dark = 2130837712;
+			public const int ic_mr_button_connecting_12_light = 2130837712;
 			
 			// aapt resource value: 0x7f0200d1
-			public const int ic_mr_button_connecting_12_light = 2130837713;
+			public const int ic_mr_button_connecting_13_dark = 2130837713;
 			
 			// aapt resource value: 0x7f0200d2
-			public const int ic_mr_button_connecting_13_dark = 2130837714;
+			public const int ic_mr_button_connecting_13_light = 2130837714;
 			
 			// aapt resource value: 0x7f0200d3
-			public const int ic_mr_button_connecting_13_light = 2130837715;
+			public const int ic_mr_button_connecting_14_dark = 2130837715;
 			
 			// aapt resource value: 0x7f0200d4
-			public const int ic_mr_button_connecting_14_dark = 2130837716;
+			public const int ic_mr_button_connecting_14_light = 2130837716;
 			
 			// aapt resource value: 0x7f0200d5
-			public const int ic_mr_button_connecting_14_light = 2130837717;
+			public const int ic_mr_button_connecting_15_dark = 2130837717;
 			
 			// aapt resource value: 0x7f0200d6
-			public const int ic_mr_button_connecting_15_dark = 2130837718;
+			public const int ic_mr_button_connecting_15_light = 2130837718;
 			
 			// aapt resource value: 0x7f0200d7
-			public const int ic_mr_button_connecting_15_light = 2130837719;
+			public const int ic_mr_button_connecting_16_dark = 2130837719;
 			
 			// aapt resource value: 0x7f0200d8
-			public const int ic_mr_button_connecting_16_dark = 2130837720;
+			public const int ic_mr_button_connecting_16_light = 2130837720;
 			
 			// aapt resource value: 0x7f0200d9
-			public const int ic_mr_button_connecting_16_light = 2130837721;
+			public const int ic_mr_button_connecting_17_dark = 2130837721;
 			
 			// aapt resource value: 0x7f0200da
-			public const int ic_mr_button_connecting_17_dark = 2130837722;
+			public const int ic_mr_button_connecting_17_light = 2130837722;
 			
 			// aapt resource value: 0x7f0200db
-			public const int ic_mr_button_connecting_17_light = 2130837723;
+			public const int ic_mr_button_connecting_18_dark = 2130837723;
 			
 			// aapt resource value: 0x7f0200dc
-			public const int ic_mr_button_connecting_18_dark = 2130837724;
+			public const int ic_mr_button_connecting_18_light = 2130837724;
 			
 			// aapt resource value: 0x7f0200dd
-			public const int ic_mr_button_connecting_18_light = 2130837725;
+			public const int ic_mr_button_connecting_19_dark = 2130837725;
 			
 			// aapt resource value: 0x7f0200de
-			public const int ic_mr_button_connecting_19_dark = 2130837726;
+			public const int ic_mr_button_connecting_19_light = 2130837726;
 			
 			// aapt resource value: 0x7f0200df
-			public const int ic_mr_button_connecting_19_light = 2130837727;
+			public const int ic_mr_button_connecting_20_dark = 2130837727;
 			
 			// aapt resource value: 0x7f0200e0
-			public const int ic_mr_button_connecting_20_dark = 2130837728;
+			public const int ic_mr_button_connecting_20_light = 2130837728;
 			
 			// aapt resource value: 0x7f0200e1
-			public const int ic_mr_button_connecting_20_light = 2130837729;
+			public const int ic_mr_button_connecting_21_dark = 2130837729;
 			
 			// aapt resource value: 0x7f0200e2
-			public const int ic_mr_button_connecting_21_dark = 2130837730;
+			public const int ic_mr_button_connecting_21_light = 2130837730;
 			
 			// aapt resource value: 0x7f0200e3
-			public const int ic_mr_button_connecting_21_light = 2130837731;
+			public const int ic_mr_button_connecting_22_dark = 2130837731;
 			
 			// aapt resource value: 0x7f0200e4
-			public const int ic_mr_button_connecting_22_dark = 2130837732;
+			public const int ic_mr_button_connecting_22_light = 2130837732;
 			
 			// aapt resource value: 0x7f0200e5
-			public const int ic_mr_button_connecting_22_light = 2130837733;
+			public const int ic_mr_button_disabled_dark = 2130837733;
 			
 			// aapt resource value: 0x7f0200e6
-			public const int ic_mr_button_disabled_dark = 2130837734;
+			public const int ic_mr_button_disabled_light = 2130837734;
 			
 			// aapt resource value: 0x7f0200e7
-			public const int ic_mr_button_disabled_light = 2130837735;
+			public const int ic_mr_button_disconnected_dark = 2130837735;
 			
 			// aapt resource value: 0x7f0200e8
-			public const int ic_mr_button_disconnected_dark = 2130837736;
+			public const int ic_mr_button_disconnected_light = 2130837736;
 			
 			// aapt resource value: 0x7f0200e9
-			public const int ic_mr_button_disconnected_light = 2130837737;
+			public const int ic_mr_button_grey = 2130837737;
 			
 			// aapt resource value: 0x7f0200ea
-			public const int ic_mr_button_grey = 2130837738;
+			public const int ic_vol_type_speaker_dark = 2130837738;
 			
 			// aapt resource value: 0x7f0200eb
-			public const int ic_vol_type_speaker_dark = 2130837739;
+			public const int ic_vol_type_speaker_group_dark = 2130837739;
 			
 			// aapt resource value: 0x7f0200ec
-			public const int ic_vol_type_speaker_group_dark = 2130837740;
+			public const int ic_vol_type_speaker_group_light = 2130837740;
 			
 			// aapt resource value: 0x7f0200ed
-			public const int ic_vol_type_speaker_group_light = 2130837741;
+			public const int ic_vol_type_speaker_light = 2130837741;
 			
 			// aapt resource value: 0x7f0200ee
-			public const int ic_vol_type_speaker_light = 2130837742;
+			public const int ic_vol_type_tv_dark = 2130837742;
 			
 			// aapt resource value: 0x7f0200ef
-			public const int ic_vol_type_tv_dark = 2130837743;
+			public const int ic_vol_type_tv_light = 2130837743;
 			
 			// aapt resource value: 0x7f0200f0
-			public const int ic_vol_type_tv_light = 2130837744;
+			public const int icon = 2130837744;
 			
 			// aapt resource value: 0x7f0200f1
-			public const int icon = 2130837745;
+			public const int login_bg = 2130837745;
 			
 			// aapt resource value: 0x7f0200f2
-			public const int login_bg = 2130837746;
+			public const int login_bg_tablet = 2130837746;
 			
 			// aapt resource value: 0x7f0200f3
-			public const int login_bg_tablet = 2130837747;
+			public const int logo = 2130837747;
 			
 			// aapt resource value: 0x7f0200f4
-			public const int logo = 2130837748;
+			public const int mr_button_connected_dark = 2130837748;
 			
 			// aapt resource value: 0x7f0200f5
-			public const int mr_button_connected_dark = 2130837749;
+			public const int mr_button_connected_light = 2130837749;
 			
 			// aapt resource value: 0x7f0200f6
-			public const int mr_button_connected_light = 2130837750;
+			public const int mr_button_connecting_dark = 2130837750;
 			
 			// aapt resource value: 0x7f0200f7
-			public const int mr_button_connecting_dark = 2130837751;
+			public const int mr_button_connecting_light = 2130837751;
 			
 			// aapt resource value: 0x7f0200f8
-			public const int mr_button_connecting_light = 2130837752;
+			public const int mr_button_dark = 2130837752;
 			
 			// aapt resource value: 0x7f0200f9
-			public const int mr_button_dark = 2130837753;
+			public const int mr_button_light = 2130837753;
 			
 			// aapt resource value: 0x7f0200fa
-			public const int mr_button_light = 2130837754;
+			public const int mr_dialog_close_dark = 2130837754;
 			
 			// aapt resource value: 0x7f0200fb
-			public const int mr_dialog_close_dark = 2130837755;
+			public const int mr_dialog_close_light = 2130837755;
 			
 			// aapt resource value: 0x7f0200fc
-			public const int mr_dialog_close_light = 2130837756;
+			public const int mr_dialog_material_background_dark = 2130837756;
 			
 			// aapt resource value: 0x7f0200fd
-			public const int mr_dialog_material_background_dark = 2130837757;
+			public const int mr_dialog_material_background_light = 2130837757;
 			
 			// aapt resource value: 0x7f0200fe
-			public const int mr_dialog_material_background_light = 2130837758;
+			public const int mr_group_collapse = 2130837758;
 			
 			// aapt resource value: 0x7f0200ff
-			public const int mr_group_collapse = 2130837759;
+			public const int mr_group_expand = 2130837759;
 			
 			// aapt resource value: 0x7f020100
-			public const int mr_group_expand = 2130837760;
+			public const int mr_media_pause_dark = 2130837760;
 			
 			// aapt resource value: 0x7f020101
-			public const int mr_media_pause_dark = 2130837761;
+			public const int mr_media_pause_light = 2130837761;
 			
 			// aapt resource value: 0x7f020102
-			public const int mr_media_pause_light = 2130837762;
+			public const int mr_media_play_dark = 2130837762;
 			
 			// aapt resource value: 0x7f020103
-			public const int mr_media_play_dark = 2130837763;
+			public const int mr_media_play_light = 2130837763;
 			
 			// aapt resource value: 0x7f020104
-			public const int mr_media_play_light = 2130837764;
+			public const int mr_media_stop_dark = 2130837764;
 			
 			// aapt resource value: 0x7f020105
-			public const int mr_media_stop_dark = 2130837765;
+			public const int mr_media_stop_light = 2130837765;
 			
 			// aapt resource value: 0x7f020106
-			public const int mr_media_stop_light = 2130837766;
+			public const int mr_vol_type_audiotrack_dark = 2130837766;
 			
 			// aapt resource value: 0x7f020107
-			public const int mr_vol_type_audiotrack_dark = 2130837767;
+			public const int mr_vol_type_audiotrack_light = 2130837767;
 			
 			// aapt resource value: 0x7f020108
-			public const int mr_vol_type_audiotrack_light = 2130837768;
+			public const int navigation_empty_icon = 2130837768;
 			
 			// aapt resource value: 0x7f020109
-			public const int navigation_empty_icon = 2130837769;
+			public const int notification_action_background = 2130837769;
 			
 			// aapt resource value: 0x7f02010a
-			public const int notification_action_background = 2130837770;
+			public const int notification_bg = 2130837770;
 			
 			// aapt resource value: 0x7f02010b
-			public const int notification_bg = 2130837771;
+			public const int notification_bg_low = 2130837771;
 			
 			// aapt resource value: 0x7f02010c
-			public const int notification_bg_low = 2130837772;
+			public const int notification_bg_low_normal = 2130837772;
 			
 			// aapt resource value: 0x7f02010d
-			public const int notification_bg_low_normal = 2130837773;
+			public const int notification_bg_low_pressed = 2130837773;
 			
 			// aapt resource value: 0x7f02010e
-			public const int notification_bg_low_pressed = 2130837774;
+			public const int notification_bg_normal = 2130837774;
 			
 			// aapt resource value: 0x7f02010f
-			public const int notification_bg_normal = 2130837775;
+			public const int notification_bg_normal_pressed = 2130837775;
 			
 			// aapt resource value: 0x7f020110
-			public const int notification_bg_normal_pressed = 2130837776;
-			
-			// aapt resource value: 0x7f020111
-			public const int notification_icon_background = 2130837777;
-			
-			// aapt resource value: 0x7f020129
-			public const int notification_template_icon_bg = 2130837801;
-			
-			// aapt resource value: 0x7f02012a
-			public const int notification_template_icon_low_bg = 2130837802;
-			
-			// aapt resource value: 0x7f020112
-			public const int notification_tile_bg = 2130837778;
-			
-			// aapt resource value: 0x7f020113
-			public const int notify_panel_notification_icon_bg = 2130837779;
-			
-			// aapt resource value: 0x7f020114
-			public const int pass_recovery_bg = 2130837780;
-			
-			// aapt resource value: 0x7f020115
-			public const int pass_recovery_bg_tablet = 2130837781;
-			
-			// aapt resource value: 0x7f020116
-			public const int product_item_0 = 2130837782;
-			
-			// aapt resource value: 0x7f020117
-			public const int product_item_1 = 2130837783;
-			
-			// aapt resource value: 0x7f020118
-			public const int product_item_2 = 2130837784;
-			
-			// aapt resource value: 0x7f020119
-			public const int product_item_3 = 2130837785;
-			
-			// aapt resource value: 0x7f02011a
-			public const int product_item_4 = 2130837786;
-			
-			// aapt resource value: 0x7f02011b
-			public const int product_item_5 = 2130837787;
-			
-			// aapt resource value: 0x7f02011c
-			public const int product_item_6 = 2130837788;
-			
-			// aapt resource value: 0x7f02011d
-			public const int product_item_7 = 2130837789;
-			
-			// aapt resource value: 0x7f02011e
-			public const int signup_bg = 2130837790;
-			
-			// aapt resource value: 0x7f02011f
-			public const int signup_bg_tablet = 2130837791;
-			
-			// aapt resource value: 0x7f020120
-			public const int social_header_bg_0 = 2130837792;
-			
-			// aapt resource value: 0x7f020121
-			public const int social_header_bg_1 = 2130837793;
-			
-			// aapt resource value: 0x7f020122
-			public const int splash = 2130837794;
-			
-			// aapt resource value: 0x7f020123
-			public const int splash_drawable = 2130837795;
-			
-			// aapt resource value: 0x7f020124
-			public const int user_profile_0 = 2130837796;
-			
-			// aapt resource value: 0x7f020125
-			public const int user_profile_1 = 2130837797;
-			
-			// aapt resource value: 0x7f020126
-			public const int walkthrough_generic_phone_bg = 2130837798;
-			
-			// aapt resource value: 0x7f020127
-			public const int welcome_bg = 2130837799;
+			public const int notification_icon_background = 2130837776;
 			
 			// aapt resource value: 0x7f020128
-			public const int welcome_bg_tablet = 2130837800;
+			public const int notification_template_icon_bg = 2130837800;
+			
+			// aapt resource value: 0x7f020129
+			public const int notification_template_icon_low_bg = 2130837801;
+			
+			// aapt resource value: 0x7f020111
+			public const int notification_tile_bg = 2130837777;
+			
+			// aapt resource value: 0x7f020112
+			public const int notify_panel_notification_icon_bg = 2130837778;
+			
+			// aapt resource value: 0x7f020113
+			public const int pass_recovery_bg = 2130837779;
+			
+			// aapt resource value: 0x7f020114
+			public const int pass_recovery_bg_tablet = 2130837780;
+			
+			// aapt resource value: 0x7f020115
+			public const int product_item_0 = 2130837781;
+			
+			// aapt resource value: 0x7f020116
+			public const int product_item_1 = 2130837782;
+			
+			// aapt resource value: 0x7f020117
+			public const int product_item_2 = 2130837783;
+			
+			// aapt resource value: 0x7f020118
+			public const int product_item_3 = 2130837784;
+			
+			// aapt resource value: 0x7f020119
+			public const int product_item_4 = 2130837785;
+			
+			// aapt resource value: 0x7f02011a
+			public const int product_item_5 = 2130837786;
+			
+			// aapt resource value: 0x7f02011b
+			public const int product_item_6 = 2130837787;
+			
+			// aapt resource value: 0x7f02011c
+			public const int product_item_7 = 2130837788;
+			
+			// aapt resource value: 0x7f02011d
+			public const int signup_bg = 2130837789;
+			
+			// aapt resource value: 0x7f02011e
+			public const int signup_bg_tablet = 2130837790;
+			
+			// aapt resource value: 0x7f02011f
+			public const int social_header_bg_0 = 2130837791;
+			
+			// aapt resource value: 0x7f020120
+			public const int social_header_bg_1 = 2130837792;
+			
+			// aapt resource value: 0x7f020121
+			public const int splash = 2130837793;
+			
+			// aapt resource value: 0x7f020122
+			public const int splash_drawable = 2130837794;
+			
+			// aapt resource value: 0x7f020123
+			public const int user_profile_0 = 2130837795;
+			
+			// aapt resource value: 0x7f020124
+			public const int user_profile_1 = 2130837796;
+			
+			// aapt resource value: 0x7f020125
+			public const int walkthrough_generic_phone_bg = 2130837797;
+			
+			// aapt resource value: 0x7f020126
+			public const int welcome_bg = 2130837798;
+			
+			// aapt resource value: 0x7f020127
+			public const int welcome_bg_tablet = 2130837799;
 			
 			static Drawable()
 			{
@@ -8405,8 +6649,8 @@ namespace junming.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f0800a8
-			public const int action0 = 2131230888;
+			// aapt resource value: 0x7f08009f
+			public const int action0 = 2131230879;
 			
 			// aapt resource value: 0x7f080067
 			public const int action_bar = 2131230823;
@@ -8429,17 +6673,17 @@ namespace junming.Droid
 			// aapt resource value: 0x7f080044
 			public const int action_bar_title = 2131230788;
 			
-			// aapt resource value: 0x7f0800a5
-			public const int action_container = 2131230885;
+			// aapt resource value: 0x7f08009c
+			public const int action_container = 2131230876;
 			
 			// aapt resource value: 0x7f080068
 			public const int action_context_bar = 2131230824;
 			
-			// aapt resource value: 0x7f0800ac
-			public const int action_divider = 2131230892;
+			// aapt resource value: 0x7f0800a3
+			public const int action_divider = 2131230883;
 			
-			// aapt resource value: 0x7f0800a6
-			public const int action_image = 2131230886;
+			// aapt resource value: 0x7f08009d
+			public const int action_image = 2131230877;
 			
 			// aapt resource value: 0x7f080003
 			public const int action_menu_divider = 2131230723;
@@ -8456,11 +6700,11 @@ namespace junming.Droid
 			// aapt resource value: 0x7f080046
 			public const int action_mode_close_button = 2131230790;
 			
-			// aapt resource value: 0x7f0800a7
-			public const int action_text = 2131230887;
+			// aapt resource value: 0x7f08009e
+			public const int action_text = 2131230878;
 			
-			// aapt resource value: 0x7f0800b5
-			public const int actions = 2131230901;
+			// aapt resource value: 0x7f0800ac
+			public const int actions = 2131230892;
 			
 			// aapt resource value: 0x7f080047
 			public const int activity_chooser_view_content = 2131230791;
@@ -8480,33 +6724,6 @@ namespace junming.Droid
 			// aapt resource value: 0x7f080030
 			public const int auto = 2131230768;
 			
-			// aapt resource value: 0x7f08007a
-			public const int bb_bottom_bar_background_overlay = 2131230842;
-			
-			// aapt resource value: 0x7f080079
-			public const int bb_bottom_bar_background_view = 2131230841;
-			
-			// aapt resource value: 0x7f08007d
-			public const int bb_bottom_bar_icon = 2131230845;
-			
-			// aapt resource value: 0x7f08007b
-			public const int bb_bottom_bar_item_container = 2131230843;
-			
-			// aapt resource value: 0x7f080077
-			public const int bb_bottom_bar_outer_container = 2131230839;
-			
-			// aapt resource value: 0x7f080078
-			public const int bb_bottom_bar_shadow = 2131230840;
-			
-			// aapt resource value: 0x7f08007e
-			public const int bb_bottom_bar_title = 2131230846;
-			
-			// aapt resource value: 0x7f08007c
-			public const int bb_tablet_right_border = 2131230844;
-			
-			// aapt resource value: 0x7f080076
-			public const int bb_user_content_container = 2131230838;
-			
 			// aapt resource value: 0x7f080021
 			public const int beginning = 2131230753;
 			
@@ -8516,8 +6733,8 @@ namespace junming.Droid
 			// aapt resource value: 0x7f08004e
 			public const int buttonPanel = 2131230798;
 			
-			// aapt resource value: 0x7f0800a9
-			public const int cancel_action = 2131230889;
+			// aapt resource value: 0x7f0800a0
+			public const int cancel_action = 2131230880;
 			
 			// aapt resource value: 0x7f080031
 			public const int center = 2131230769;
@@ -8531,8 +6748,8 @@ namespace junming.Droid
 			// aapt resource value: 0x7f08005e
 			public const int checkbox = 2131230814;
 			
-			// aapt resource value: 0x7f0800b1
-			public const int chronometer = 2131230897;
+			// aapt resource value: 0x7f0800a8
+			public const int chronometer = 2131230888;
 			
 			// aapt resource value: 0x7f08003a
 			public const int clip_horizontal = 2131230778;
@@ -8558,20 +6775,20 @@ namespace junming.Droid
 			// aapt resource value: 0x7f08004a
 			public const int default_activity_button = 2131230794;
 			
-			// aapt resource value: 0x7f080082
-			public const int design_bottom_sheet = 2131230850;
+			// aapt resource value: 0x7f080079
+			public const int design_bottom_sheet = 2131230841;
 			
-			// aapt resource value: 0x7f080089
-			public const int design_menu_item_action_area = 2131230857;
+			// aapt resource value: 0x7f080080
+			public const int design_menu_item_action_area = 2131230848;
 			
-			// aapt resource value: 0x7f080088
-			public const int design_menu_item_action_area_stub = 2131230856;
+			// aapt resource value: 0x7f08007f
+			public const int design_menu_item_action_area_stub = 2131230847;
 			
-			// aapt resource value: 0x7f080087
-			public const int design_menu_item_text = 2131230855;
+			// aapt resource value: 0x7f08007e
+			public const int design_menu_item_text = 2131230846;
 			
-			// aapt resource value: 0x7f080086
-			public const int design_navigation_view = 2131230854;
+			// aapt resource value: 0x7f08007d
+			public const int design_navigation_view = 2131230845;
 			
 			// aapt resource value: 0x7f080013
 			public const int disableHome = 2131230739;
@@ -8582,8 +6799,8 @@ namespace junming.Droid
 			// aapt resource value: 0x7f080022
 			public const int end = 2131230754;
 			
-			// aapt resource value: 0x7f0800bb
-			public const int end_padder = 2131230907;
+			// aapt resource value: 0x7f0800b2
+			public const int end_padder = 2131230898;
 			
 			// aapt resource value: 0x7f08002b
 			public const int enterAlways = 2131230763;
@@ -8621,8 +6838,8 @@ namespace junming.Droid
 			// aapt resource value: 0x7f08004c
 			public const int icon = 2131230796;
 			
-			// aapt resource value: 0x7f0800b6
-			public const int icon_group = 2131230902;
+			// aapt resource value: 0x7f0800ad
+			public const int icon_group = 2131230893;
 			
 			// aapt resource value: 0x7f080026
 			public const int ifRoom = 2131230758;
@@ -8630,23 +6847,23 @@ namespace junming.Droid
 			// aapt resource value: 0x7f080049
 			public const int image = 2131230793;
 			
-			// aapt resource value: 0x7f0800b2
-			public const int info = 2131230898;
+			// aapt resource value: 0x7f0800a9
+			public const int info = 2131230889;
 			
 			// aapt resource value: 0x7f080000
 			public const int item_touch_helper_previous_elevation = 2131230720;
 			
-			// aapt resource value: 0x7f080080
-			public const int largeLabel = 2131230848;
+			// aapt resource value: 0x7f080077
+			public const int largeLabel = 2131230839;
 			
 			// aapt resource value: 0x7f080035
 			public const int left = 2131230773;
 			
-			// aapt resource value: 0x7f0800b7
-			public const int line1 = 2131230903;
+			// aapt resource value: 0x7f0800ae
+			public const int line1 = 2131230894;
 			
-			// aapt resource value: 0x7f0800b9
-			public const int line3 = 2131230905;
+			// aapt resource value: 0x7f0800b0
+			public const int line3 = 2131230896;
 			
 			// aapt resource value: 0x7f080010
 			public const int listMode = 2131230736;
@@ -8657,11 +6874,11 @@ namespace junming.Droid
 			// aapt resource value: 0x7f08000f
 			public const int lottie_layer_name = 2131230735;
 			
-			// aapt resource value: 0x7f0800bf
-			public const int masked = 2131230911;
+			// aapt resource value: 0x7f0800b6
+			public const int masked = 2131230902;
 			
-			// aapt resource value: 0x7f0800ab
-			public const int media_actions = 2131230891;
+			// aapt resource value: 0x7f0800a2
+			public const int media_actions = 2131230882;
 			
 			// aapt resource value: 0x7f080023
 			public const int middle = 2131230755;
@@ -8669,86 +6886,86 @@ namespace junming.Droid
 			// aapt resource value: 0x7f08003f
 			public const int mini = 2131230783;
 			
-			// aapt resource value: 0x7f080097
-			public const int mr_art = 2131230871;
-			
-			// aapt resource value: 0x7f08008c
-			public const int mr_chooser_list = 2131230860;
-			
-			// aapt resource value: 0x7f08008f
-			public const int mr_chooser_route_desc = 2131230863;
-			
-			// aapt resource value: 0x7f08008d
-			public const int mr_chooser_route_icon = 2131230861;
-			
 			// aapt resource value: 0x7f08008e
-			public const int mr_chooser_route_name = 2131230862;
+			public const int mr_art = 2131230862;
+			
+			// aapt resource value: 0x7f080083
+			public const int mr_chooser_list = 2131230851;
+			
+			// aapt resource value: 0x7f080086
+			public const int mr_chooser_route_desc = 2131230854;
+			
+			// aapt resource value: 0x7f080084
+			public const int mr_chooser_route_icon = 2131230852;
+			
+			// aapt resource value: 0x7f080085
+			public const int mr_chooser_route_name = 2131230853;
+			
+			// aapt resource value: 0x7f080082
+			public const int mr_chooser_title = 2131230850;
 			
 			// aapt resource value: 0x7f08008b
-			public const int mr_chooser_title = 2131230859;
-			
-			// aapt resource value: 0x7f080094
-			public const int mr_close = 2131230868;
-			
-			// aapt resource value: 0x7f08009a
-			public const int mr_control_divider = 2131230874;
-			
-			// aapt resource value: 0x7f0800a0
-			public const int mr_control_playback_ctrl = 2131230880;
-			
-			// aapt resource value: 0x7f0800a3
-			public const int mr_control_subtitle = 2131230883;
-			
-			// aapt resource value: 0x7f0800a2
-			public const int mr_control_title = 2131230882;
-			
-			// aapt resource value: 0x7f0800a1
-			public const int mr_control_title_container = 2131230881;
-			
-			// aapt resource value: 0x7f080095
-			public const int mr_custom_control = 2131230869;
-			
-			// aapt resource value: 0x7f080096
-			public const int mr_default_control = 2131230870;
+			public const int mr_close = 2131230859;
 			
 			// aapt resource value: 0x7f080091
-			public const int mr_dialog_area = 2131230865;
+			public const int mr_control_divider = 2131230865;
 			
-			// aapt resource value: 0x7f080090
-			public const int mr_expandable_area = 2131230864;
+			// aapt resource value: 0x7f080097
+			public const int mr_control_playback_ctrl = 2131230871;
 			
-			// aapt resource value: 0x7f0800a4
-			public const int mr_group_expand_collapse = 2131230884;
-			
-			// aapt resource value: 0x7f080098
-			public const int mr_media_main_control = 2131230872;
-			
-			// aapt resource value: 0x7f080093
-			public const int mr_name = 2131230867;
+			// aapt resource value: 0x7f08009a
+			public const int mr_control_subtitle = 2131230874;
 			
 			// aapt resource value: 0x7f080099
-			public const int mr_playback_control = 2131230873;
+			public const int mr_control_title = 2131230873;
 			
-			// aapt resource value: 0x7f080092
-			public const int mr_title_bar = 2131230866;
+			// aapt resource value: 0x7f080098
+			public const int mr_control_title_container = 2131230872;
+			
+			// aapt resource value: 0x7f08008c
+			public const int mr_custom_control = 2131230860;
+			
+			// aapt resource value: 0x7f08008d
+			public const int mr_default_control = 2131230861;
+			
+			// aapt resource value: 0x7f080088
+			public const int mr_dialog_area = 2131230856;
+			
+			// aapt resource value: 0x7f080087
+			public const int mr_expandable_area = 2131230855;
 			
 			// aapt resource value: 0x7f08009b
-			public const int mr_volume_control = 2131230875;
+			public const int mr_group_expand_collapse = 2131230875;
 			
-			// aapt resource value: 0x7f08009c
-			public const int mr_volume_group_list = 2131230876;
+			// aapt resource value: 0x7f08008f
+			public const int mr_media_main_control = 2131230863;
 			
-			// aapt resource value: 0x7f08009e
-			public const int mr_volume_item_icon = 2131230878;
+			// aapt resource value: 0x7f08008a
+			public const int mr_name = 2131230858;
 			
-			// aapt resource value: 0x7f08009f
-			public const int mr_volume_slider = 2131230879;
+			// aapt resource value: 0x7f080090
+			public const int mr_playback_control = 2131230864;
+			
+			// aapt resource value: 0x7f080089
+			public const int mr_title_bar = 2131230857;
+			
+			// aapt resource value: 0x7f080092
+			public const int mr_volume_control = 2131230866;
+			
+			// aapt resource value: 0x7f080093
+			public const int mr_volume_group_list = 2131230867;
+			
+			// aapt resource value: 0x7f080095
+			public const int mr_volume_item_icon = 2131230869;
+			
+			// aapt resource value: 0x7f080096
+			public const int mr_volume_slider = 2131230870;
 			
 			// aapt resource value: 0x7f08001b
 			public const int multiply = 2131230747;
 			
-			// aapt resource value: 0x7f080085
-			public const int navigation_header_container = 2131230853;
+			// aapt resource value: 0x7f08007c
+			public const int navigation_header_container = 2131230844;
 			
 			// aapt resource value: 0x7f080027
 			public const int never = 2131230759;
@@ -8759,14 +6976,14 @@ namespace junming.Droid
 			// aapt resource value: 0x7f080011
 			public const int normal = 2131230737;
 			
-			// aapt resource value: 0x7f0800b4
-			public const int notification_background = 2131230900;
+			// aapt resource value: 0x7f0800ab
+			public const int notification_background = 2131230891;
 			
-			// aapt resource value: 0x7f0800ae
-			public const int notification_main_column = 2131230894;
+			// aapt resource value: 0x7f0800a5
+			public const int notification_main_column = 2131230885;
 			
-			// aapt resource value: 0x7f0800ad
-			public const int notification_main_column_container = 2131230893;
+			// aapt resource value: 0x7f0800a4
+			public const int notification_main_column_container = 2131230884;
 			
 			// aapt resource value: 0x7f080038
 			public const int parallax = 2131230776;
@@ -8789,11 +7006,11 @@ namespace junming.Droid
 			// aapt resource value: 0x7f080036
 			public const int right = 2131230774;
 			
-			// aapt resource value: 0x7f0800b3
-			public const int right_icon = 2131230899;
+			// aapt resource value: 0x7f0800aa
+			public const int right_icon = 2131230890;
 			
-			// aapt resource value: 0x7f0800af
-			public const int right_side = 2131230895;
+			// aapt resource value: 0x7f0800a6
+			public const int right_side = 2131230886;
 			
 			// aapt resource value: 0x7f08001c
 			public const int screen = 2131230748;
@@ -8858,17 +7075,17 @@ namespace junming.Droid
 			// aapt resource value: 0x7f080018
 			public const int showTitle = 2131230744;
 			
-			// aapt resource value: 0x7f0800bc
-			public const int sliding_tabs = 2131230908;
+			// aapt resource value: 0x7f0800b3
+			public const int sliding_tabs = 2131230899;
 			
-			// aapt resource value: 0x7f08007f
-			public const int smallLabel = 2131230847;
+			// aapt resource value: 0x7f080076
+			public const int smallLabel = 2131230838;
 			
-			// aapt resource value: 0x7f080084
-			public const int snackbar_action = 2131230852;
+			// aapt resource value: 0x7f08007b
+			public const int snackbar_action = 2131230843;
 			
-			// aapt resource value: 0x7f080083
-			public const int snackbar_text = 2131230851;
+			// aapt resource value: 0x7f08007a
+			public const int snackbar_text = 2131230842;
 			
 			// aapt resource value: 0x7f08002f
 			public const int snap = 2131230767;
@@ -8891,8 +7108,8 @@ namespace junming.Droid
 			// aapt resource value: 0x7f080037
 			public const int start = 2131230775;
 			
-			// aapt resource value: 0x7f0800aa
-			public const int status_bar_latest_event_content = 2131230890;
+			// aapt resource value: 0x7f0800a1
+			public const int status_bar_latest_event_content = 2131230881;
 			
 			// aapt resource value: 0x7f080042
 			public const int strong = 2131230786;
@@ -8906,11 +7123,11 @@ namespace junming.Droid
 			// aapt resource value: 0x7f080012
 			public const int tabMode = 2131230738;
 			
-			// aapt resource value: 0x7f0800ba
-			public const int text = 2131230906;
+			// aapt resource value: 0x7f0800b1
+			public const int text = 2131230897;
 			
-			// aapt resource value: 0x7f0800b8
-			public const int text2 = 2131230904;
+			// aapt resource value: 0x7f0800af
+			public const int text2 = 2131230895;
 			
 			// aapt resource value: 0x7f080055
 			public const int textSpacerNoButtons = 2131230805;
@@ -8918,8 +7135,8 @@ namespace junming.Droid
 			// aapt resource value: 0x7f080054
 			public const int textSpacerNoTitle = 2131230804;
 			
-			// aapt resource value: 0x7f08008a
-			public const int text_input_password_toggle = 2131230858;
+			// aapt resource value: 0x7f080081
+			public const int text_input_password_toggle = 2131230849;
 			
 			// aapt resource value: 0x7f08000c
 			public const int textinput_counter = 2131230732;
@@ -8927,8 +7144,8 @@ namespace junming.Droid
 			// aapt resource value: 0x7f08000d
 			public const int textinput_error = 2131230733;
 			
-			// aapt resource value: 0x7f0800b0
-			public const int time = 2131230896;
+			// aapt resource value: 0x7f0800a7
+			public const int time = 2131230887;
 			
 			// aapt resource value: 0x7f08004d
 			public const int title = 2131230797;
@@ -8939,8 +7156,8 @@ namespace junming.Droid
 			// aapt resource value: 0x7f08005a
 			public const int title_template = 2131230810;
 			
-			// aapt resource value: 0x7f0800bd
-			public const int toolbar = 2131230909;
+			// aapt resource value: 0x7f0800b4
+			public const int toolbar = 2131230900;
 			
 			// aapt resource value: 0x7f08002a
 			public const int top = 2131230762;
@@ -8948,8 +7165,8 @@ namespace junming.Droid
 			// aapt resource value: 0x7f080059
 			public const int topPanel = 2131230809;
 			
-			// aapt resource value: 0x7f080081
-			public const int touch_outside = 2131230849;
+			// aapt resource value: 0x7f080078
+			public const int touch_outside = 2131230840;
 			
 			// aapt resource value: 0x7f08000a
 			public const int transition_current_scene = 2131230730;
@@ -8966,11 +7183,11 @@ namespace junming.Droid
 			// aapt resource value: 0x7f08000e
 			public const int view_offset_helper = 2131230734;
 			
-			// aapt resource value: 0x7f0800be
-			public const int visible = 2131230910;
+			// aapt resource value: 0x7f0800b5
+			public const int visible = 2131230901;
 			
-			// aapt resource value: 0x7f08009d
-			public const int volume_item_container = 2131230877;
+			// aapt resource value: 0x7f080094
+			public const int volume_item_container = 2131230868;
 			
 			// aapt resource value: 0x7f080043
 			public const int weak = 2131230787;
@@ -9144,142 +7361,127 @@ namespace junming.Droid
 			public const int abc_select_dialog_material = 2130903066;
 			
 			// aapt resource value: 0x7f03001b
-			public const int bb_bottom_bar_item_container = 2130903067;
+			public const int design_bottom_navigation_item = 2130903067;
 			
 			// aapt resource value: 0x7f03001c
-			public const int bb_bottom_bar_item_container_tablet = 2130903068;
+			public const int design_bottom_sheet_dialog = 2130903068;
 			
 			// aapt resource value: 0x7f03001d
-			public const int bb_bottom_bar_item_fixed = 2130903069;
+			public const int design_layout_snackbar = 2130903069;
 			
 			// aapt resource value: 0x7f03001e
-			public const int bb_bottom_bar_item_fixed_tablet = 2130903070;
+			public const int design_layout_snackbar_include = 2130903070;
 			
 			// aapt resource value: 0x7f03001f
-			public const int bb_bottom_bar_item_shifting = 2130903071;
+			public const int design_layout_tab_icon = 2130903071;
 			
 			// aapt resource value: 0x7f030020
-			public const int design_bottom_navigation_item = 2130903072;
+			public const int design_layout_tab_text = 2130903072;
 			
 			// aapt resource value: 0x7f030021
-			public const int design_bottom_sheet_dialog = 2130903073;
+			public const int design_menu_item_action_area = 2130903073;
 			
 			// aapt resource value: 0x7f030022
-			public const int design_layout_snackbar = 2130903074;
+			public const int design_navigation_item = 2130903074;
 			
 			// aapt resource value: 0x7f030023
-			public const int design_layout_snackbar_include = 2130903075;
+			public const int design_navigation_item_header = 2130903075;
 			
 			// aapt resource value: 0x7f030024
-			public const int design_layout_tab_icon = 2130903076;
+			public const int design_navigation_item_separator = 2130903076;
 			
 			// aapt resource value: 0x7f030025
-			public const int design_layout_tab_text = 2130903077;
+			public const int design_navigation_item_subheader = 2130903077;
 			
 			// aapt resource value: 0x7f030026
-			public const int design_menu_item_action_area = 2130903078;
+			public const int design_navigation_menu = 2130903078;
 			
 			// aapt resource value: 0x7f030027
-			public const int design_navigation_item = 2130903079;
+			public const int design_navigation_menu_item = 2130903079;
 			
 			// aapt resource value: 0x7f030028
-			public const int design_navigation_item_header = 2130903080;
+			public const int design_text_input_password_icon = 2130903080;
 			
 			// aapt resource value: 0x7f030029
-			public const int design_navigation_item_separator = 2130903081;
+			public const int mr_chooser_dialog = 2130903081;
 			
 			// aapt resource value: 0x7f03002a
-			public const int design_navigation_item_subheader = 2130903082;
+			public const int mr_chooser_list_item = 2130903082;
 			
 			// aapt resource value: 0x7f03002b
-			public const int design_navigation_menu = 2130903083;
+			public const int mr_controller_material_dialog_b = 2130903083;
 			
 			// aapt resource value: 0x7f03002c
-			public const int design_navigation_menu_item = 2130903084;
+			public const int mr_controller_volume_item = 2130903084;
 			
 			// aapt resource value: 0x7f03002d
-			public const int design_text_input_password_icon = 2130903085;
+			public const int mr_playback_control = 2130903085;
 			
 			// aapt resource value: 0x7f03002e
-			public const int mr_chooser_dialog = 2130903086;
+			public const int mr_volume_control = 2130903086;
 			
 			// aapt resource value: 0x7f03002f
-			public const int mr_chooser_list_item = 2130903087;
+			public const int notification_action = 2130903087;
 			
 			// aapt resource value: 0x7f030030
-			public const int mr_controller_material_dialog_b = 2130903088;
+			public const int notification_action_tombstone = 2130903088;
 			
 			// aapt resource value: 0x7f030031
-			public const int mr_controller_volume_item = 2130903089;
+			public const int notification_media_action = 2130903089;
 			
 			// aapt resource value: 0x7f030032
-			public const int mr_playback_control = 2130903090;
+			public const int notification_media_cancel_action = 2130903090;
 			
 			// aapt resource value: 0x7f030033
-			public const int mr_volume_control = 2130903091;
+			public const int notification_template_big_media = 2130903091;
 			
 			// aapt resource value: 0x7f030034
-			public const int notification_action = 2130903092;
+			public const int notification_template_big_media_custom = 2130903092;
 			
 			// aapt resource value: 0x7f030035
-			public const int notification_action_tombstone = 2130903093;
+			public const int notification_template_big_media_narrow = 2130903093;
 			
 			// aapt resource value: 0x7f030036
-			public const int notification_media_action = 2130903094;
+			public const int notification_template_big_media_narrow_custom = 2130903094;
 			
 			// aapt resource value: 0x7f030037
-			public const int notification_media_cancel_action = 2130903095;
+			public const int notification_template_custom_big = 2130903095;
 			
 			// aapt resource value: 0x7f030038
-			public const int notification_template_big_media = 2130903096;
+			public const int notification_template_icon_group = 2130903096;
 			
 			// aapt resource value: 0x7f030039
-			public const int notification_template_big_media_custom = 2130903097;
+			public const int notification_template_lines_media = 2130903097;
 			
 			// aapt resource value: 0x7f03003a
-			public const int notification_template_big_media_narrow = 2130903098;
+			public const int notification_template_media = 2130903098;
 			
 			// aapt resource value: 0x7f03003b
-			public const int notification_template_big_media_narrow_custom = 2130903099;
+			public const int notification_template_media_custom = 2130903099;
 			
 			// aapt resource value: 0x7f03003c
-			public const int notification_template_custom_big = 2130903100;
+			public const int notification_template_part_chronometer = 2130903100;
 			
 			// aapt resource value: 0x7f03003d
-			public const int notification_template_icon_group = 2130903101;
+			public const int notification_template_part_time = 2130903101;
 			
 			// aapt resource value: 0x7f03003e
-			public const int notification_template_lines_media = 2130903102;
+			public const int select_dialog_item_material = 2130903102;
 			
 			// aapt resource value: 0x7f03003f
-			public const int notification_template_media = 2130903103;
+			public const int select_dialog_multichoice_material = 2130903103;
 			
 			// aapt resource value: 0x7f030040
-			public const int notification_template_media_custom = 2130903104;
+			public const int select_dialog_singlechoice_material = 2130903104;
 			
 			// aapt resource value: 0x7f030041
-			public const int notification_template_part_chronometer = 2130903105;
+			public const int support_simple_spinner_dropdown_item = 2130903105;
 			
 			// aapt resource value: 0x7f030042
-			public const int notification_template_part_time = 2130903106;
+			public const int Tabs = 2130903106;
 			
 			// aapt resource value: 0x7f030043
-			public const int select_dialog_item_material = 2130903107;
-			
-			// aapt resource value: 0x7f030044
-			public const int select_dialog_multichoice_material = 2130903108;
-			
-			// aapt resource value: 0x7f030045
-			public const int select_dialog_singlechoice_material = 2130903109;
-			
-			// aapt resource value: 0x7f030046
-			public const int support_simple_spinner_dropdown_item = 2130903110;
-			
-			// aapt resource value: 0x7f030047
-			public const int Tabs = 2130903111;
-			
-			// aapt resource value: 0x7f030048
-			public const int Toolbar = 2130903112;
+			public const int Toolbar = 2130903107;
 			
 			static Layout()
 			{
@@ -9392,9 +7594,6 @@ namespace junming.Droid
 			
 			// aapt resource value: 0x7f090027
 			public const int abc_toolbar_collapse_description = 2131296295;
-			
-			// aapt resource value: 0x7f090041
-			public const int app_name = 2131296321;
 			
 			// aapt resource value: 0x7f090036
 			public const int appbar_scrolling_view_behavior = 2131296310;
@@ -9520,44 +7719,20 @@ namespace junming.Droid
 			// aapt resource value: 0x7f0b0170
 			public const int Animation_Design_BottomSheetDialog = 2131427696;
 			
-			// aapt resource value: 0x7f0b0192
-			public const int AppTheme = 2131427730;
-			
-			// aapt resource value: 0x7f0b019a
-			public const int AppTheme_AlertDialog = 2131427738;
-			
-			// aapt resource value: 0x7f0b0194
-			public const int AppTheme_Dialog = 2131427732;
-			
-			// aapt resource value: 0x7f0b0199
-			public const int AppTheme_DialogTitleTextStyle = 2131427737;
-			
-			// aapt resource value: 0x7f0b0193
-			public const int AppTheme_DrawerArrowStyle = 2131427731;
-			
-			// aapt resource value: 0x7f0b0190
-			public const int BB_BottomBarBadge_Text = 2131427728;
-			
-			// aapt resource value: 0x7f0b0189
-			public const int BB_BottomBarItem = 2131427721;
-			
 			// aapt resource value: 0x7f0b018a
-			public const int BB_BottomBarItem_Fixed = 2131427722;
+			public const int AppTheme = 2131427722;
+			
+			// aapt resource value: 0x7f0b0192
+			public const int AppTheme_AlertDialog = 2131427730;
 			
 			// aapt resource value: 0x7f0b018c
-			public const int BB_BottomBarItem_Fixed_TitleAppearance = 2131427724;
+			public const int AppTheme_Dialog = 2131427724;
 			
-			// aapt resource value: 0x7f0b018d
-			public const int BB_BottomBarItem_Shifting = 2131427725;
-			
-			// aapt resource value: 0x7f0b018e
-			public const int BB_BottomBarItem_Shifting_TitleAppearance = 2131427726;
-			
-			// aapt resource value: 0x7f0b018f
-			public const int BB_BottomBarItem_Tablet = 2131427727;
+			// aapt resource value: 0x7f0b0191
+			public const int AppTheme_DialogTitleTextStyle = 2131427729;
 			
 			// aapt resource value: 0x7f0b018b
-			public const int BB_BottomBarItem_TitleStyle = 2131427723;
+			public const int AppTheme_DrawerArrowStyle = 2131427723;
 			
 			// aapt resource value: 0x7f0b00b2
 			public const int Base_AlertDialog_AppCompat = 2131427506;
@@ -10288,8 +8463,8 @@ namespace junming.Droid
 			// aapt resource value: 0x7f0b010d
 			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131427597;
 			
-			// aapt resource value: 0x7f0b0198
-			public const int TextAppearance_AppTheme_DialogButton = 2131427736;
+			// aapt resource value: 0x7f0b0190
+			public const int TextAppearance_AppTheme_DialogButton = 2131427728;
 			
 			// aapt resource value: 0x7f0b0173
 			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131427699;
@@ -10438,8 +8613,8 @@ namespace junming.Droid
 			// aapt resource value: 0x7f0b0006
 			public const int Theme_MediaRouter_LightControlPanel = 2131427334;
 			
-			// aapt resource value: 0x7f0b0191
-			public const int Theme_Splash = 2131427729;
+			// aapt resource value: 0x7f0b0189
+			public const int Theme_Splash = 2131427721;
 			
 			// aapt resource value: 0x7f0b011f
 			public const int ThemeOverlay_AppCompat = 2131427615;
@@ -10690,14 +8865,14 @@ namespace junming.Droid
 			// aapt resource value: 0x7f0b016d
 			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131427693;
 			
-			// aapt resource value: 0x7f0b0195
-			public const int Widget_AppTheme_Button_Borderless = 2131427733;
+			// aapt resource value: 0x7f0b018d
+			public const int Widget_AppTheme_Button_Borderless = 2131427725;
 			
-			// aapt resource value: 0x7f0b0197
-			public const int Widget_AppTheme_Picker = 2131427735;
+			// aapt resource value: 0x7f0b018f
+			public const int Widget_AppTheme_Picker = 2131427727;
 			
-			// aapt resource value: 0x7f0b0196
-			public const int Widget_AppTheme_TabLayout = 2131427734;
+			// aapt resource value: 0x7f0b018e
+			public const int Widget_AppTheme_TabLayout = 2131427726;
 			
 			// aapt resource value: 0x7f0b016f
 			public const int Widget_Design_AppBarLayout = 2131427695;

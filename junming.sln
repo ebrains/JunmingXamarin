@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.15
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "junming", "junming\junming.csproj", "{7041522B-6406-4AA7-8C6D-8AD1661DD392}"
 EndProject
@@ -50,7 +50,6 @@ Global
 		{45DA7B47-C579-4BC1-B1E5-97EEA0C669CD}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
 		{45DA7B47-C579-4BC1-B1E5-97EEA0C669CD}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
 		{45DA7B47-C579-4BC1-B1E5-97EEA0C669CD}.Release|Any CPU.ActiveCfg = Release|iPhone
-		{45DA7B47-C579-4BC1-B1E5-97EEA0C669CD}.Release|Any CPU.Build.0 = Release|iPhone
 		{45DA7B47-C579-4BC1-B1E5-97EEA0C669CD}.Release|iPhone.ActiveCfg = Release|iPhone
 		{45DA7B47-C579-4BC1-B1E5-97EEA0C669CD}.Release|iPhone.Build.0 = Release|iPhone
 		{45DA7B47-C579-4BC1-B1E5-97EEA0C669CD}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator

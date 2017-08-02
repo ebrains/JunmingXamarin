@@ -12,8 +12,8 @@
         <!---BACKGROUND IMAGE-->
         <Image Style="{StaticResource LoginBackgroundImage}"/>
 
-        <ScrollView
-				Padding="{ StaticResource MainWrapperPadding }">
+        <!--<ScrollView
+				Padding="{ StaticResource MainWrapperPadding }">-->
             <!-- MAIN CONTAINER -->
             <Grid
 					ColumnSpacing="0" 
@@ -177,7 +177,7 @@
                 </StackLayout>
 
             </Grid>
-        </ScrollView>
+        <!--</ScrollView>-->
 
     </Grid>
 </ContentPage>

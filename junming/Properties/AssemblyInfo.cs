@@ -2,6 +2,7 @@ using System.Reflection;
 using Xamarin.Forms.Xaml;
 using junming;
 
+
 [assembly: AssemblyTitle (AssemblyGlobal.ProductLine + " - " + "Grial Xamarin.Forms UIKit")]
 [assembly: AssemblyConfiguration (AssemblyGlobal.Configuration)]
 [assembly: AssemblyCompany (AssemblyGlobal.Company)]
