@@ -76,6 +76,12 @@ namespace junming
             //}
         }
 
+        async void OnSignUpButtonClicked(object sender, EventArgs e)
+        {
+            Navigation.InsertPageBefore(new SignUpPage(), this);
+            await Navigation.PopAsync();
+        }
+
         bool AreCredentialsCorrect(User user)
         {
             return user.Username == "xamarin" && user.Password == "password";

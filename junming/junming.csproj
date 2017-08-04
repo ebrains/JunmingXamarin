@@ -63,10 +63,13 @@
     <Compile Include="Views\Logins\LoginPage.xaml.cs">
       <DependentUpon>LoginPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Views\Navigation\ProductGridItemTemplate.xaml.cs">
+    <Compile Include="Views\Logins\SignUpPage.xaml.cs">
+      <DependentUpon>SignUpPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Market\ProductGridItemTemplate.xaml.cs">
       <DependentUpon>ProductGridItemTemplate.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Views\Navigation\ProductItemViewPage.xaml.cs">
+    <Compile Include="Views\Market\ProductItemViewPage.xaml.cs">
       <DependentUpon>ProductItemViewPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\Navigation\Control.xaml.cs">
@@ -81,10 +84,10 @@
     <Compile Include="Views\Navigation\LandRental.xaml.cs">
       <DependentUpon>LandRental.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Views\Navigation\Market.xaml.cs">
+    <Compile Include="Views\Market\Market.xaml.cs">
       <DependentUpon>Market.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Views\Navigation\ProductOrder.xaml.cs">
+    <Compile Include="Views\Market\ProductOrder.xaml.cs">
       <DependentUpon>ProductOrder.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\Navigation\Profile.xaml.cs">
@@ -210,7 +213,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Views\Navigation\Market.xaml">
+    <EmbeddedResource Include="Views\Market\Market.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
@@ -234,19 +237,25 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Views\Navigation\ProductGridItemTemplate.xaml">
+    <EmbeddedResource Include="Views\Market\ProductGridItemTemplate.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Views\Navigation\ProductItemViewPage.xaml">
+    <EmbeddedResource Include="Views\Market\ProductItemViewPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Views\Navigation\ProductOrder.xaml">
+    <EmbeddedResource Include="Views\Market\ProductOrder.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Views\Logins\SignUpPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>

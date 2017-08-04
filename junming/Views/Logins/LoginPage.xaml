@@ -7,6 +7,9 @@
 	xmlns:artina="clr-namespace:UXDivers.Artina.Shared;assembly=UXDivers.Artina.Shared"
 	xmlns:local="clr-namespace:junming;assembly=junming">
 
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="注册" Clicked="OnSignUpButtonClicked" />
+    </ContentPage.ToolbarItems>
     <!--MAIN CONTAINER-->
     <Grid>
         <!---BACKGROUND IMAGE-->
